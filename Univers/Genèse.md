@@ -1,7 +1,7 @@
 
 ```table-of-contents
 ```
-# ![[carte_v2.png]]
+![[../Illustrations/carte_v2.png]]
 
 # Avant les humains
 
