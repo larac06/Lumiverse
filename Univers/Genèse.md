@@ -7,7 +7,7 @@
 
 ## Titans
 
-Au commencement d’[Ios](Dieux/Ios) furent les titans. Ces créatures immenses modelèrent les continents, scindèrent la terre, inondèrent les océans, déchirèrent les crêtes des montagnes de leurs dents.
+Au commencement d’[Ios](Dieux/Ios.md) furent les titans. Ces créatures immenses modelèrent les continents, scindèrent la terre, inondèrent les océans, déchirèrent les crêtes des montagnes de leurs dents.
 On retrouve encore des traces évidentes de ces événements dans les lacs des montagnes [tenranes](Tenrô.md), larges cicatrices béant dans la roche. Ils semblent aujourd’hui que ces titans soient assoupis, ou tout du moins d’une infinie lenteur à leur tâches : en témoigne des observations indéniables de mouvement du paysage sur des durées longues. Leur règne est estimé à un éon. 
 
 ## Peuples d'antan
