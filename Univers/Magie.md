@@ -3,15 +3,19 @@
 ```table-of-contents
 ```
 
-## Table of contents
-- [Le tissu](#le-tissu)
-- [Les différentes magies](<##Les différentes magies>)
-	- [La magestria, tissage de l'inerte](### La magestria, tissage de l'inerte)
-	- [Le tissage du vivant](#Le tissage du vivant)
-		- [Les sorsangs & l’art du murmure](#Les sorsangs & l’art du murmure)
-		- [Les sorsèves & l’art du bruissement](#Les sorsèves & l’art du bruissement)
-		- [Les aroatis & le doshaï](#Les aroatis & le doshaï)
-		- 
+## Table des matières
+- [Le tissu](#le-tissu) 
+- [Les différentes magies](#les-differentes-magies) 
+	- [La magestria, tissage de l'inerte](#la-magestria-tissage-de-linerte) 
+	- [Le tissage du vivant](#le-tissage-du-vivant) 
+		- [Les sorsangs et l’art du murmure](#les-sorsangs-et-lart-du-murmure) 
+		- [Les sorsèves et l’art du bruissement](#les-sorseves-et-lart-du-bruissement) 
+		- [Les aroatis et le doshaï](#les-aroatis-et-le-doshai)
+	- [Les mystiques](#les-mystiques)
+		- [Les sylithes](#les-sylithes)
+		- [Les delphènes](#les-delphènes)
+		- [Les voyageurs](#les-voyageurs)
+- [L'alchimie et les cristaux](#l-alchimie-et-les-cristaux)
 
 ## Le tissu
 
@@ -19,11 +23,11 @@ Tout s'écoule en un flux, fin et dense comme un fil, qui prend sa source dans l
 
 C’est ce flux qui est à l’origine de toute énergie, de tout phénomènes, de toutes perceptions, de toute vie, de toute âme.
 
-Le tissu n'est pas stable. Non seulement il se coud et se découd en permanence, sans discontinuité, mais il ondule, oscille, au gré des pulsations du vide.
+Le tissu n'est pas fixe. Non seulement il se coud et se découd en permanence, sans discontinuité, mais il ondule, oscille, au gré des pulsations du vide.
 
-Chaque objet, minéral, être, relève d’un tissage différent et mouvant. Les humains sont des pelotes extrêmement complexes, d'organes, de sentiments, changeantes et chaudes, tout comme les animaux.
+Chaque objet, minéral, être, relève d’un tissage différent et mouvant. Les humains sont des pelotes extrêmement complexes, d'organes, de sentiments, changeantes et chaudes, tout comme les animaux. Les objets inertes sont composés de fils dits "froids", plus stables que les fils "chauds" du vivants dont sont faits plantes et animaux.
 
-Bien que les scientifiques ne s'accordent pas sur ce point-là, l'origine de l'Echeveau viendrait de l'Ouest ; d’autres prétendent que celle-ci vient des lunes. Il semblerait effectivement que d'autres brins venus des astres s'y mêlent : ce sont leur lumière qui coule dans les veines des [sylithes](<../Nations non-humaines/Sylithes.md>) et des [tournelunes](<../Bestiaire/Tournelunes.mdr>), mais aussi dans les cristaux des [sorsangs](<../Nations non-humaines/Sorsangs.md>). 
+Bien que les scientifiques ne s'accordent pas sur ce point-là, l'origine de l'Echeveau viendrait de l'Ouest ; d’autres prétendent que celle-ci vient des lunes. Il semblerait effectivement que d'autres brins venus des astres s'y mêlent : ce sont leur lumière qui coule dans les veines des [sylithes](<../Nations non-humaines/Sylithes.md>) et des [tournelunes](<../Bestiaire/Tournelunes.md>), mais aussi dans les cristaux des [sorsangs](<../Nations non-humaines/Sorsangs.md>). 
 
 ## Les différentes magies
 
@@ -48,16 +52,16 @@ Bien que les scientifiques ne s'accordent pas sur ce point-là, l'origine de l'E
 | Description | _Magie des rêves et du sommeil_ | _Magie d'instinct et de volonté_ |
 
 Filiation avec les magies humaines :
-- La thélêmancie et l'oniromancie ont engendré la magie du Voyage.
+- La thélêmancie et l'oniromancie ont engendré la magie des Voyageurs.
 - La thélêmancie et l'hematurgie ont engendré le doshaï des aroatis.
 
 ### La magestria, tissage de l’inerte
 
-Les avelis disposaient de la capacité de toucher aux fils de toute matière inerte, capacité ancêtre de la magestria. Si cette capacité était à l’époque utilisée avec parcimonie, les humains en ayant hérités se sont empressés de la développer autant qu’il le pouvait. Le temps présent est l’âge d’or de la magestria, contrôlée et développée jusqu’à ses sommets par l’humanité.
+Les [avelis](<../../Nations non-humaines/Avelis.md>) manipulaient les fils inertes. Utilisée à l'époque avec parcimonie, cette capacité fut ensuite développée et étudiée autant que possible par les humains en ayant hérités. Le temps présent est l’âge d’or de la magestria, contrôlée et développée jusqu’à ses sommets par l’humanité.
 
-Les mages, pratiquant la magestria, proviennent aujourd’hui majoritairement de descendances des royaumes de occidentaux, où des familles nobles y développent ces compétences avec beaucoup d’ardeur ; c’est un héritage de l’époque d’avant la révolte, où les premières générations d’hybrides vivant aux royaumes faisaient de leur mieux pour cultiver voire égaler les anciens dans leur maîtrise de cette magie. Cependant, disposer du sang adéquat n'implique pas des aptitudes et rares sont les vrais mages talentueux.
+Les mages, pratiquant la magestria, proviennent aujourd’hui majoritairement de descendances des [royaumes occidentaux](<../../Nations humaines/Royaumes occidentaux.md>), où des familles nobles y développent ces compétences avec beaucoup d’ardeur ; c’est un héritage de l’époque d’avant la [révolte](Genèse.md), où les premières générations d’hybrides vivant aux royaumes faisaient de leur mieux pour cultiver voire égaler les anciens dans leur maîtrise de cette magie. Cependant, disposer du sang adéquat ne suffit pas et rares sont les vrais mages talentueux.
 
-Les disciples de la magestria savent démêler et retisser les fils de matière non vivante entre eux, pour transformer par exemple charbon en diamant ou granit en quartz. Tout n'est pas possible : il faut que l'enchevêtrement ne soit pas trop différent, et que la quantité de brins qui le constitue soit similaire. Ils ne traitent qu'avec la matière inerte. Ils peuvent aussi agiter les fils pour augmenter la température d’un objet, émettre de la lumière, etc. Chacun de ces pouvoirs nécessite un apprentissage long et fastidieux et les mages humains n’en maîtrisent généralement qu’un. Leur magie doit respecter au maximum les lois physiques, et ne peut qu’influencer la nature sans la déséquilibrer à trop grande échelle. Comme celle-ci tend à des états stables, si un état instable est forcé par magestria, un contrecoup se fera sentir sous la forme de perturbations physiques ou naturelles (magnétiques ou météorologiques par exemple).
+Les disciples de la magestria savent démêler et nouer les fils froids entre eux, pour transformer par exemple charbon en diamant ou granit en quartz. Tout n'est pas possible : il faut que l'enchevêtrement ne soit pas trop différent, et que la quantité de brins qui le constitue soit similaire. Ils ne traitent qu'avec la matière inerte. Ils peuvent aussi agiter les fils pour augmenter la température d’un objet, émettre de la lumière, etc. Chacun de ces pouvoirs nécessite un apprentissage long et fastidieux et les mages humains n’en maîtrisent généralement qu’un. Leur magie doit respecter au maximum les lois physiques, et ne peut qu’influencer la nature sans la déséquilibrer à trop grande échelle. Comme celle-ci tend à des états stables, si un état instable est forcé par magestria, un contrecoup se fera sentir sous la forme de perturbations physiques ou naturelles (magnétiques ou météorologiques par exemple).
 
 Les mages utilisent le plus souvent des gestes dans l’air pour s’aider à pratiquer leur science, écrivant dans le vide des runes liées à l’effet voulu. Certains murmurent pendant leurs manipulation. Ces gestes les aident à focaliser leur concentration.
 
