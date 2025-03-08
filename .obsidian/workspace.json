@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Genèse.md",
+                "file": "Univers/Magie/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/Le tissu.md",
+                "file": "Univers/Magie/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/Le tissu.md",
+                "file": "Univers/Magie/Magie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aroatis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/Magie/Le tissu.md",
+                "file": "Univers/Magie/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/Magie/Le tissu.md",
+                "file": "Univers/Magie/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/Magie/Le tissu.md"
+                "file": "Univers/Magie/Magie.md"
               }
             }
           }
@@ -184,12 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0495f1abf0ee2a2",
+  "active": "b99d4e9ef0fef827",
   "lastOpenFiles": [
     "Univers/Magie/Aptis.md",
-    "Univers/Magie/Le tissu.md",
-    "Univers/Magie",
     "Univers/Genèse.md",
+    "Univers/Magie/Magie.md",
+    "Univers/Magie",
     "Bestiaire/Aethers.md",
     "Univers/Dieux/Dieux aveugles.md",
     "Nations humaines/Elyon.md",

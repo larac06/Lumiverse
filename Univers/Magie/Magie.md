@@ -1,4 +1,11 @@
 
+
+<details> <summary>
+Table des matières</summary> - [Introduction](#introduction) - [Chapitre 1](#chapitre-1) - [Chapitre 2](#chapitre-2) - [Conclusion](#conclusion) </details>
+
+
+## Le tissu
+
 Tout s'écoule en un flux, fin et dense comme un fil, qui prend sa source dans le brasier d’[Ios](<../Dieux/Ios.md>).  Le flux est si long qu'il s'emmêle, se tisse avec lui-même pour former le monde tel que nous le connaissons : c’est l’Echeveau principal, la Trame essentielle. On peut aussi percevoir la magie d’Ios comme un réseau d’eau dont les brins sont des tuyaux, comme un champ de blé aux filaments entremêlés ou encore comme une immense toile d'araignée. Chaque être ou chose en est alimenté.
 
 C’est ce flux qui est à l’origine de toute énergie, de tout phénomènes, de toutes perceptions, de toute vie, de toute âme.
@@ -9,9 +16,10 @@ Chaque objet, minéral, être, relève d’un tissage différent et mouvant. Les
 
 Bien que les scientifiques ne s'accordent pas sur ce point-là, l'origine de l'Echeveau viendrait de l'Ouest ; d’autres prétendent que celle-ci vient des lunes. Il semblerait effectivement que d'autres brins venus des astres s'y mêlent : ce sont leur lumière qui coule dans les veines des [sylithes](<../Nations non-humaines/Sylithes.md>) et des [tournelunes](<../Bestiaire/Tournelunes.mdr>), mais aussi dans les cristaux des [sorsangs](<../Nations non-humaines/Sorsangs.md>). 
 
-### Les différentes magies
+## Les différentes magies
 
-| Nom de ceux qui pratiquent | Mages |  |  |  |  |
+
+| Nom de ceux qui pratiquent | Mages (Magestria) |  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Origine | **Avelis** |  |  |  |  |
 | Noms des magies | Thermalurgie | Luxalurgie | Fulgalurgie | Rhoelurgie | Protalurgie |
@@ -34,11 +42,9 @@ Filiation avec les magies humaines :
 - La thélêmancie et l'oniromancie ont engendré la magie du Voyage.
 - La thélêmancie et l'hematurgie ont engendré le doshaï des aroatis.
 
-  
- 
-#### La magestria, tissage de l’inerte
+### La magestria, tissage de l’inerte
 
-          Les avelis disposaient de la capacité de toucher aux fils de toute matière inerte, capacité ancêtre de la magestria. Si cette capacité était à l’époque utilisée avec parcimonie, les humains en ayant hérités se sont empressés de la développer autant qu’il le pouvait. Le temps présent est l’âge d’or de la magestria, contrôlée et développée jusqu’à ses sommets par l’humanité.
+Les avelis disposaient de la capacité de toucher aux fils de toute matière inerte, capacité ancêtre de la magestria. Si cette capacité était à l’époque utilisée avec parcimonie, les humains en ayant hérités se sont empressés de la développer autant qu’il le pouvait. Le temps présent est l’âge d’or de la magestria, contrôlée et développée jusqu’à ses sommets par l’humanité.
 
 Les mages, pratiquant la magestria, proviennent aujourd’hui majoritairement de descendances des royaumes de occidentaux, où des familles nobles y développent ces compétences avec beaucoup d’ardeur ; c’est un héritage de l’époque d’avant la révolte, où les premières générations d’hybrides vivant aux royaumes faisaient de leur mieux pour cultiver voire égaler les anciens dans leur maîtrise de cette magie. Cependant, disposer du sang adéquat n'implique pas des aptitudes et rares sont les vrais mages talentueux.
 
