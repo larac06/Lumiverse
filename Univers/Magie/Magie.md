@@ -4,8 +4,8 @@
 ```
 
 ## Table of contents
-- [Le tissu](## Le tissu)
-- [Les différentes magies](## Les différentes magies)
+- [Le tissu](#le-tissu)
+- [Les différentes magies](<##Les différentes magies>)
 	- [La magestria, tissage de l'inerte](### La magestria, tissage de l'inerte)
 	- [Le tissage du vivant](#Le tissage du vivant)
 		- [Les sorsangs & l’art du murmure](#Les sorsangs & l’art du murmure)
