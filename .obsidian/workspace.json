@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4839f43ed2b24915",
+        "id": "beb8dc25a90f3542",
         "type": "tabs",
         "children": [
           {
-            "id": "a58c674cbcb4cc98",
+            "id": "bfc1ea9146c099dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a58c674cbcb4cc98",
+  "active": "bfc1ea9146c099dc",
   "lastOpenFiles": [
-    "Univers/Genèse.md",
     "Univers/Magie/Magie.md",
+    "Univers/Genèse.md",
     "Univers/Magie/Aptis.md",
     "Univers/Magie",
     "Bestiaire/Aethers.md",
