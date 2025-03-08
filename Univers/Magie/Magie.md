@@ -1,7 +1,11 @@
 
 
-<details> <summary>
-Table des matières</summary> - [Introduction](#introduction) - [Chapitre 1](#chapitre-1) - [Chapitre 2](#chapitre-2) - [Conclusion](#conclusion) </details>
+<details>
+<summary>Table des matières</summary>
+
+- [Le tissu](#Le tissu) 
+- [Les différentes magies](#Les différentes magies)
+</details>
 
 
 ## Le tissu
