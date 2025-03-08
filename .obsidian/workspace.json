@@ -21,7 +21,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Genèse.md",
+                "file": "Univers/Magie/Magie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9e5370b9afea05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Magie/Magie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c20930d9c0469e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Magie/Aptis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eda59d089efda6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nations humaines/Etats Salins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bb21dc39fa223d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Villes/Auberin.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/Genèse.md",
+                "file": "Univers/Magie/Aptis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/Genèse.md",
+                "file": "Univers/Magie/Aptis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/Genèse.md"
+                "file": "Univers/Magie/Aptis.md"
               }
             }
           }
@@ -167,19 +215,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abe1718082e15979",
+  "active": "c20930d9c0469e34",
   "lastOpenFiles": [
-    "Nations non-humaines/Sorsangs.md",
+    "Univers/Magie/Magie.md",
+    "Univers/Magie/Aptis.md",
     "Univers/Genèse.md",
-    "Univers/Magie.md",
+    "Nations humaines/Empire Kishar.md",
+    "Nations humaines/Tenrô.md",
+    "Univers/Dieux/Sahaarn.md",
+    "Univers/Dieux/Seha.md",
+    "Nations non-humaines/Sylithes.md",
+    "Nations humaines/Royaumes occidentaux.md",
+    "Nations humaines/Etats Salins.md",
+    "Villes/Auberin.md",
+    "Villes",
+    "Nations non-humaines/Sorsangs.md",
     "Bestiaire/Tournelunes.md",
     "Nations humaines/Mehua.md",
-    "Univers/Magie/Aptis.md",
     "Univers/Magie",
     "Bestiaire/Aethers.md",
     "Univers/Dieux/Dieux aveugles.md",
     "Nations humaines/Elyon.md",
-    "Nations humaines/Empire Kishar.md",
     "Illustrations",
     "Illustrations/carte_v2.png",
     "assets/carte_v2.png",

@@ -1,5 +1,5 @@
 #### Aptis
-BK
+Bookmark
 
 
 Un aptis est quelqu’un disposant d’une affinité avec la manipulation, le contact subtil des fils. Chaque manipulation du flux déforme le tissage principal. Le tissage réagit alors de lui-même pour compenser le changement, impliquant les déformations de l’espace voulu par l’aptis qui l’induit : la magie.
