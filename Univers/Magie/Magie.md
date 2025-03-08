@@ -2,6 +2,17 @@
 
 ```table-of-contents
 ```
+
+## Table of contents
+- [Le tissu](#Le tissu)
+- [Les différentes magies](#Les différentes magies)
+	- [La magestria, tissage de l'inerte](#La magestria, tissage de l'inerte)
+	- [Le tissage du vivant](#Le tissage du vivant)
+		- [Les sorsangs & l’art du murmure](#Les sorsangs & l’art du murmure)
+		- [Les sorsèves & l’art du bruissement](#Les sorsèves & l’art du bruissement)
+		- [Les aroatis & le doshaï](#Les aroatis & le doshaï)
+		- 
+
 ## Le tissu
 
 Tout s'écoule en un flux, fin et dense comme un fil, qui prend sa source dans le brasier d’[Ios](<../Dieux/Ios.md>).  Le flux est si long qu'il s'emmêle, se tisse avec lui-même pour former le monde tel que nous le connaissons : c’est l’Echeveau principal, la Trame essentielle. On peut aussi percevoir la magie d’Ios comme un réseau d’eau dont les brins sont des tuyaux, comme un champ de blé aux filaments entremêlés ou encore comme une immense toile d'araignée. Chaque être ou chose en est alimenté.
