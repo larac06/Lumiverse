@@ -1,13 +1,7 @@
 
 
-<details>
-<summary>Table des matières</summary>
-
-- [Le tissu](#Le tissu) 
-- [Les différentes magies](#Les différentes magies)
-</details>
-
-
+```table-of-contents
+```
 ## Le tissu
 
 Tout s'écoule en un flux, fin et dense comme un fil, qui prend sa source dans le brasier d’[Ios](<../Dieux/Ios.md>).  Le flux est si long qu'il s'emmêle, se tisse avec lui-même pour former le monde tel que nous le connaissons : c’est l’Echeveau principal, la Trame essentielle. On peut aussi percevoir la magie d’Ios comme un réseau d’eau dont les brins sont des tuyaux, comme un champ de blé aux filaments entremêlés ou encore comme une immense toile d'araignée. Chaque être ou chose en est alimenté.
