@@ -16,24 +16,12 @@
             }
           },
           {
-            "id": "abe1718082e15979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/Magie/Magie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9e5370b9afea05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/Magie.md",
+                "file": "Univers/Magie/Aptis.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,9 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/Aptis.md",
+                "file": "Univers/Genèse.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "23862b37f573bab6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -88,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "176aafb2d3f1afed",
@@ -215,18 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c20930d9c0469e34",
+  "active": "e9e5370b9afea05d",
   "lastOpenFiles": [
-    "Univers/Magie/Magie.md",
+    "Nations non-humaines/Sorsèves.md",
     "Univers/Magie/Aptis.md",
+    "Illustrations/dragon_constraste.jpg",
     "Univers/Genèse.md",
+    "Univers/Magie/Magie.md",
+    "Nations humaines/Etats Salins.md",
+    "Nations humaines/Royaumes occidentaux.md",
     "Nations humaines/Empire Kishar.md",
     "Nations humaines/Tenrô.md",
     "Univers/Dieux/Sahaarn.md",
     "Univers/Dieux/Seha.md",
     "Nations non-humaines/Sylithes.md",
-    "Nations humaines/Royaumes occidentaux.md",
-    "Nations humaines/Etats Salins.md",
     "Villes/Auberin.md",
     "Villes",
     "Nations non-humaines/Sorsangs.md",
