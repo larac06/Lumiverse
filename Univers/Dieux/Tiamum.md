@@ -1,0 +1,3 @@
+Le temps
+
+Tiamum est responsable de l’écoulement du temps. C’est celui qui construit l’arbre immense des possibles et des choix, et qui imposent aux vivants les conséquences de leur acte. Chaque action, même la plus infime, représente une graine dans le jardin du dieu. Celle-ci fleurit, grandit, immanquablement, sous la magie du dieu ; ce qui en advient est la responsabilité du vivant qui l’a planté, et il ne peut s’en défaire. Ainsi, Tiamum est souvent représenté avec Seha, tenant une faux. Il est considéré comme opposé à Ios et ses spontanéités qui s’échappent parfois des conséquences simples et mécaniques des actes commis ; bien que l’un ne puisse vivre sans l’autre.

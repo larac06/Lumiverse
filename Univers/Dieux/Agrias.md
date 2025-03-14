@@ -1,0 +1,7 @@
+#### Sciences interdites : la soif de connaissance, la curiosité, l’ambition, l’élan
+
+Concept avant d’être incarné, Agrias était le mot désigné pour l’élan indicible qui entraîne le cœur des hommes. La soif d’ambition, de curiosité, de pouvoir.
+
+Il s’incarna par un scientifique de l’époque des avelis, habitant de l’empire Kishar, qui se consacrait nuit et jour à de dangereuses expériences qui frôlaient avec l’interdit. La dernière d’entre elles défit les nœuds du monde tels qu’ils étaient, et détruisirent l’enveloppe charnelle de l’inconscient afin d’éviter d’impossibles aberrations. Cependant il n’était pas mort. Alors qu’il devenait esprit, fantôme, n’étant plus matière, on érigea de lui une légende. Les elins déifièrent la légende, jusqu’à en faire l’une des divinités principales du pays. Il incarnait bien les principes de modernité et d’abandon des traditions qu’ils voulaient promouvoir.
+
+Il devint dieu des sciences, des connaissances, des ambitions humaines, de l’apprentissage et de l’éducation ; le joyau d’une république qui se voulait à la pointe des nouvelles découvertes. Ses statues peuplent les cours, les jardins, et surtout les musées et les académies qui sont obligés d’en posséder une. Ses disciples sont les professeurs et les médecins, qui disposent en général d’un masque ou d’une coiffe représentant le bec d’un oiseau, ainsi que de capes ouvertes en rappelant les ailes.

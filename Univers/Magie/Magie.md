@@ -81,7 +81,7 @@ Couper et retisser crée des modifications drastiques pour le patient comme l’
 
 Le second aspect de l’art du murmure concerne les morts. Dans chaque être subsiste après le décès quelques passions, impulsions, volontés imprimés dans chacune des cellules de son corps. Les sorsangs, même non issus de lignée pure, sont capables de comprendre et d’influencer cette volonté pour l'utiliser. Ainsi des morceaux de cadavres d’animaux, de plantes, voire d’êtres anciens ou d’humains deviennent de puissants artefacts. Les os sont les plus courant, car ils ne pourrissent pas et sont aisés à tailler pour les garder sur soi.
 Pour se faire, ils murmurent ou psalmodient aux fantômes qui habitent les restes dont ils souhaitent se servir, ce qui à donner son nom à leur magie.
-Il existe des cristaux "organiques", incarnats ou céruléens, dans les cavernes d'[Etsimea](<../../Nations non-humaines/Sylithes.mdr#etsimea>) et dans les mines de [Kishar](<../../Nations humaines/Kishar.md>) où il est possible d’infuser cette impulsion du défunt.
+Il existe des cristaux "organiques", incarnats ou céruléens, dans les cavernes d'[Etsimea](<../../Nations non-humaines/Sylithes.md#etsimea>) et dans les mines de [Kishar](<../../../Nations humaines/Empire Kishar.md>) où il est possible d’infuser cette impulsion du défunt.
 
 Les sorsangs, cependant, ne savent pas directement influer sur l’esprit des êtres vivants. Les plus agiles savent le faire en influant sur le cerveau, pour stimuler un comportement ou en inhiber un autre, mais la pratique est très difficile et peu courante.
 
