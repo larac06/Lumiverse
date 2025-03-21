@@ -1,4 +1,6 @@
 
+- [L'ancien panthéon](#l-ancien-pantheon)
+- [Le nouveau panthéon](#le-nouveau-pantheon)
 
 # L'ancien panthéon
 
@@ -51,4 +53,6 @@ Le temps inévitable, inarrêtable, immesurable qui s'écoule sans pouvoir être
 Après la chute des civilisations anciennes, les humains accaparèrent cette religion. La petite caste d’humains ayant réussi à faire main basse sur les secrets anciens se fit diviniser ; s'en suivit une ère des miracles pendant laquelle chacun établit son propre culte. Le panthéon se modifia drastiquement pour devenir plus simple à comprendre, plus concret, et anthropomorphiques. Ils gardèrent les noms et idées principales des concept, mais remanièrent entièrement leur image auprès du peuple.
 
 Au sommet de ce panthéon se trouve l’imposante figure de [Ios](Ios.md), descendant de [Tiamum](Tiamum.md). Ses filles sont [Siam](Siam.md) et [Dal Ineis](<Dal Ineis.md>), ses fils [Sahaarn](Sahaarn.md), [Sixis](Sixis.md) et [Barshah](Barshah.md). Ils sont toujours représentés les yeux masqués, car ces êtres sont dits porteurs d’une puissance si forte dans le regard que celui-ci suffirait à faire fondre un mortel. 
-A ceux-là s’ajoutèrent [Dayub](Dayub.md), dieu du commerce, [Seha](Seha.md), déesse des récoltes, [Byreith](Byreith.md), déesse de la guerre, et [Agrias](Agrias.md), dieu des sciences.
+A ceux-là s’ajoutèrent quatre figures qui sont plus légendes que divinités, mais révérées elles aussi: [Dayub](Dayub.md), maître du commerce, [Seha](Seha.md), mère des récoltes, [Byreith](Byreith.md), feu de la guerre, et [Agrias](Agrias.md), père des sciences.
+
+Aux [Royaumes](../../Nations humains/Royaumes occidentaux.md), en [Elyon](../../Nations humaines/Elyon.md) et aux [Etats salins](../../Nations humaines/Etats salins.md), il est habituel de posséder de petites statuettes en pierre ou en bois sculptés à l'effigie des dieux sur le bord de sa fenêtre, auquel sont adressés les prières matinales ou vespérales. 

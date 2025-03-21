@@ -40,4 +40,12 @@ On distingue trois types de tisseurs. Ceux qui tissent l’inerte : les mages, 
 
 # Personnages aptis
 
-(A regrouper par continent pour moins de bordel)
+## A Auberyn
+- Arlette
+- Loreleis
+- Alisandre
+- Théophraste
+## A Felithis
+- Azun
+- Marek
+- Kasaï
