@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d79935e8bb3ab284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/Les ordres/Les prêtres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200
   },
   "right": {
     "id": "176aafb2d3f1afed",
@@ -159,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d79935e8bb3ab284",
+  "active": "f8e343d35cbd6443",
   "lastOpenFiles": [
-    "Univers/Dieux/Siam.md",
+    "Univers/Dieux/Dal Ineis.md",
+    "Univers/Villes & régions/En Elyon/Adathéis.md",
     "Univers/Les ordres/Les prêtres.md",
+    "Univers/Villes & régions/Aux royaumes occidentaux/Colveil.md",
+    "Univers/Villes & régions/Aux royaumes occidentaux/Abanceau.md",
+    "Univers/Dieux/Siam.md",
     "Univers/Villes & régions/Aux royaumes occidentaux/Calice.md",
     "Univers/Villes & régions/Aux états salins/Texugueiras.md",
     "Univers/Villes & régions/Aux états salins/Serra.md",
@@ -188,10 +179,6 @@
     "Univers/Magie/Aptis.md",
     "Univers/Dieux/Dieux inconnus & autres religions.md",
     "Bestiaire/Aethers.md",
-    "Univers/Dieux/Dieux aveugles.md",
-    "Univers/Genèse.md",
-    "Univers/Dieux/Forces naturelles.md",
-    "Univers/Dieux/Dal Ineis.md",
     "Illustrations/Dal_Ineis.jpg",
     "Illustrations/Ios.jpg",
     "Illustrations/carte_v2.png",

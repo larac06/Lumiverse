@@ -13,6 +13,8 @@ Elle est représentée comme une silhouette fantomatique à quatre bras, vêtue 
 
 Les temples de Dal Ineis sont les tribunaux et les cimetières, qui sont le plus souvent conçus dans des teintes sombres et drapés de tentures de velours.
 
+A [Auberin](<../Villes & régions/En Elyon/Auberin>), le temple de Dal Ineis est appelé le palais des murmures. C'est une structure judiciaire conçue de multiples dômes sombres.
+
 # La réalité
 
 La femme qui incarna Dal Ineis faisait partie de la première expédition qui avait pour but d'explorer les ruines avelis, une fois la guerre terminée.

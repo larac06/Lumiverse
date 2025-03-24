@@ -19,31 +19,31 @@ Lorsqu’aucune des incarnations de Sahaarn n’est connu, ils prennent diverses
 
 Le temple de formation des prêtres de [Siam](<../Dieux/Siam.md>) se trouve à [Calice](<../Villes & régions/Aux royaumes occidentaux/Calice.md>). On y vénère la déesse par des danse, des chants, des arts martiaux. On y effectue de nombreuses fêtes qui ne déplaisent par à la noblesse du royaume, portée sur les plaisirs et les distractions. Ses fidèles arborent le masque de chat de la déesse et doivent à la fois vivre une vie de plaisir, et partager leur philosophie au plus grand nombre.
 
----bookmark---
+
 ## Prêtres de Barshah
 
-Le temple principal de Barshah se trouve à Abanceau, là où le sauveur de l’humanité serait apparu. Les apprentissages y sont avant tout philosophiques et sociologiques. Les prêtres y prient quotidiennement pour la préservation de l’unité de la race humaine. Ils témoignent de leur position par leur tenue noir bordée de fourrure.
+Le temple principal de [Barshah](<../Dieux/Barshah.md>) se trouve à [Abanceau](<../Villes & régions/Aux royaumes occidentaux/Abanceau.md>), là où le sauveur de l’humanité serait apparu. Les apprentissages y sont avant tout philosophiques et sociologiques. Les prêtres y prient quotidiennement pour la préservation de l’unité de la civilisation humaine. Ils témoignent de leur position par leur tenue noir bordée de fourrure, et sont d'important diplomates entre les pays. Un prêtre de Barshah est requis en tous les endroits de pouvoir.
 
-##### Prêtres de Dal Ineis
+## Prêtres de Dal Ineis
 
-Les prêtres de Dal Ineis, à Adathéis, en Elyon, s'occupent des morts, des anesthésies et de calmer les douleurs. Ils travaillent souvent avec les médecins et les bourreaux et sont toujours vêtus de velours noir ou bleu nuit. On apprécie peu leur service, leur présence étant un présage trop macabre pour les malades. Leur apprentissage est là encore long et difficile ; la médecine, la littérature et la science y ont une place importante, tout comme les expériences de morts courtes ou les exécutions.
+Les prêtres de [Dal Ineis](<../Dieux/Dal Ineis.md>), à [Adathéis](<../Villes & régions/En Elyon/Adathéis.md>), en [Elyon](../../Nations humaines/Elyon.md), sont jugent, anesthésistes, bourreaux ou médecins-légistes. Ils travaillent souvent avec les médecins et sont toujours vêtus de velours noir ou bleu nuit. On apprécie peu leur service, leur présence étant un présage trop macabre pour les malades. Leur apprentissage est là encore long et difficile ; la médecine, la littérature et la science y ont une place importante, tout comme les expériences de morts courtes ou les exécutions.
+Tout les temples de Dal Ineis possèdent une fontaine en leur centre
+## Prêtres de Seha
 
-##### Prêtres de Seha
+Le temple de Seha se trouve plus profond dans les terres elines, dans les forêts verdoyantes au sud du territoire. La déesse ne reçoit que des prêtresses, qui vivent de leurs cultures et de leurs jardins qui se doivent florissants. Elles sont demandées pour bénir les champs et donner bonne récolte, et prodiguent d’utiles conseils aux agriculteurs. Se devant de représenter la prolongation de la vie et la fertilité, elles sont toujours vêtues de blancs et n’ont pas permission de manger de viande, d'utiliser de quelconque moyens de contraception, ou d'avorter.
+Si elles fautent, elles sont expulsées de l'ordre.
+Assassiner une prêtresse de Seha est un crime extrêmement grave.
 
-Le temple de Seha se trouve plus profond dans les terres elines, dans les forêts verdoyantes au sud du territoire. La déesse ne reçoit que des prêtresses, qui vivent de leurs cultures et de leurs jardins qui se doivent florissants. Elles sont souvent demandées pour bénir les champs et donner bonne récolte, et prodiguent souvent d’utiles conseils aux agriculteurs. Se devant de représenter la vie et la fertilité, elles sont toujours vêtues de blancs et n’ont pas permission de manger de viande.
+## Prêtres d’Agrias 
 
-##### Prêtres d’Agrias (docteurs & gardiens)
+Les prêtres d’Agrias se séparent en deux parties. La première sont les **docteurs**, personnes savantes ayant obtenu un doctorat en menant à bien un projet de recherche de plusieurs années, en lettre comme en science. C’est la plus haute distinction qu’un expert peut obtenir. Les docteurs de l’ordre, lorsqu’ils ne dirigent pas leurs propres recherches, sont régulièrement mandés et consultés, surtout en Elyon et à l’empire Kishar.
 
-Les prêtres d’Agrias se séparent en deux parties. La première sont les docteurs, personnes savantes ayant obtenu un doctorat en menant à bien un projet de recherche de plusieurs années, en lettre comme en science. C’est la plus haute distinction qu’un expert peut obtenir. Les docteurs de l’ordre, lorsqu’ils ne dirigent pas leurs propres recherches, sont régulièrement mandés et consultés, surtout en Elyon et à l’empire Kishar.
+La seconde partie, au rôle complémentaire, sont les **gardiens**. Ils travaillent dans les plus grandes bibliothèques pour la restauration, la copie, l’entretien et la protection des ouvrages et des connaissances.
 
-La seconde partie, au rôle complémentaire, sont les gardiens. Ils travaillent dans les plus grandes bibliothèques pour la restauration, la copie, l’entretien et la protection des ouvrages et des connaissances.
+Son temple se trouve à l’empire [Kishar](<../../Nations humaines/Empire Kishar.md>), dans la capitale où le dieu aurait vécu en tant qu’homme ; il est connexe à la grande bibliothèque de l’empire, la plus fournie encore debout du monde connue. Les docteurs doivent s’y rendre pour procéder à leur sacrement et se soumettent alors à user de leur existence pour faire progresser la science ; les gardiens y suivent des enseignements et jurent de protéger les connaissances des hommes pour les empêcher de sombrer dans l’obscurantisme. Leur tenue d’office consiste en un motif de plumes ornant leur cape et un masque d’oiseau.
 
-Son temple se trouve à l’empire Kishar, dans la capitale où le dieu aurait vécu en tant qu’homme ; il est connexe à la grande bibliothèque de l’empire, la plus fournie encore debout du monde connue. Les docteurs doivent s’y rendre pour procéder à leur sacrement et se soumettent alors à user de leur existence pour faire progresser la science ; les gardiens y suivent des enseignements et jurent de protéger les connaissances des hommes pour les empêcher de sombrer dans l’obscurantisme. Leur tenue d’office consiste en un motif de plumes ornant leur cape et un masque d’oiseau.
+## Prêtres de Tiamum
 
-#### Prêtres de Tiamum
+## Prêtres de Sixis
 
-#### Prêtres de Sixis[[LC1]](#_msocom_1) 
-
----
-
- [[LC1]](#_msoanchor_1)A compléter
+notes : rajouter liens hypertextes
