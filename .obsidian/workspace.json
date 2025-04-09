@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/Magie.md",
+                "file": "Nations humaines/Royaumes occidentaux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auberin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/Magie/Magie.md",
+                "file": "Nations humaines/Royaumes occidentaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/Magie/Magie.md",
+                "file": "Nations humaines/Royaumes occidentaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/Magie/Magie.md"
+                "file": "Nations humaines/Royaumes occidentaux.md"
               }
             }
           }
@@ -149,9 +148,11 @@
   },
   "active": "f8e343d35cbd6443",
   "lastOpenFiles": [
+    "Nations non-humaines/Sylithes.md",
+    "Ouverture.md",
+    "Univers/Magie/Magie.md",
     "Univers/Dieux/Dal Ineis.md",
     "Univers/Dieux/Tiamum.md",
-    "Ouverture.md",
     "Les.md",
     "Univers/Les ordres/Les prêtres.md",
     "Univers/Les ordres/Les ordres.md",
@@ -173,8 +174,6 @@
     "Univers/Villes & régions/Aux états salins/Serra.md",
     "Univers/Villes & régions/Aux états salins/Texugueiras.md",
     "Univers/Genèse.md",
-    "LC2.md",
-    "Univers/Dieux/Dieux inconnus & autres religions.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Univers/Villes & régions/Aux états salins",
