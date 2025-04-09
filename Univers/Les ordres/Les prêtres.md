@@ -30,20 +30,24 @@ Les prêtres de [Dal Ineis](<../Dieux/Dal Ineis.md>), à [Adathéis](<../Villes 
 Tout les temples de Dal Ineis possèdent une fontaine en leur centre
 ## Prêtres de Seha
 
-Le temple de Seha se trouve plus profond dans les terres elines, dans les forêts verdoyantes au sud du territoire. La déesse ne reçoit que des prêtresses, qui vivent de leurs cultures et de leurs jardins qui se doivent florissants. Elles sont demandées pour bénir les champs et donner bonne récolte, et prodiguent d’utiles conseils aux agriculteurs. Se devant de représenter la prolongation de la vie et la fertilité, elles sont toujours vêtues de blancs et n’ont pas permission de manger de viande, d'utiliser de quelconque moyens de contraception, ou d'avorter.
+Le temple de [Seha](<../Dieux/Seha.md>) se trouve plus profond dans les terres [elines](../../Nations humaines/Elyon.md), dans les forêts verdoyantes au sud du territoire. La déesse ne reçoit que des prêtresses, qui vivent de leurs cultures et de leurs jardins qui se doivent florissants. Elles sont demandées pour bénir les champs et donner bonne récolte, et prodiguent d’utiles conseils aux agriculteurs. Se devant de représenter la prolongation de la vie et la fertilité, elles sont toujours vêtues de blancs et n’ont pas permission de manger de viande, d'utiliser de quelconque moyens de contraception, ou d'avorter.
 Si elles fautent, elles sont expulsées de l'ordre.
 Assassiner une prêtresse de Seha est un crime extrêmement grave.
 
 ## Prêtres d’Agrias 
 
-Les prêtres d’Agrias se séparent en deux parties. La première sont les **docteurs**, personnes savantes ayant obtenu un doctorat en menant à bien un projet de recherche de plusieurs années, en lettre comme en science. C’est la plus haute distinction qu’un expert peut obtenir. Les docteurs de l’ordre, lorsqu’ils ne dirigent pas leurs propres recherches, sont régulièrement mandés et consultés, surtout en Elyon et à l’empire Kishar.
+Les prêtres d’[Agrias](<../Dieux/Agrias.md>) se séparent en deux parties. La première sont les **docteurs**, personnes savantes ayant obtenu un doctorat en menant à bien un projet de recherche de plusieurs années, en lettre comme en science. C’est la plus haute distinction qu’un expert peut obtenir. Les docteurs de l’ordre, lorsqu’ils ne dirigent pas leurs propres recherches, sont régulièrement mandés et consultés, surtout en Elyon et à l’empire Kishar.
 
 La seconde partie, au rôle complémentaire, sont les **gardiens**. Ils travaillent dans les plus grandes bibliothèques pour la restauration, la copie, l’entretien et la protection des ouvrages et des connaissances.
 
 Son temple se trouve à l’empire [Kishar](<../../Nations humaines/Empire Kishar.md>), dans la capitale où le dieu aurait vécu en tant qu’homme ; il est connexe à la grande bibliothèque de l’empire, la plus fournie encore debout du monde connue. Les docteurs doivent s’y rendre pour procéder à leur sacrement et se soumettent alors à user de leur existence pour faire progresser la science ; les gardiens y suivent des enseignements et jurent de protéger les connaissances des hommes pour les empêcher de sombrer dans l’obscurantisme. Leur tenue d’office consiste en un motif de plumes ornant leur cape et un masque d’oiseau.
 
+L’ordre des médecins comprend les personnes diplômés des académies de médecine officielles. C’est un sous-ordre des prêtres d’Agrias, dont ils ont le titre bien que leur position soit moins prestigieuse ; à moins qu’ils soient aussi docteurs, ce qui est souvent le cas. Les membres portent le même motifs de plumes et masques d’oiseaux que ces derniers. De plus, leur position est signifiée par un pardessus de couleur verte.
+
 ## Prêtres de Tiamum
 
 ## Prêtres de Sixis
 
-notes : rajouter liens hypertextes
+## Prêtres de Dayub (les banquiers)
+
+Les prêtres de [Dayub](<../Dieux/Dayub.md>) ont un statut spécial. Fidèles du dieu du commerce, ils gèrent la plus importante banque du continent. Si le temple principal, et par conséquent le siège de la banque, se trouve à [Mehua](<../../Nations humaines/Mehua.md>), chaque pays possèdent aussi un temple de Dayub sous responsabilité de celui de la Mehua. Les banquiers, comme on les surnomme, portent une élégante cape gris perle et supervisent l’entièreté des routes commerciales des continents. Ils y établissent des impôts et les rendent sûrs par l’usage de mercenaires, font prêt aux états, et permettent de maintenir un équilibre économique même en temps de crise.
