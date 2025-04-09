@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations humaines/Royaumes occidentaux.md",
+                "file": "Personnages/Aux royaumes/Alisandre Songeciel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4ed67baaaeff666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/En Tenrô/Elayin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations humaines/Royaumes occidentaux.md",
+                "file": "Personnages/En Tenrô/Elayin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations humaines/Royaumes occidentaux.md",
+                "file": "Personnages/En Tenrô/Elayin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations humaines/Royaumes occidentaux.md"
+                "file": "Personnages/En Tenrô/Elayin.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8e343d35cbd6443",
+  "active": "4514d8eaae544284",
   "lastOpenFiles": [
+    "Personnages/Aux royaumes/Alisandre Songeciel.md",
+    "Personnages/En Tenrô/Elayin.md",
+    "Personnages/Aux royaumes",
+    "Personnages/En Tenrô",
+    "Nations humaines/Royaumes occidentaux.md",
     "Nations non-humaines/Sylithes.md",
     "Ouverture.md",
     "Univers/Magie/Magie.md",
@@ -169,11 +187,8 @@
     "Nations humaines/Etats Salins.md",
     "Nations humaines/Felithis.md",
     "Nations humaines/Mehua.md",
-    "Nations humaines/Royaumes occidentaux.md",
     "Nations humaines/Tenrô.md",
     "Univers/Villes & régions/Aux états salins/Serra.md",
-    "Univers/Villes & régions/Aux états salins/Texugueiras.md",
-    "Univers/Genèse.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Univers/Villes & régions/Aux états salins",
@@ -186,8 +201,6 @@
     "Personnages/A Auberin",
     "Personnages",
     "Illustrations/dragon_constraste.jpg",
-    "Univers/Villes & régions",
-    "Univers/Magie",
     "assets/carte_v2.png"
   ]
 }
