@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Dieux/Tiamum.md",
+                "file": "Univers/Magie/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cuisiniers",
+                "query": "auberin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/Dieux/Tiamum.md",
+                "file": "Univers/Magie/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/Dieux/Tiamum.md",
+                "file": "Univers/Magie/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/Dieux/Tiamum.md"
+                "file": "Univers/Magie/Magie.md"
               }
             }
           }
@@ -148,12 +149,13 @@
   },
   "active": "f8e343d35cbd6443",
   "lastOpenFiles": [
-    "Ouverture.md",
+    "Univers/Dieux/Dal Ineis.md",
     "Univers/Dieux/Tiamum.md",
+    "Ouverture.md",
     "Les.md",
     "Univers/Les ordres/Les prêtres.md",
     "Univers/Les ordres/Les ordres.md",
-    "Personnages/A Auberyn/Arlette.md",
+    "Personnages/A Auberin/Arlette.md",
     "Bestiaire/Aethers.md",
     "Bestiaire/Dragons.md",
     "Bestiaire/Tournelunes.md",
@@ -173,7 +175,6 @@
     "Univers/Genèse.md",
     "LC2.md",
     "Univers/Dieux/Dieux inconnus & autres religions.md",
-    "Nations non-humaines/Sylithes.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Univers/Villes & régions/Aux états salins",
@@ -183,7 +184,7 @@
     "Illustrations/Ios.jpg",
     "Illustrations/carte_v2.png",
     "Univers/Les ordres",
-    "Personnages/A Auberyn",
+    "Personnages/A Auberin",
     "Personnages",
     "Illustrations/dragon_constraste.jpg",
     "Univers/Villes & régions",
