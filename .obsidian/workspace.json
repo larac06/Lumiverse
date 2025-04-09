@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations humaines/Tenrô.md",
+                "file": "Nations humaines/Elyon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nations humaines/Tenrô.md",
+                "file": "Nations humaines/Elyon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nations humaines/Tenrô.md",
+                "file": "Nations humaines/Elyon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nations humaines/Tenrô.md"
+                "file": "Nations humaines/Elyon.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "f8e343d35cbd6443",
   "lastOpenFiles": [
+    "Nations humaines/Empire Kishar.md",
+    "Nations humaines/Etats Salins.md",
+    "Nations humaines/Felithis.md",
+    "Nations humaines/Mehua.md",
+    "Nations humaines/Royaumes occidentaux.md",
+    "Nations humaines/Tenrô.md",
     "Univers/Les ordres/Les ordres.md",
     "Univers/Les ordres/Les prêtres.md",
     "Les.md",
@@ -165,15 +171,9 @@
     "Univers/Les ordres/Les aroatis.md",
     "Univers/Les ordres/Les alchimistes.md",
     "Univers/Les ordres/Les cuisiniers.md",
-    "Nations humaines/Royaumes occidentaux.md",
     "Univers/Les ordres/Les médecins.md",
     "Univers/Les ordres/Les banquiers.md",
     "Univers/Magie/Magie.md",
-    "Univers/Dieux/Seha.md",
-    "Univers/Dieux/Dal Ineis.md",
-    "Univers/Villes & régions/En Elyon/Adathéis.md",
-    "Univers/Villes & régions/Aux royaumes occidentaux/Colveil.md",
-    "Univers/Villes & régions/Aux royaumes occidentaux/Abanceau.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Univers/Villes & régions/Aux états salins",
