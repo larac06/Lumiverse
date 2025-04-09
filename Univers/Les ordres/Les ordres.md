@@ -1,5 +1,5 @@
 Les ordres sont des organisations qui regroupent les personnes ayant remplis les conditions requises pour prétendre appartenir à une association, qui les unit sous l’autorité d’un texte ainsi que d’un conseil de membres expérimentés visant à conserver l’efficacité et l’intégrité de leur profession. 
-On compte huit ordres : [les prêtres](<Les prêtres.md>), [les médecins](<Les prêtres.md>) (sous-ordre des prêtres d'Agrias), les mages, les alchimistes, les cuisiniers, les voyageurs, [les banquiers](Les prêtres.md) (qui sont les prêtres de Dayub). Les aroatis constitue eux aussi un ordre mais ne s’en revendiquent pas.
+On compte huit ordres : [les prêtres](<Les prêtres.md>), [les médecins](<Les prêtres.md>) (sous-ordre des prêtres d'Agrias), les mages, les alchimistes, les cuisiniers, les voyageurs, [les banquiers](<Les prêtres.md>) (qui sont les prêtres de Dayub). Les aroatis constitue eux aussi un ordre mais ne s’en revendiquent pas.
 
 ## Ordre des mages
 
@@ -9,7 +9,7 @@ L’ordre des mages admet tout descendant d’une lignée de mage architecte de 
 
 Les alchimistes sont considérés comme disciples mineurs de [Siam](<../Dieux/Siam.md>) ou d'[Agrias](<../Dieux/Agrias.md>). Vêtus de bleu, ils sont les plus fréquents car les prérequis pour rejoindre leur ordre sont les plus faibles ; le titre d’alchimiste s’obtient sur concours, pour lequel un an de formation suffit. Leur rôle est souvent d’aider les médecins ou mages si nécessaire, fournissant des cataplasmes, simples et cristaux favorisant soin ou cicatrisation, ou comme lien entre les mages, les médecins et les ingénieurs.
 
-Dans les zones moins légiférées comme la [Blanche](<../Villes & régions/Auberin.md>), les alchimistes servent souvent de médecins, parfois sans même disposer du titre officiel.
+Dans les zones moins légiférées comme la [Blanche](<../Villes & régions/En Elyon/Auberin.md>), les alchimistes servent souvent de médecins, parfois sans même disposer du titre officiel.
 
 ## Ordre des cuisiniers
 
