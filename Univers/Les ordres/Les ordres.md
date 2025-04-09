@@ -1,5 +1,5 @@
 Les ordres sont des organisations qui regroupent les personnes ayant remplis les conditions requises pour prétendre appartenir à une association, qui les unit sous l’autorité d’un texte ainsi que d’un conseil de membres expérimentés visant à conserver l’efficacité et l’intégrité de leur profession. 
-On compte huit ordres : [les prêtres](<Les prêtres.md>), [les médecins](<Les prêtres.md>) (sous-ordre des prêtres d'Agrias), les mages, les alchimistes, les cuisiniers, les voyageurs, [les banquiers](<Les prêtres.md (qui sont les prêtres de Dayub). Les aroatis constitue eux aussi un ordre mais ne s’en revendiquent pas.
+On compte huit ordres : [les prêtres](<Les prêtres.md>), [les médecins](<Les prêtres.md>) (sous-ordre des prêtres d'Agrias), les mages, les alchimistes, les cuisiniers, les voyageurs, [les banquiers](Les prêtres.md) (qui sont les prêtres de Dayub). Les aroatis constitue eux aussi un ordre mais ne s’en revendiquent pas.
 
 ## Ordre des mages
 

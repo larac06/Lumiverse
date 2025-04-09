@@ -308,7 +308,7 @@ La vérité finit cependant par éclater ; mais l’engouement pour les œufs n
 
 #### Rapport aux animaux et insectes
 
-Les sylithes chassent les créatures agressives qui se terrent dans les profondeurs mystérieuses de leur montagne, ainsi que les bêtes des bois (ours, pumas, lynx, loups) lorsque ceux-ci menacent leurs tournelunes. Ils leur arrivent parfois de domestiquer celles de la montagne [[LC2]](#_msocom_2) pour les dresser et les utiliser comme bêtes de garde, qu’ils peuvent ensuite nourrir avec la viande de leurs chasses dont ils ne se servent pas ; le sang sert de peinture pour les vêtements, les bâtiments ou les ornements corporels, la graisse d’enduit pour leurs rares objets en bois.
+Les sylithes chassent les créatures agressives qui se terrent dans les profondeurs mystérieuses de leur montagne, ainsi que les bêtes des bois (ours, pumas, lynx, loups) lorsque ceux-ci menacent leurs tournelunes. Ils leur arrivent parfois de domestiquer celles de la montagne pour les dresser et les utiliser comme bêtes de garde, qu’ils peuvent ensuite nourrir avec la viande de leurs chasses dont ils ne se servent pas ; le sang sert de peinture pour les vêtements, les bâtiments ou les ornements corporels, la graisse d’enduit pour leurs rares objets en bois.
 
 Ils ont un grand respect pour les insectes, surtout pour la grande variétés de lucioles et d’insectes luminescentes qui peuplent leurs galeries et illuminent leur cité.
 
