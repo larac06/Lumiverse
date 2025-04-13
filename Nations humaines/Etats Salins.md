@@ -1,1 +1,3 @@
-# Etats Salins
+
+*L'océan ressemblait a un tapis de quartz aux reflets changeants. Sous le ciel tendre du matin, ses couleurs devenait roses, bleus, turquoise, nacre, blanc ; il oscillait entre mille teintes, agité. Il n'était jamais au repos dans les calanques, comme une bête furieuse prise au piège par la roche.
+La jeune femme rangea une mèche bleue derrière son oreilles. Du haut des falaises, elle observait l'horizon, penchée sur l'une des fines balustrades de la place du soleil. Ces décors n'appartenaient qu'à leur pays, pensa-t-elle avec fierté.*

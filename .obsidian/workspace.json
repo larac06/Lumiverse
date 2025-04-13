@@ -25,14 +25,86 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Univers/Dieux/Ios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41edbea46af73480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/A felithis/Azun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33852cdfffc36f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Genèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd7cd44f1dfda347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Villes & régions/En Elyon/Runethia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0dc3468ff69f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nations humaines/Felithis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0da160761128e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Personnages/En Tenrô/Elayin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43c107d5f9adeada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/A Auberin/Lorien.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -61,8 +133,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "- ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,47 +232,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4514d8eaae544284",
+  "active": "a0495f1abf0ee2a2",
   "lastOpenFiles": [
-    "Personnages/Aux royaumes/Alisandre Songeciel.md",
+    "Nations humaines/Mehua.md",
+    "Nations non-humaines/Delphènes.md",
+    "Nations non-humaines/Avelis.md",
+    "Nations non-humaines/Sylithes.md",
+    "Nations non-humaines/Sorsangs.md",
+    "Menskä.md",
+    "Nations humaines/Felithis.md",
+    "Me",
+    "Nations humaines/Etats Salins.md",
+    "Personnages/En Kishar/Loreleis.md",
+    "En Ki.md",
+    "Personnages/En Kishar",
+    "Univers/Villes & régions/En Elyon/Runethia.md",
+    "Univers/Genèse.md",
     "Personnages/En Tenrô/Elayin.md",
+    "Personnages/A Auberin/Arlette.md",
+    "Personnages/En Tnerô",
+    "Ouverture.md",
+    "Personnages/A Auberin/Arhel.md",
+    "Personnages/A Auberin/Lorien.md",
+    "Personnages/A felithis/Azun.md",
+    "Univers/Dieux/Ios.md",
+    "Personnages/A felithis",
+    "Personnages/Aux royaumes/Alisandre Songeciel.md",
     "Personnages/Aux royaumes",
     "Personnages/En Tenrô",
     "Nations humaines/Royaumes occidentaux.md",
-    "Nations non-humaines/Sylithes.md",
-    "Ouverture.md",
     "Univers/Magie/Magie.md",
     "Univers/Dieux/Dal Ineis.md",
     "Univers/Dieux/Tiamum.md",
     "Les.md",
     "Univers/Les ordres/Les prêtres.md",
-    "Univers/Les ordres/Les ordres.md",
-    "Personnages/A Auberin/Arlette.md",
-    "Bestiaire/Aethers.md",
-    "Bestiaire/Dragons.md",
-    "Bestiaire/Tournelunes.md",
-    "Nations non-humaines/Sorsèves.md",
-    "Nations non-humaines/Sorsangs.md",
-    "Nations non-humaines/Delphènes.md",
-    "Nations non-humaines/Avelis.md",
-    "Nations humaines/Elyon.md",
-    "Nations humaines/Empire Kishar.md",
-    "Nations humaines/Etats Salins.md",
-    "Nations humaines/Felithis.md",
-    "Nations humaines/Mehua.md",
-    "Nations humaines/Tenrô.md",
-    "Univers/Villes & régions/Aux états salins/Serra.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Univers/Villes & régions/Aux états salins",
     "Univers/Villes & régions/En Elyon",
-    "Les prêtres",
     "Illustrations/Dal_Ineis.jpg",
     "Illustrations/Ios.jpg",
     "Illustrations/carte_v2.png",
-    "Univers/Les ordres",
-    "Personnages/A Auberin",
-    "Personnages",
     "Illustrations/dragon_constraste.jpg",
     "assets/carte_v2.png"
   ]

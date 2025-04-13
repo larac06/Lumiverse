@@ -1,5 +1,9 @@
 _Indépendance, unité, religion_
 
+*Lorsque l'on entrait dans la caverne, on s'engouffrait dans un caveau de roche sombre, sauvage et nu. On y voyait traîner ça et là quelques poussières de lune, ces fragments utilisé pour concevoir les lanternes alchimiques, qui illuminaient les murs irréguliers. Mais si l'on prenait la peine de s'y enfoncer -ce que personne n'avait jamais pu faire, car aucun humain n'avait jamais foulé ces terres du pieds-, on pouvait y découvrir des secrets enfouis.
+Les murs évoluaient en circonvolutions taillées. Grossièrement d'abord, plus de plus en plus finement. A terme, on arrivait devant une immense porte, haute comme cinq hommes adultes et large comme dix. Elle était toujours ouverte. Derrière s'étendait la cité.
+Des coursives surmontaient des dômes et des monuments. Les nuances de roches étaient innombrables, se répondant avec harmonie dans une riche palettes de tons blancs, bleus, rosés ; quartz, granite, diorite, gabbro, syénite. Chaque façade était ornée avec soin, comme autant de bijoux sculptés de matériaux communs. La cité était encore plus immense que cela, et en dehors du dôme principale, des couloirs et des escaliers traversaient encore la montagne et la terre en tout sens. Les galeries formaient une fourmilière géante, travaillée et entretenue par son peuple si particulier.*
+
 ---
 - A relire
 - Faire une table des matières

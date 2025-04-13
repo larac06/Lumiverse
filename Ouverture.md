@@ -2,6 +2,9 @@
 Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
+12/04/25
+
+Ajoutez les petits extraits jusqu'à archives writer+/Ios/Elyon/Arlette
 
 09/04/2025
 - Cleaned up les titres qui apparaissent

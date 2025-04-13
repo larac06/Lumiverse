@@ -1,6 +1,13 @@
 
 *La vie, le brasier, l’entropie*
 
+*Son visage semblait fait de porcelaine brisée, morcelée juste au dessus du nez. Au milieu, une sphère lumineuse : le soleil, reposant au milieu du socle de son crâne.*
+*Sa cape de soie d'or portait autant de chair et d'entrailles que de joyaux.*
+*Plusieurs interprétations entourent le globe solaire du visage d'Ios. Certains y figurent l'astre du jour. Pour d'autres, il est une image de la somme des chaleur de chaque être. Par leur température, par les mouvements initiés en leur chair, les frictions, leur souffle, leurs efforts. Même la pierre, minéral, y participe par l'agitation infime qui l'anime et dégage un peu de cette force solaire. D'infimes éclats.*
+*Cette chaleur n'est pas uniquement thermique ; c'est l'existence qui brûle, l'âme, le vif, la présence, le tissage de feu en chaque chose, squelettes dont les fibres crient, en silence, l'existence.*
+
+
+
 ![Ios](../../Illustrations/Ios.jpg)
 # La légende
 
