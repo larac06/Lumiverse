@@ -2,6 +2,12 @@
 Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
+
+13/02/25
+
+Fini "Ios", reste à checker les ptits bouts dubiously canon + descri, puis les doc word que j'ai
+
+
 12/04/25
 
 Ajoutez les petits extraits jusqu'à archives writer+/Ios/Elyon/Arlette

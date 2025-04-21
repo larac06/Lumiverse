@@ -9,8 +9,8 @@
 
 ## I
 C’était un grand jour.
-Comme chaque enfant des villages environnants, la petite fille se dirigait vers le temple en compagnie de sa mère. Cinq ans environs, de longs cheveux noir de jais et un petit museau curieux : une jeune pousse de tenrane pur sang. elle se tournait vers les bâtiments et petits commerces, attirée par les odeurs et les couleurs vives si nouvelles à ses sens. Jamais elle n'était venue dans une ville aussi grande.
-Bengaï Ukosha était qualifiée de “capitale étrangère” : c'était le chef-lieu de Tenrô, l'immense colonie de Mehua aux villes encore neuves. Le style d’architecture, avec ses toits longs et tombants, ses décorations aux motifs de labyrinthes et ses teintes vermillons, rappelait clairement le pays d’origine des bâtisseurs. Pourtant, le climat y était bien différent. Sec, proche d’un large désert de sable qui s'étendait sur plus de mille lieues et d'une chaîne de montagnes brutes, on avait choisi de reconnaître sur cet endroit la suprématie du saï'posen, les forces terrestres, là où chixala, esprit de l’eau, guidait les terres premières du peuple.
+Comme chaque enfant des villages environnants, la petite fille se dirigait vers le temple en compagnie de sa mère. Cinq ans environs, de longs cheveux noir de jais et un petit museau curieux : une jeune pousse tenrane pur sang. elle se tournait vers les bâtiments et petits commerces, attirée par les odeurs et les couleurs vives si nouvelles à ses sens. Jamais elle n'était venue dans une ville aussi grande. Elle se tenait à la manche de sa mère, un peu effrayée par la rumeur constante et bruyante qui régnait.
+Bengaï Ukosha était le chef-lieu de Tenrô, l'immense colonie de Mehua aux villes encore neuves. Le style d’architecture, avec ses toits longs et tombants, ses décorations aux motifs de labyrinthes et ses teintes vermillons, rappelait le pays d’origine des bâtisseurs. Pourtant, le climat y était bien différent. Sec, proche d’un large désert de sable qui s'étendait sur plus de mille lieues et d'une chaîne de montagnes brutes, on avait choisi de reconnaître sur cet endroit la suprématie du saï'posen, les forces terrestres, là où chixala, esprit de l’eau, guidait les terres premières du peuple.
 L’enfant écarquilla les yeux. En retrait de la ville, le bâtiment les surplombaient grâce à un large escalier qui grimpait le long de la colline de roche noire. Il était immense, presque aussi grand que la ville elle-même. Elle s’élança dans les marches de pierre blanche, frappant ses sandales sur le sol avec frénésie. Sa mère ne tenta même pas de la retenir, attendrie par ses réactions. Ce n’était pas seulement à cause de son jeune âge que ce lieu l’impressionnait à ce point : on avait fait le temple sublime. 
 L’incarnat y rencontrait le turquoise, mêlé d’ocre et de fines rainures d’or. Les statues figuraient des créatures splendides ; léopard à queue de lézard, serpent aux écailles de pierres précieuses, ibis aux ailes de scarabée. La figure du dragon terrestre revenait souvent, elle aussi, sculptée sur les murs et sous les rebords du toit. C'étaient les porteurs sacrés des forces naturelles vénérées par les tenranes, leurs vecteurs et messagers pour ceux qui ne pouvaient les ressentir telles qu'elles étaient.
 Elle ne reprit son souffle qu’une fois l’immense arche d’entrée passée. Devant elle était déjà regroupé bon nombre d’enfants, tous de son âge, accompagnés d’adultes. Elle s’avança, cherchant le regard de tous ses rivaux ; mais il y en avait trop. Il était impossible de les contenir dans ses yeux d’enfants.
@@ -438,6 +438,364 @@ Elayin la laissa faire avec un soupir. Elle n'aurait su dire comment ni pourquoi
 
 # Retour en Tenrô
 
+## #1
+
+Assise à l'arrière de la caravane, épaules voûtées en avant, la jeune femme regardait le sentier se dérouler à l'infini sous les roues et les rochers irréguliers. Xo et Deshi chevauchaient autour d'elle, d'humeur au moins aussi morose. Chacun d'entre eux venait d'abandonner son âme soeur pour aller au combat, combat dont ils ne reviendraient probablement pas.
+Et elle lui avait menti. 
+Jamais il ne la pardonnerait. Non : là n'était pas l'important... Elle avait ouvert son coeur, elle lui avait offert un refuge, et elle s'était enfuie. La culpabilité pesait sur ses épaules.
+  - Elayin. Fit Deshi d'un ton rauque. Cesse. Tu ne seras jamais efficace au combat, dans cet état.
+  Lui avait laissé sa princesse après lui avoir promis un mariage. Il avait la mine au moins aussi sombre que la sienne. 
+Elle acquiesça à demi, une larme lourde de douleur sur la joue. Son absence blessait cruellement son doshai.
+Ils étaient environ quatre cents. Ils rejoindraient encore quelques cités mineures, ralliées à leur cause. Ils connaissaient les routes à emprunter ; si le plan se déroulait selon ce qui était prévu, ils pourraient attaquer par surprise. Les troupes contre les soldats, et les aroatis infiltrés jusqu'au palais.
+Là, s'ils tuaient le Sahn, la victoire serait leurs.
+
+Le voyage fut rapide. Quelques jours, à leur rythme soutenu. Et puis, ils prirent la direction de la capitale. Un groupe d'une vingtaine d'Aroatis prit un chemin différent. Il faudrait neutraliser les lys rouges. Il faudrait se battre, et tout indiquait qu'il allait perdre.
+
+* * *
+
+Elle sentait le vent sur ses joues. Dissimulée entre les roches, elle scrutait le palais. Bientôt, une étincelle.
+Le signal.
+Une explosion. 
+La porte du palais explosa ; deux nouveaux impacts, et les défenses des façades devinrent cendres. Elle sauta ; ils avaient réussi. Les lys rouges avaient du être vaincu. Elle courut, fila comme une brise jusqu'à l'édifice. Elle s'y introduit, et reprit un pas plus prudent lorsqu'elle atteignit les couloirs connus. Des soldats arrivaient en courant. Elle se dissimula dans un conduit du plafond, agile, et continua de progresser en se faufilant. L'adrénaline battait à ses tempes. A l'extérieur, les troupes se battaient dans le feu et le sang ; ils avaient pris le palais d'assaut. Elle devait atteindre le faux Sahn... Et tout serait terminé.
+Elle retint sa respiration ; en dessous d'une grille où elle rampait, un homme à la stature fine semblait prendre son temps. Un lys rouge, évidemment. 
+Il leva les yeux, lentement.
+De sa lance, il perça brutalement le conduit. Elayin glapit ; il l'avait manqué de quelques centimètres.
+Elle se laissa tomber par la grille, face à lui. Il avait la peau blanche, les yeux jaunes. Il lui ressemblait comme un jumeau.
+Elle fondit sur lui, lames courtes dégainés. Ce soir, et pour le premier soir, elle attaquait pour tuer.
+Elle avait déjà combattu des lys rouges ; elle s'était défendue. Elle avait fait de son mieux. Ce soir, la mort était son but.
+
+
+## #2 
+
+
+Elle sentait le vent sur ses joues. Dissimulée entre les roches, elle scrutait le palais. Bientôt, une étincelle.
+Le signal.
+Une explosion. 
+La porte du palais explosa ; deux nouveaux impacts, et les défenses des façades devinrent cendres. Elle sauta ; ils avaient réussi. Les lys rouges avaient du être vaincu. Elle courut, fila comme une brise jusqu'à l'édifice. Elle s'y introduit, et reprit un pas plus prudent lorsqu'elle atteignit les couloirs connus. Des soldats arrivaient en courant. Elle se dissimula dans un conduit du plafond, agile, et continua de progresser en se faufilant. L'adrénaline battait à ses tempes. A l'extérieur, les troupes se battaient dans le feu et le sang ; ils avaient pris le palais d'assaut. Elle devait atteindre le faux Sahn... Et tout serait terminé.
+Elle retint sa respiration ; en dessous d'une grille où elle rampait, un homme à la stature fine semblait prendre son temps. Un lys rouge, évidemment. 
+Il leva les yeux, lentement.
+De sa lance, il perça brutalement le conduit. Elayin glapit ; il l'avait manqué de quelques centimètres.
+Elle se laissa tomber par la grille, face à lui. Il avait la peau blanche, les yeux jaunes. Il lui ressemblait comme un jumeau.
+Elle fondit sur lui, lames courtes dégainés. Ce soir, et pour le premier soir, elle attaquait pour tuer.
+Elle avait déjà combattu des lys rouges ; elle s'était défendue. Elle avait fait de son mieux. Ce soir, la mort était son but.
+
+*
+
+Le combat fut sanglant. Elle se releva, le monde noir malgré ses yeux ouverts. Une seconde. Une heure. Deux. Elle se traina dans le couloir. Elle avait le bras ouvert ; son adversaire, c'était le ventre. Bientôt, la gorge aussi. Elle se redressa, se fit un garrot de fortune d'un peu de tissu de sa victime, et reprit son chemin. Le feu et la violence était partout ; elle croisa des soldats. Tua des soldats. Les tentures étaient déchirées, les vases brisées. On se battait partout, dans les escaliers, la salle à manger. Des cadavres de domestiques jonchaient les cuisines et les chambres, et elle n'arrivait pas à se dire que ce n'était probablement pas les guerriers du palais qui avaient commis ces atrocités. Elle rampa, avança, le corps brûlant. Un autre lys rouge. Blessé lui aussi. Elle l'acheva. Un plafond s'écroula ; le palais ne résistait pas bien au choc.
+Et puis, elle sentit qu'elle y était. La grande et belle salle, d'ordinaire si lumineuse. D'immenses baies vitrées qui donnaient sur les montagnes. Et le sahn, sabre dégainé, debout. Sa tenue de soie était souillée de suie et de sang. A ses pieds, Xo se tordait de douleur. Il lui avait perforé l'abdomen.
+Elle hurla.
+Fondit sur l'homme.
+L'auteur de ses malheurs, destructeur de sa vie. Il ne l'avait pas vu venir. Le vieil homme maniait deux sabres. Il bloqua son coup. Elle envoya encore sa lame ; il para, encore, et ils dansèrent ainsi une petite éternité.
+Et puis, sa lame rencontra son crâne dans un craquement sinistre. Le Sahn s'effondra.
+Comme ça.
+  - C'est fini ? Gemit-elle, avant de se traîner vers Xo, pansant maladroitement ses plaies inondées de sang.
+  Non... Tant que personne ne savait, ce n'était pas fini. Elle se leva.
+Un groupe de soldats arriva en courant, et s'arrêtèrent net devant le cadavre.
+  - Le Sahn... ! 
+  - Il faut le venger !
+  - Arrêtez... Fit-elle d'une voix rocailleuse. Vous l'aimez pas, ce connard... Laissez nous... Vivre...
+  Elle s'effondra.
+Et tout devint noir.
+
+*
+
+Lorsqu'elle se réveilla, elle avait froid. Terriblement froid. Elle se leva ; tout son corps était douloureux. En dessous d'elle, elle palpa le corps de Xo. Encore tiède. Encore vivant.
+Elle soupira, soulagé. Au dessus d'elle, le ciel, chargé d'un vent froid. Autour d'elle, du bois détruit, de la cendre. Elle se laissa tomber. Tout redevint noir.
+
+* 
+
+Cette fois-ci, ce fut un homme qui la reveilla. Il la souleva. Elle se laissa faire, tête ballotant contre ce torse inconnu, mais soudain rassurant. On l'emmena dans une bâtisse de fortune, où les blessés s'entassaient. Elle avait les yeux entrouverts. Autour d'elle, des cris, des gémissements.
+Et puis, petit à petit, ses esprits revinrent. Le lendemain, elle pouvait se lever. Son bras pendait encore, mais elle put se lever. Ignorant les infirmiers qui tentaient de l'arrêter, elle sortit dans la ville. Elle alla jusqu'à la caserne des militaires, sans réelle volonté dans ses pas. Il n'y avait qu'une poignée de soldats restants. Elle s'appuya dans l'embrasure.
+  - Qu'est ce qu'on fait ?
+  - J'en sais rien. Qui nous dirige ? 
+  - Je sais pas. Attendons ; Mehua choisira bientot le nouveau Sahn.
+  elle cligna des yeux. D'une force nouvelle, elle saisit le col de l'homme qui venait de parler et lui écrasa le visage contre la table.
+  - Mehua ne décidera de rien.
+  Les autres, surpris, ne surent pas réagir à temps ; elle avait disparu, laissant le soldat avec un nez cassé.
+Ses pieds foulaient lourdement la pierre irrégulière de la rue vide. Elle monta une marche. Deux. Le palais se rapprochait lentement. Encore une éternité, et, douloureuse, elle fut aux ruines de la bâtisse.
+Elle avança jusqu'à l'ancien hall.
+Elle ne laisserait plus Mehua décider de sa vie.
+
+Cette nuit-là, elle prit le lit du Sahn, miraculeusement encore debout. Le lendemain, elle avait les idées claires. De sa nouvelle demeure de cendres, elle redescendit à l'infirmerie.  Cette fois-ci, elle aida les médecins, malgré son état.
+  - Mais qui êtes vous ? Demanda une infirmière, étonnée. Une femme décharnée et sale qui les aidait avec tant de ferveur, c'était atypique. La plupart gémissait dans leur lit de fortune.
+   - La nouvelle Sahn.
+Répondit-elle.
+Le soir même, sur les marches du palais,  elle l'annonça à la ville en cendres.
+  - Je suis la nouvelle sahn, et je défendrai ces terres !
+  à ce cri, les soldats encore en vie se rassemblèrent.
+  - C'est elayin. C'est l'aroatis !
+  - elle est née ici.
+  - elle a combattu avec nous.
+  - elle a tué l'imposteur. On a retrouvé sa lame sur son corps.
+  Elayin sourit, épuisée.
+La poignée d'hommes autour d'elle l'avait accepté comme nouvelle dirigeante.
+
+Par la suite, elle prit la direction des opérations. Tout en soignant ses blessures, elle entreprit d'aider, de son mieux, à reconstruire la ville et le palais. Elle regardait les plans. Cherchait les architectes. Dirigeait les soldats encore en état.
+Et, bientôt, Xo la rejoignit pour l'aider à la tâche, puis Deshi. Les autres de leur génération avaient fuit, comme Aran ou Nine, ou étaient aux portes de la mort, comme Aldershin et Yoka. La reconstruction prendrait des mois pour  la cité, des années pour leur esprit. Il restait encore à convaincre le reste du pays qu'ils étaient ses nouvelles têtes. Mais, à trois, ils reprenaient confiance en l'avenir.
+
+## #3
+
+Ils étaient empereurs des ruines. 
+Il n'y avait pas le temps de reconstruire le palais ; il avait été dressé avec les moyens du bords : les murs étaient désormais de planches recouvertes de toiles, les plafonds de tissu. Elayin occupait l'ancienne chambre du Sahn. Si ceux qui la connaissaient peu étaient surpris de lui voir tant d'ambition, ses frères d'armes s'y attendaient. Xo et Deshi occupaient des chambres attenantes ; presque des tentes dans les gravats, en réalité.
+Ils se trouvaient, aux premières lueurs du jour, autour d'une carte du royaume faite au papier et au charbon.
+  - De nouvelles troupes arrivent. Déclara l'un des généraux en ajoutant au noir des nuages dans la mer sud.
+  - Ils n'ont plus de Lys Rouges. Nous pouvons gagner. Repondit Elayin avec assurance.
+  - Ils auront des dragons-fauves.
+  - Ce sont des créatures de mer ; elles ne menacent que les côtes, et ce n'est pas ce qu'ils souhaitent envahir.
+  - Certes, mais des villes importantes risquent d'être touchées.
+  - J'en doute. Les villes maritimes sont les plus proches de Mehua, et les plus favorables à leur régime. Sauf...
+  - ...Le Beyris et le Beylos. Conclue Deshi. Encore pâle, le jeune homme avait failli perdre ses jambes dans la bataille du palais. Il en garderait de larges cicatrices aux cuisses, tout comme ses compagnons qui avaient aussi écopés de lourdes marques. Elayin aux bras, Xo au ventre.
+  - C'est là que nous devons concentrer nos forces. 
+  L'impératrice acquiesça. 
+  - Nos émissaires sont-ils revenus ?
+  - l'ouest se joint à nous. Quant aux États Salins... Nous verrons, ma dame. Mais notre nombre de soldats grimpe drastiquement, depuis qu'ils savent que des aroatis nés au pays reprennent le contrôle.
+  - Merci.
+  Elle acquiesça et quitta la table, concluant la séance. Les guerriers repartirent à leurs tâches, et elle s'assit sur un fauteuil à demi brûlé.
+  - Xo... Où sont Aran, Ereshi, Harun ?
+  Demanda-t-elle, l'air défait.
+  - Ne t'inquiète pas. Nous les retrouverons bientôt. Affirma-t-il doucement en s'accroupissant à côté d'elle. Depuis qu'ils avaient retrouvé Aldershin et Yokai aux portes de la mort, elle était terrifiée à l'idée de retrouver les cadavres de ses amis.
+   Elle portait encore ses vêtements sales du jour du combat ; cela faisait plusieurs semaines. Elle avait les cheveux aussi emmêlés que ceux de Deshi, mais il n'y avait pas le temps de s'occuper de pareil détails. Son teint était cireux, ses yeux ternes.
+  - Elayin, va te laver. Tu en as besoin.
+  - Xo... Il me manque tellement. Elle fondit en larmes. Parfois, elle craquait. Elle pensait à Urazan. A sa haine, à son désarroi, à sa frustration, à son désespoir. Parfois, à sa douceur et son amour exotique. Elle était une aroatis ; mais l'épuisement l'empêchait de gérer son coeur comme elle savait d'ordinaire si bien le faire.
+  Xo l'enlaça.
+  - Ça va aller, Elayin. Ça va aller.
+
+
+## #4
+
+Ils avaient le soutien de l'état d'Eleñir.
+Dans son palais de fortune, Elayin avait reçu la missive avec soulagement.
+Elle était déjà plus présentable ; l'espoir revenait. Elle avait désormais une tunique d'un rouge profond, renforcée de cuir souple aux endroits stratégiques. Impératrice, elle avait commencé la reconstruction de la ville, dirigeant les civils qui n'iraient pas au combat. Xo était parti à l'ouest chercher de nouveaux soldats prêt à défendre leur pays, dans les cités du désert dont il était originaire. Les tenrans du désert étaient fiers de leurs racines, l'entreprise fut aisée.
+ Deshi, lui, organisait les combats avec les généraux.
+Il y avait quelques contestations de leur nouvelle position ; mais il n'y avait plus,  vivant, de soldats assez puissant pour défier les aroatis. Quant aux aroatis plus anciens, la plupart se satisfaisaient bien de laisser les responsabilités au sang neuf, déterminés par leur expérience de la guerre. Mais une fois l'empire revenu à la paix, il était certains que ceux-ci chercheraient par tous les moyens à prétendre au titre d'empereur.
+Elayin était confiante ; les soldats leurs étaient fidèles. Leurs aînés qui avaient préféré la protection du Sahn mehens n'aurait jamais le soutien du peuple. Quant à ceux des rebelles... Ils en discuteraient.
+Mais personne ne prendrait sa place.
+
+Leurs projets terminés, ils se retrouvèrent au Sud, dans la ville d'Al Erih, cité côtière du Beyris. L'offensive méhenne était attendu dans les semaines suivantes, d'après les calculs du temps pris par le voyage en bateau. Il ne savait pas où ils débarqueraient ; le continent était vaste. Mais c'était la pointe la plus proche. C'était un pari à prendre.  Ils avaient disposé autant de troupes que possibles le long de la côte. Armés comme ils pouvaient, de lances, de sabres et d'épées, les villes tenranes attendaient l'envahisseur comme un tigre furieux.
+  - Repose toi, Yin. Lui dit doucement Deshi alors qu'ils dînaient. Ils s'étaient installés dans une auberge. La guerre n'avait pas encore touché beaucoup de villes, mais elle ne tarderait pas. Les mehens étaient peu présents sur le continent tenrans, et la plupart avait été chassé ou forcé de prêter allégeance à Tenro après la destitution du Sahn. Des bateaux de civils quittaient le pays, pour Mehua ou Elyon.
+ L'impératrice regardait du coin de l'oeil un homme à l'armure d'or.
+  - Eleñir est un état prospère, n'est ce pas ? Fit-elle nonchalamment en finissant son repas.
+  - Plutôt, oui, répondit le commandant Makko. Ils ont gagné toutes leur récentes guerres, et avec cela beaucoup de richesse.
+  - J'y ai un ami. Je suis sûr qu'il a aidé la Dame à prendre sa décision. murmura-t-elle.
+  - il faudra le remercier.
+  - nous enverrons une délégation après la guerre, j'en ferai partie. 
+  - Si nous sommes encore vivant... Souffla Deshi. Ses longs cheveux étaient noués en chignon serré. Il était rare de le voir, visage ainsi dégagé.
+  - Tu n'y penses pas... Répondit Xo d'un ton échauffé. Si nous gagnons, ils vont tous nous tomber dessus. Neri, Kal, Abira, d'El Arez. Si tu n'es pas là, comment défendras-tu ta place ?
+  - Ce n'est pas un jeu de chaises musicales. Je veux être une impératrice capable de quitter mon trône une semaine sans qu'il me l'ait été pris entre temps. Rétorqua-t-elle.
+  - tu rêves... Tes exploits de guerre ne leur font pas peur.
+  - nous les dominerons, Xo. Nous laisserons le peuple choisir.
+  - des élections ? Comme en Elyon ?
+  - C'est cela même. Voilà ce que je proposais : elir trois empereurs.
+  Makko rit.
+  - Peut on parler d'empereur, s'il y en a trois ?
+  - Je l'ai décidé ainsi. Répliqua Elayin, menton levé et regard incendiaire. Nous régnerons. Si cette guerre se solde en victoire, se sera notre victoire, et pas celle de Neri, Kal, Abira ou d'El Arez. Plus jamais nous ne nous laisserons gouverner, Makko. Tu entends ?
+  - J'entends, j'entends. Sa voix avait baissé d'un ton. La jeune femme dégageait une aura impressionnante. Il ne se ferait décidément jamais aux doshai...
+  Elle quitta la table et monta dans sa chambre. L'aubergiste leur dispensait même de payer ; pour le pays, il leur offrait gîte et couvert.
+Xo soupçonnait Elayin d'y être pour quelque chose dans sa générosité, mais il s'était tut.
+Les civils ne sentaient encore que l'excitation de la guerre. La peur n'était que secondaire. Se battre pour la liberté excitait les jeunes et faisait briller une lueur dans les yeux des adultes. Les tenrans avaient toujours eu le sang chaud. Vêtus de leurs voiles colorés, il chuchotant : "notre pays nous revient", en brûlant des plumes et des écailles mehennes. Les rares que le conflit effrayait fuyait dans l'intérieur-ouest, là où seul le désert et de petits villages des sables les accueilleraient.
+
+  - Nalan. Elayin salua l'homme qui partageait sa chambre. Il lui sourit en retour.
+  - impératrice.
+ Elle s'assit, l'air abattu.
+  - Nalan, ce rôle ne me va pas. Je ne me reconnais plus. Je fais attention à mes atours, j'utilise mon pouvoir pour intimider les gens. Je m'écarte du chemin. Quand ai-je vraiment médité pour la dernière fois ?
+  Il la prit dans ses bras. Ancien domestique du palais, il n'était à l'époque qu'une connaissance. Depuis, la simple vu d'un visage connu de sa vie d'avant lui faisait du bien.
+  - Médite maintenant. Lui proposa-t-il. Je dormirai.
+  Elle laissa perler quelques larmes froides, puis hocha la tête.
+  - Merci.
+  - Tu fais une super impératrice.
+  Elle lui offrir un pauvre sourire.
+  - je joue la confiante, mais je doute que ce rôle soit celui qui m'aille. Mais je n'ai plus le choix, alors je le ferais.
+  - on a tous le choix, enfin.
+  - tu ne comprends pas.
+  Elle s'assit, face à lui. Il avait la peau brune, plus brune même que Xo. Des cheveux bouclés, et les yeux bleus clairs du pays.
+  - Je ne veux personne pour me contrôler.
+  Il cligna des yeux, légèrement déstabilisé.
+  - Yin, je te connais depuis ton enfance. As-tu vraiment toujours eu ce côté... Dominateur ?
+  Elle réfléchit un moment, avant de dénouer ses cheveux.
+  - Je ne sais pas, Nalan. Mais j'en ai assez. Mes parents ont choisi ma voie. Mes professeurs l'ont ensuite dessiné pour moi. Puis le Sahn. Mais depuis qu'on m'a chassé, ma vie est à moi. Si quelqu'un d'autre prend le contrôle du pays, les aroatis redeviendront des serviteurs.
+  - c'est leur rôle. N'est ce pas bien qu'ils mettent leurs pouvoirs au service du peuple ?
+  - si. C'est ce qu'il faut. Mais, moi, je ne vivrais plus dans la servitude.
+  Il pencha la tête.
+  - tu te penses différente ? Demanda-t-il doucement.
+  - ce n'est pas ça. C'est simplement... J'ai la possibilité d'être libre. Alors je le serais, c'est tout. Elle ferma les yeux. Car je peux le faire.
+  Il tendit une main pour toucher ses mèches de jais. Au temple, Elayin avait été sympathique, mais assez terne. Sa récente prise de confiance et de pouvoir la rendait désormais... Magnétique.
+Elle saisit sa main avant qu'il ne l'effleure.
+  - Non. Dit-elle doucement. Elle se leva, delaça sa tunique, et se coucha dans son lit, à part de celui du jeune homme. Dormir dans la même chambre qu'un ami l'aidait. Les cauchemars se multipliaient depuis le palais. Il en allait  de même pour Nalan. Il y avait laissé son bras gauche.
+  dans le noir de la nuit, elle pleura doucement. C'était une habitude d'Urazan, de toucher ses cheveux lâchés. Il lui manquait tant.
+
+## #5
+
+"Navires en vue !"
+
+Ils les avaient senti avant l'alerte. Les aroatis les plus puissants avaient parcouru les côtes, senti les vibrations. Leurs dragons fauves avaient des auras particulièrement lourdes.
+Sur les plages de sables blancs, à quelques centaines de mètres de la mer calme, attendaient les troupes. Ils étaient armés jusqu'aux dents, immobiles dans le vent froid, prêts à abattre le débarquement.
+Les stratèges avaient monté des bases tout le long de la partie sud ouest de la côte du pays, du désert au Beyris. Elayin, en armure légère, menait des troupes. Xo et Deshi étaient à d'autres points stratégiques, avec la même mission. Elle leva la main, et leurs archers et canoniers se mirent en joue, attendant que les bateaux soient à porté.
+Et puis, un sifflement bref leur vrilla les tympans. Chacun porta ses mains à ses oreilles. Des armes ? De nouveaux canons ennemis, pour les assourdir?
+La réponse souleva une immense trombe d'eau. De fines membranes crevèrent la surface d'huile, avant de soulever une monstrueuse masse rouge sombre. La créature avait un bec d'oiseau, quatre pattes puissantes, et une queue longue comme les navires derrières elle. Elle hurla encore.
+Le dragon fauve fondit sur les troupes.
+Il se posa vite ; ses ailes servaient plus à la nage qu'au vol. Mais l'animal n'avait pas besoin de ça. Haut comme l'auberge où Elayin avait dormi la veille, il se cabrait et crachait des jets d'eau bouillante au visage des soldats, déchirant des membres de ses griffes. Des torrents salins se déversaient sur les troupes ébouillantés. Le cuir du dragon essuyait les lames sans un dommage.
+Un artilleur prépara une munition et visa le dragon ; celui ci, avec une vitesse qui dépassait l'entendement, esquiva le projectile et fila, immense forme sinueuse, brûler vif le malheureux.
+Et, alors que les soldats se faisaient malmener par le monstre, débarquèrent les ennemis.
+En hurlant, les soldats mehens brandirent leurs lames recourbées, et le sang se répandit sur le sable.
+Elayin hurlait des ordres en tranchant des gens. Elle n'avait jamais pris part à pareil boucherie. Le sang battait ses tempes et giclait sur son visage. Sabre en main, elle survivait, se battant comme jamais. Elle qui avait jusque là compté chaque vie qu'elle prenait, perdait le compte.
+Elle comprit vite, dans le chaos de la bataille, que l'avantage des opposants ne venaient que de leur monstre. A l'exception de celui ci, leurs guerriers semblaient moins nombreux et moins bien préparés. Mais le dragon fauve faisait des ravages, et semblait intouchable.
+C'était à un aroatis de faire ce travail là.
+Elle inspira, rassemblant le peu d'esprit qui lui restait dans la bataille, et laissa exploser son doshai. Ébranlé par l'étrange attaque, la créature rugit et se jeta sur elle. Elle l'accueillit sabre en avant ; l'animal fondit sur elle. Il mordit sa cheville, et le sable devint carmin. Elle hurla, tomba, et, avec la même force qui lui avait permis de tuer le Sahn, plongea sa lame dans l'oeil de la créature. Elle lâcha son pied ; son cri fit s'arrêter brièvement les combats. Les ultrasons des dragons fauves étaient vraiment terribles. Borgne, furieux, la créature se jeta sur sa proie au sol. Elle laboura son bras blessé, son ventre, ses jambes.
+Elayin allait mourir, elle le sentait. Son sang teintait le sable, elle voyait flou. Et puis, quelqu'un saisit son sabre, et d'un mouvement véloce, frappa le palais de l'animal tout en opérant une puissante frappe mental. Le dragon hurla encore, et l'homme enfonça le sabre dans son oeil blessé. Plus loin. Jusqu'à la garde.
+  - Tu vas crever, saloperie ! Hurla-t-il, maculé de son sang noir.
+ L'animal recula.
+Aran se laissa tomber un instant au sol. Puis, alors que la réalité de la rage des combats le reprenait, il tira Elayin, en lambeaux, repoussant les assaillants qui cherchaient à la finir d'une frappe de doshai brute et pure. 
+Celle-ci voyait flou. Mais, là, à travers les combats, dans la mer...
+  - Aran... ! Gemit-elle. Des êtres aquatiques ! 
+  Il ne répondit pas, dents serrées. Et elle s'effondra.
+
+Elle fut récupérée, soignée. Elle n'avait pas subit de trop lourd dommages, malgré ce qu'on en avait cru. Sa cheville était fragilisé, son corps contusionné, et sa peau ressemblait à un amas de chair à vif, mais aucun organe n'était gravement touché. Aidée de ses légères capacités de sorcière,  elle fut à peu près sur pieds quelques semaines plus tard. Ou, du moins, pouvait-elle porter une armure.
+Les ennemis avaient fait une percée au niveau du désert. Ils avançaient ; tant bien que mal, les troupes des aroatis tentaient de les repousser, majoritairement constituées, maintenant, de civils. Il y avait quatre dragons fauves, et deux avaient été mis en déroute ; l'un avait fuit après avoir perdu un oeil, pour l'autre, son dresseur aquatique avait été abattu. Les deux derniers étaient furieux et s'en donnaient à coeur joie sur les champs de bataille. Les hommes qui les contrôlaient, créatures marines intelligentes, étaient très compliquées à toucher sur le champ de bataille.
+Mais ils allaient repousser les assaillants, c'était une question de temps. Elayin en était persuadée. Alors, dans son lit d'hôpital, elle s'interrogeait, inquiète, au milieu des blessés de guerre qui la couvaient de regards fous d'admiration.
+Pourquoi s'obstinaient-ils ?
+Que cherchaient-ils ?
+Atteindre le palais ? Aucune chance. Et même, jamais ils ne tiendraient la place forte plus de quelques jours. Les tuer, eux, nouveaux dirigeants aroatis? Ils ne semblaient pourtant pas les prendre pour cible.
+Elle avait réclamé une carte et un crayon, et, dans l'ennui de l'hôpital, elle réfléchissait intensément, suivant du bout des doigts leur trajectoire.
+Soudain, un éclair.
+  - Putain... !
+  Ses voisins semblèrent choqués, mais elle s'en fichait. Elle ferma les yeux. Sa chemise de nuit légère irritait atrocement sa peau fine. Elle se concentra, et essaya de joindre le doshai de Xo. Comme le voulait la politesse, elle l'effleura, se fit reconnaître, puis transmis son message.
+
+"Ils veulent nos dragons."
+
+A des kilomètres de là, Xo, dans sa tente, écarquilla les yeux. 
+
+Les mehens était un peuple très pieux. Leurs dieux, esprits naturels, s'incarnaient en plusieurs formes plus ou moins métaphoriques. L'une d'entre elle correspondait à certains dragonides : dragon fauve, rêves ailés, montagne des sables. Ces derniers ne designaient pas des formations rocheuses, comme on pourrait s'y attendre, mais des créatures immenses, tapis sous les dunes, inapprivoisables et surpuissantes. Endormies la majeur partie de leur vie, elles se nourrissaient d'insectes des sables et n'étaient, pour la plupart des tenrans, que des sortes d'ours locaux. Bien qu'ils fassent dix fois la taille d'un ours adulte.
+
+C'était ces armes que cherchaient les mehens. Les mehens, seuls à avoir apprivoisé les dragons fauves... Avaient-ils, pendant leur règne, appris en secret à contrôler les montagnes ? 
+Ils n'avaient aucun moyen de palier à cette éventualité. Leurs soldats ne seraient pas prêt, et même les aroatis ne pourraient tenir tête aux créatures.
+"Impossible," répondit Xo dans un souffle de son doshai. "C'est impossible, enfin."
+"Je ne vois que ça. Ils se dirigent vers le désert au lieu d'attaquer le palais. Ils progressent malgré la faiblesse de leurs armées. Xo, ce sont les dragons qu'ils veulent réveiller. Ensuite, ils auront le contrôle du pays."
+
+
+
+## #6
+
+Elayin #6
+
+Ils n'avaient pas eu les dragons.
+Ils avaient failli réussir ; dans une dernière bataille terrible, où une montagne de roche s'était réveillée, ils avaient été vaincu. Leur dirigeant mehen avait fui, comme ses soldats survivants. Elayin, qui s'était battu en premier ligne, y avait laissé son pied droit.
+Elle s'y voyait encore, à chaque fois qu'elle fermait les yeux. Allongée sur le sol, la douleur lancinante. L'immonde sensation qu'il manquait quelque chose à son corps. Que sa chair était perdue. Suffoquant dans le sable et le sang, les yeux brouillés de larmes, de sueur. 
+Étendu sur son lit du palais, regard terne, elle fixait le ciel à travers la fenêtre. Les cauchemars ne l'affolaient même plus. Elle y attendait la mort.
+ Son sacre était prévu pour les prochains mois. Les autres aroatis s'excitaient, indignés. Et elle, cherchait à comprendre pourquoi le manque de cette petite partie de chair lui faisait si mal, au bout de sa jambe.
+On avait convoqué un ingénieur. Un mehen blond comme le soleil, installé en tenro depuis quelques temps, qui avait subi la guerre malgré lui, incapable de retourner à son pays d'origine. En reconnaissance à la nouvelle impératrice, il avait commencé à travailler sur une prothèse de qualité qui lui serait offerte.
+Une légère opposition s'élevait tout de même. Les morts, la ruine. Le manque de ressource du au blocus des ressources mehennes. Les intellectuels disaient que les aroatis avaient agi comme des enfants impulsifs, et qu'ils fallait de plus sages à la tête du pays.
+Elayin s'en foutait.
+Elle laissait Deshi et Xo s'en occuper.
+Allongée depuis des semaines, Elayin avait juste mal.
+Son doshai dormait. Il n'était plus qu'une masse floue, un océan qui la ballotait où il le voulait.
+Elle était devenue un martyr, au même titre que Deshi et Xo, eux aussi lourdement blessé par les combats. Deshi s'en sortait avec des blessures internes qui guériraient avec le temps ; Xo avait désormais un quart de son torse recouvert de métal, le côté gauche. Enroulé de l'aine à la colonne vertébrale, une fine plaque d'acier. En fait, il n'avait plus grand chose en dessous. C'était sa nouvelle peau. 
+Elle revoyait la lame mordre sa cheville. Son corps s'effondrer. Deshi l'avait sauvé de peu.
+  - Elayin ? Fit une petite voix. C'était Nalan. Elle ne répondit pas. Il s'assit, posa un plateau de nourriture, avant de reprendre.
+  - Tu dépéris... Le pays a besoin de toi.
+  elle resta silencieuse.
+  - Tu es une figure publique, désormais. Tu dois te montrer forte. On dit que tu t'occupes des affaires administratives et que c'est pour cela qu'on ne te voit pas. Mais cela ne tiendra pas pour toujours... Elayin, ton peuple...
+  En fait, elle en avait marre. Elle dormait déjà depuis trop longtemps, elle le sentait. Mais elle avait si mal.
+  - Mon peuple. Souffla-t-elle. Mon peuple m'a tant pris.
+  Son amour, son coeur, son corps, sa sérénité. Sa paix intérieure, envolée dans le sang et les cris. Les corps et les membres tranchés la hantait. 
+  - Lève toi. Exigea-t-il. Elle soupira et obéit. Il avait posé le plateau sur la table de nuit ; elle y vit du riz aux oeufs, du poisson, et même un petit gâteau à la confiture. Elle les adorait, longtemps auparavant. Elle ne l'avait jamais confié à qui que ce fut. Un aroatis n'avait pas à mentionner un "gâteau préféré". Maintenant, tout avait un goût de cendre.
+  - regarde moi.
+  Ses yeux jaunes dévisagèrent le jeune homme. Il avait souffert, aussi. Perdu un bras. Était ce pire qu'un pied ? Elle ne voulait pas y penser.
+  - Tu seras une impératrice magnifique. 
+  Elle se tendit. Ses yeux regorgeaient de détermination, mais elle ne la partageait pas.
+  - Tu protégeras le pays de la guerre. Tu feras les bien.
+  - Je ne suis qu'une gamine, Nalan.
+  - Tu es une moniale éduquée pour être sage et patiente. Tu sauras comment agir. Tu l'as toujours su, et c'est pour cela que tu es au palais aujourd'hui. Lève-toi, avant qu'on ne te vole ton empire.
+  C'était un ordre. Elle leva légèrement le menton. Elle n'avait jamais eu le regard si froid auparavant. Elle ne dit pas un mot ; mais il comprenait qu'il avait dépassé les bornes. Il parlait désormais à l'impératrice.
+Elle se pencha. Il sentit alors, pour la première fois depuis longtemps, une pointe de volonté sous son océan flou de doshai. Nalan n'étant pas aroatis, mais il percevait bien leur magie. Il sourit.
+  - Impératrice. Il baissa les yeux.
+  - Regarde-moi.
+ Il obéit.
+Elle l'embrassa.
+Elle était l'impératrice. 
+Elle avait un empire à construire... Et une douche à prendre.
+Elle ferait avec la douleur.
+
+
+## #7
+
+Il ne ferait bientôt plus nuit, pensa Elayin, agenouillée devant la baie vitrée de sa chambre. On avait reconstruit le palais en priorité ; et si des artistes travaillaient encore sur de nombreux détails, elle disposait au moins d'une belle chambre. Et pourtant, elle dormait encore très mal.
+Dans son lit, Nalan, nu, ronflait doucement comme un jeune chat domestique au coin du feu. Elle ne lui accorda pas un regard en nouant la ceinture de soie de sa tunique.
+Elle avait la sensation d'avoir perdu un morceau de son coeur. Certains sentiments, si habituels, avaient disparu brusquement, sans qu'elle ne s'en aperçoive. Elle ne souriait plus par envie, mais par stratégie.
+A l'extérieur, un froid voile bleuté nimbait le ciel. Les neiges d'hiver ne tarderaient pas à arriver. Elle se surprenait parfois à avoir la pensée morbide que si leurs ennemis avaient attaqué durant cette période, les pertes auraient été bien plus lourdes. 
+La ville se reconstruisait encore, lentement. C'était un mammifère blessé qui prenait le temps de guérir ; et pour cela, les gens n'avaient pas le temps pour les guerres intestines. Les anciens aroatis, déterminés à prendre le pouvoir, avaient d'abord proposé des élections ; presque aucun citoyens n'était venu voté. Ils n'avaient pas le temps, et aucune autorité ne les y contraignait.
+Pourtant, il y en avait une.
+Depuis la bataille du palais, Elayin, Xo et Deshi avaient reçu le titre d'imperateurs. Cela s'était fait comme ça, scandé par la foule puis répandu de bouche à oreilles. Ils n'étaient que des gamins ; mais pour les tenrans, c'était un fait qui relevait du divin. Ils étaient les élus, les aroatis vengeurs du pays. On ne voyait qu'eux.
+Un jour, irritée, la grande aroatis Abira avait clamé le pouvoir. 
+Dans l'importante salle aux murs incarnats où se tenait les méditations sacrées quotidiennes, ainsi que l'ancienne place du Sahn, elle s'était agenouillée. Elle avait décrété que par sa sagesse et son statut de doyenne, elle se devait de guider ses jeunes frères et soeurs, devant leur petite élite d'aroatis.
+Elayin était entrée.
+Son doshai avait rugit et brutalisé celui de la femme. Celle-ci, totalement surprise et pas prête pour un combat, n'avait pas riposté ; Elayin l'avait jeté hors du tapis sacré.
+  - Je suis l'impératrice. Avait-elle énoncé d'une voix forte. Voyez au-dehors. Le peuple me dénomme ainsi. Je donne des ordres aux généraux depuis maintenant plus de dix lunes. Je gouverne, j'instaure, et je m'occupe de la reconstruction de la cité. J'administre ce pays. Je suis l'impératrice, et je ne tolérerai pas que ma position ne soit réfutée. 
+  Son doshai brûlait. Jeune et forte, elle semblait invincible. Abira s'était redressée.
+  - Tu ne fais que jouer, Elayin. Tu n'as pas vingt ans. Cela n'est pas ton rôle.
+  - Ne parle pas ainsi à ton impératrice, Abira.
+  Elle avait serré les dents. Puis son Doshai avait enfoncé celui d'Elayin comme un bélier de fer.
+Mais ses portes restaient closes.
+  - Sors, maintenant. Ordonna l'impératrice, menaçante. Ou tu seras escortée hors de ce palais par mes gardes.
+  Car c'était vrai : Elayin contrôlait. Le peuple l'avait accepté comme pouvoir.
+Xo et Deshi, légèrement en retrait, avaient eux aussi pris la position dans laquelle l'opinion public les avait placé. Deshi aux affaires internes, Xo aux affaires étrangères. La reconstruction, le pacte avec Mehua, Eleñir. Elayin gérait le tout d'en haut.
+Elle était épuisée.
+Elle avait l'air d'une femme de trente ans, et elle n'en avait pas vingt, bien que Nalan démentait toujours ces propos.
+Il était la seule faiblesse qu'elle s'autorisait. Elle n'avait accepté aucun pot-de-vin d'aucune sorte. Aucune proposition malhonnête, afin de financer un projet plutôt qu'un autre, de donner tel poste à tel personne. Elle était droite comme l'acier, et cette qualité typiquement tenrane plaisait au peuple, qui s'identifiait à la femme.
+Mais depuis quand se permettait-elle d'avoir des faiblesses ? Elle brossa ses cheveux de jais en soupirant. Nalan était agréable. Son doshai se repaissait de son calme et de son optimisme. C'était quelque chose que l'on apprenait à éviter à tout prix, chez les aroatis, dès les premières années d'apprentissage ; mais elle était si absorbée par le bien commun, que ses actions individuelles ne la touchait plus. Seul le peuple comptait. Elle n'avait pas à se remettre en question, pas dans une situation si précaire.
+Il lui manquait un bras, et elle, un pied. La prothèse finale n'était pas encore prête. Après quelques semaines de béquilles, elle avait eu un premier pied de métal léger non magique, fixé par des sangles de cuir, juste pour qu'elle puisse s'appuyer sur quelque chose. Elle le retirait dès qu'elle n'en avait pas besoin. Bientôt, elle l'avait vu dans les laboratoires du palais, le professeur Emshir lui offrirait cette oeuvre d'art d'argent et d'acier bourré de pierres qui deviendrait un bout d'elle-même.
+Nalan, lui, devrait attendre plus longtemps pour avoir son bras gauche. Elle avait tout de même déjà prévu de mettre l'ingénieur sur le projet, une fois son pied terminé.
+Ils venaient du même endroit, ils étaient tout deux brisés, et ils lui faisaient du bien. Pour l'instant... Elle s'y laissait aller.
+  - Elayin... Tu n'avais pas besoin de te rhabiller si vite. Murmura le jeune homme en l'enlaçant, encore ensommeillé. Elle l'avait senti venir, évidemment, sans cesser de contempler le paysage.
+  - Il y a une réunion du conseil, dans une heure. Je tiens à y être présentable.
+  Répondit-elle, neutre. Il enfouit son nez contre son cou, et elle le repoussa. Il protesta un peu. L'impératrice n'était pas du genre câline, a son grand desarroi. Elle se leva, et le quitta pour se rendre dans la salle à manger, sans un mot de plus.
+Encore une fois, elle sentait son coeur sec.
+
+
+## #8
+
+  - Tu couches avec l'impératrice ?! S'exclama son amie, surprise. Elle s'appelait Lylia ; une domestique du palais. Nalan haussa les épaules en jetant un regard au-dehors.
+  - Oui, mais seulement ça. Elle est encore plus distante qu'avant. Je pensais... 
+  - Être son âme soeur ? Tenta Lylia avec une main réconfortante sur son épaule.
+  - C'est comme ça que fonctionne les aroatis, non ? Se défendit-il. Ils prennent un compagnon, et... Ils se lient... Il avait une mine défaite. Mais pas elle, reprit-il. Elle, elle ne fait que coucher. Et encore... Elle est si... Il ferma brièvement les yeux.
+  - Si ? L'encouragea doucement son amie.
+  - Égoïste. Elle se fait plaisir comme si c'était un service que je lui devais. Et... Elle est devenue bien trop intimidante pour que j'ose protester à ce sujet. C'est loin de la romance que j'espérai.
+  - Nalan, elle sort d'une guerre, elle a perdu un membre. Et toi aussi !
+  - Je pensais... Qu'on panserait nos plaies ensemble. Grommela-t-il. Lylia soupira en mettant ses brioches au four. Assis devant la porte de la cuisine ouverte sur le jardin, Nalan pensait, morose. Elle vint s'asseoir sur le sol en face de lui, ramenant soigneusement ses jupes sur ses jambes.
+  - Nalan, laisse-lui du temps pour s'ouvrir. Les sentiments des aroatis sont profonds, ils mettent du temps.
+  Il acquiesça. 
+  - Mais c'est bon, non? La situation est posée.  On a gagné la guerre. Les fêtes de l'indépendance tiennent la ville éveillée toutes les nuits.
+  - Et l'as-tu vu s'y joindre une seule fois ?
+  Il hocha la tête. C'était vrai ; l'impératrice passait ces soirs de liesse au temple, à prier les morts victimes de la guerre. Son attitude exemplaire plaisait au peuple. Elle affichait un réel intérêt pour les vies civiles perdues dans le conflit. Quant à Deshi et Xo, ils peinaient de même à suivre ce ton léger ; seul Deshi joignait les festivités, et souvent pour rester assis, vers à la main et sourire terne aux lèvres.
+La situation était épuisante pour les élus. Chaque jour, de nouveaux conflits et débats étaient mis sur la table du conseil. Gérer l'argent restant du pays ou les ressources endommagées par la guerre était un véritable casse-tête ; le plus gros étant le manque soudain des ressources provenant de Mehua. C'était leur colorants et minérais qui avait été utilisé dans les fabrications de certains bâtiments importants, leurs soieries qui habillaient les femmes. Il fallait mettre en place de nouvelles productions, transformer la dynamique du pays ; et cela en évitant de céder ne serait-ce qu'une poussière de pouvoir à leur aînés, sous peine de se voir mutiler et déchiqueter dans l'arène politique. Épuisant, c'était le mot. Chacun des trois semblaient avoir pris vingt ans. On les comparait, non sans enthousiasme, à la triade des divinités du pays. On leur élevait des statues. Et eux, dans la peine de la victoire, ne pouvait se détendre qu'entre eux, loin des autres, loin de ceux qui ne comprenaient pas. Ils craignaient encore les espions, alors ils se faisaient prudents. Il était déjà arrivé qu'un secret confié par Deshi à Xo se retrouvat sur la table du conseil.
+
+  - Passe-le moi. Fit Elayin d'une voix éteinte en tendant sa main blanche. Xo y déposa le bec du narguilé qu'ils partageaient. Elle tira une longue inspiration avant de le passer à Deshi. Les trois empereurs se trouvaient dans les appartements de ce dernier. Assis à même le sol, entre quelques coussins, ils fumaient.
+  - Alors, avec ce Nalan ? Fit Xo.
+  - Rien. Je couche avec lui, voilà tout.
+  - Je ne pensais pas t'entendre dire cela un jour. Commenta Deshi, avec une pointe d'amusement.
+  - et moi donc, répondit-elle. Mon coeur est sec comme un oursin mort. Je vide mon doshai dans le plaisir qu'il éprouve, et c'est tout. C'est si creux. Et dire qu'on nous avait appris que les aroatis étaient incapables de relations légères. Siffla-t-elle, terne.
+  - Cela doit être ta plus longue phrase depuis ces dix derniers jours. La railla gentiment Xo. Nos compagnons nous manquent à tous, ma soeur. 
+  "nous les retrouverons", aurait-il voulu ajouter. Mais qu'en savait-il ? Le sien était un fauve volubile, c'était probable ; au moyen d'un portail, il pouvait le convaincre de le rejoindre. mais Deshi et sa jeune princesse du bout du monde, et Elayin et et son voleur sanguin ? Aucune raison qu'ils ne les retrouvent. Et d'abord, il fallait des portails. Quérir un voyageur était compliqué et hors de prix, et il était hors de question qu'ils dépensent de fortes sommes à des fins personnelles en temps de crise.
+Elayin bouillait de rage. Il le sentait. Le manque, comme une drogue, lui dévorait le coeur. Elle n'était que l'ombre d'elle-même, prête à tout détruire sous le coup de la colère et de la frustration. Sa fureur était déjà légendaire après seulement quelques mois d'exercice en tant qu'impératrice.
+
+## Enseignante
+
+-	Ainsi, les éléments primaires de notre univers sont donc saï’posen, chixala, shinn’dal et karasdan. Saï’posen représente la terre, ainsi que tous les minéraux qui la compose. Le sable, la roche, l’acier ou encore le quartz. Chixala est l’eau, mais aussi le vivant : car c’est de l’eau que provient l’âme et tout ce qui est organique. Les insectes, les plantes, les humains sont composés de tous ces éléments primaires à la fois, mais majoritairement de chixala. Un humain sans chixala pourrait posséder un corps, mais il serait inanimé. Il faut d’ailleurs s’abreuver régulièrement pour garder son âme active et son corps fonctionnel. Shinn’dal représente le flux : ou plus simplement, l’air. C’est aussi de shinn’dal que provient l’aura que perçoivent les aroatis, le doshaï. Pour finir, karasdan compose avant tout la foudre, ainsi que la lumière.
+Une petite main se leva, enthousiaste, faisant tinter ses bracelets de jade. La professeure baissa les yeux sur l’enfant. C’était une petite fille au visage ovale et à la peau tannée des tenranes de l’ouest. 
+-	Et le feu, madame ? N’est ce pas un élément primaire ?
+Elle secoua la tête.
+-	Les « éléments primaires » sont les matières qu’il nous est impossible de créer, malgré toutes nos techniques d’artisanat. Nous ne pouvons qu’à peine saisir leur essence. Le feu, en revanche, se crée aisément avec une pierre taillée ou du charbon. 
+La petite fronça les sourcils, mais ne broncha pas. D’autres questions fusèrent. « Et la texture des feuilles, des pétales de fleurs ? De quoi sont-ils faits ? Les coquillages ? Les plumes ? Peut-on les créer ? » Demandaient tour à tour les enfants. La dame prit le temps d’expliquer à chacun leur religion en détail. Ils se trouvaient au palais, dans l’un des salons privés de l’impératrice, aménagés pour l’usage. Des coussins pour asseoir ses étudiants ; de l’encre, des plumes et du papier pour chacun afin de prendre des notes.
+-	Alors… Ajouta lentement la petite au bracelet, nous sommes composés majoritairement de chixala, et donc, sommes liés aux esprits de l’eau. C’est cela ? L’enseignante acquiesça. Mais alors, pourquoi disons-nous être des créatures de la terre, ici, en Tenro, et que les meheens sont des êtres de l’eau ? 
+La dame sourit et prit son temps avant de répondre. Les meheens étaient originaires de Mehua, large île qui les avait colonisés durant de longues années, à la recherche de terres bénies par leurs esprits. La guerre d’indépendance venait à peine de se terminer, et elle l’avait remporté, avec les deux hommes qui formaient le triumvirat à ses côtés.
+-	Nous ne sommes pas des créatures de la terre, dans le sens où nous n’en provenons pas. Cependant, nous en sommes les gardiens. En Tenro vivent de puissants esprits saï’posen et shinn’dal ; en tant que peuple de ce pays, il nous revient de les apprivoiser et de les protéger.
+-	N’est-ce pas le rôle des aroatis ? 
+-	C’est le rôle de chacun. Il est vrai néanmoins que les aroatis dévouent leur vie à cette tâche.
+A l’origine, pensa-t-elle. Désormais, leur rôle était plus politique que jamais. Les aroatis avaient d’abord été utilisé comme arme par le gouvernement précédent ; désormais, c’était à eux de choisir ce qu’il en ferait. Les aroatis étaient un symbole, pour le peuple. Le sujet ne pouvait être traité à la légère.
+La cloche sonna, et les enfants filèrent de la classe avec un cri de joie. Seule la petite resta encore un peu, discutant du sujet du jour avec quelques amis ; puis elle salua l’impératrice, la remercia chaleureusement de ses apprentissages, et s’en alla jouer dehors. Elayin soupira et s’assit sur un coussin de soie, avant d’allumer un fumoir. Autant profiter de ses quelques minutes de calme, dans son palais personnel de soierie et de motifs floraux. Elle jeta un œil à sa cheville gauche, où était désormais attaché un pied d’argent et d’airain. Une blessure de guerre.
+C’était l’idée de Rendal, son favori, de se faire enseignante ; et elle l’avait tout de suite charmée. « Tu ne sais jamais quoi faire de ton temps libre. Tu t’ennuies ; pire, tu t’enfermes dans tes idées sombres. Utilise ces heures pour le peuple, il t’en sera reconnaissant, et tu n’en seras que plus apaisée. », lui avait-il dit. Il lui avait proposé d’apprendre aux enfants ; elle avait accepté. Ainsi, plusieurs jours par semaine, ils pouvaient bénéficier de cours supplémentaires avec l’impératrice. Dans les villes, et a fortiori la capitale, l’école était gratuite et habituelle jusqu’à l’âge de seize ans environ. Dans les villages, on avait parfois un doyen pour s’occuper d’éduquer les jeunes, mais pas toujours. Mais même à la cité, lorsque les parents avaient besoin de faire travailler leurs petits pour boucler leurs fins de mois, l’école devenait secondaire. Elayin avait décidé de se pencher sur ce problème. Tout d’abord, elle effectuait des rotations dans les groupes d’une vingtaine d’élèves qu’elle prenait, afin de s’assurer que tous puissent en bénéficier. Ensuite, elle organisait ses leçons sur les jours de repos, où même ceux qui travaillaient pouvaient venir. Elle les accueillait au palais, dans l’un de ses salons. Ils pouvaient approfondir les notions déjà acquises à l’école, ou demander d’autres sujets. Certains ne savaient ni lire ni écrire, et l’impératrice se chargeait de suivre, du mieux qu’elle pouvait, leur apprentissage. Pour ceux-ci, qui restaient une forte minorité à Bengaï Ukosha, elle utilisait parfois l’une de ses domestiques pour s’occuper d’eux plusieurs fois par semaine. Avec ses propres tâches d’impératrice, elle ne pouvait se permettre d’y verser trop de son temps, bien que le sujet lui tienne à cœur. Elle avait d’ailleurs commencé à mettre en place un plan de formations de professeurs, qu’elle prévoyait d’envoyer éduquer les villages, notamment ceux des déserts de l’ouest où l’éducation peinait à s’imposer. Xo l’avait mis en garde que les habitants pourraient voir cela comme une manipulation de l’Etat ; elle lui avait alors donner la tâche d’arranger cette disposition au goût des tenrans occidentaux, puisqu’il était celui qui les connaissait le mieux. Il avait accepté la tâche à contre-cœur. Pour lui, une armée forte était plus importante qu’un peuple lettré. Les gens savants passaient leur temps à débattre et se perdre dans des problèmes inutiles, disait-il. Mais il respectait Elayin, et voyait tout de même les bénéfices de ses idées.
+En retour, il la relançait sur la prochaine cérémonie du Silence, où devrait être sélectionné une toute nouvelle génération d’aroatis. Elayin acquiesçait, yeux dans le vide. C’était la dernière chose dont elle avait envie. Lorsqu’elle apercevrait ces enfants, destinés à un sort semblable au sien, elle se reverrait, jeune et naïve… Et cela l’emplissait d’effroi.
+## Shija Ashire
+
 On les appelaient les piliers du monde, "Shija Ashire". Leurs sommets étaient éternellement recouverts de givre et d'épaisse poudreuse ; la légende racontait que les esprits de la terre qui incarnaient ces montagnes soutenaient le ciel, tout en s'ancrant au coeur des abysses. Ce qui maintient et s'élève.
 Shija Ashire.
 
@@ -592,3 +950,12 @@ Elle se glissa sous ses draps, doucement, nue. Embrassa sa nuque, son dos. Elayi
   Ses yeux, plongés dans les siens, portaient un air de défi qui séduisit d'autant plus la comédienne. Elles dormirent enlacées.
 Tout le palais put sentir, enfin, le doshaï d'Elayin apaisé.
 
+Hester retrouva Elayin sur la terrasse. C'était une esplanade dorée, pure, offerte à l'air froid et clair des montagnes et de Shija Ashire. 
+Le regard d'Hester échoua sur la cheville de son aimée. Métallique.
+  - c'est nouveau, ça.
+  Hester hocha doucement la tête.
+  - la guerre.
+  - je connais.
+  Elayin rit doucement.
+  - Non, tu ne connais pas, Hester. Ce que tu connais n'a rien à voir avec la guerre.
+  Elle se tut et vint enlacer Elayin. Elle avait sûrement raison.
