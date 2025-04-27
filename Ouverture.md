@@ -8,6 +8,13 @@ Work in progress !
 Reste plus que le old_à_trier_noncanon
 Ajouté aussi anthologie alisandre
 
+TDL :
+- Finir d'ajouter tous les bouts des notes en markdown + des docs word qui traînent
+- Continuer à compléter avec ce que j'ai dans le doc word (checkpoint : sylithes, mais vérifier que je n'ai rien oublié entre temps)
+
+A faire un jour : relire sylithes, relire Elayin, retirer les espaces après les marques de dialogues dans les extraits dans personnages (notamment pour Ayte & Lavadi et Alisandre)
+Courage ! <3
+
 13/04/25
 
 Fini "Ios", reste à checker les ptits bouts dubiously canon + descri, puis les doc word que j'ai
