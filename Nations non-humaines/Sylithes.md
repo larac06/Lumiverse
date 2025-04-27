@@ -2,7 +2,22 @@ _Indépendance, unité, religion_
 
 *Lorsque l'on entrait dans la caverne, on s'engouffrait dans un caveau de roche sombre, sauvage et nu. On y voyait traîner ça et là quelques poussières de lune, ces fragments utilisé pour concevoir les lanternes alchimiques, qui illuminaient les murs irréguliers. Mais si l'on prenait la peine de s'y enfoncer -ce que personne n'avait jamais pu faire, car aucun humain n'avait jamais foulé ces terres du pieds-, on pouvait y découvrir des secrets enfouis.
 Les murs évoluaient en circonvolutions taillées. Grossièrement d'abord, plus de plus en plus finement. A terme, on arrivait devant une immense porte, haute comme cinq hommes adultes et large comme dix. Elle était toujours ouverte. Derrière s'étendait la cité.
-Des coursives surmontaient des dômes et des monuments. Les nuances de roches étaient innombrables, se répondant avec harmonie dans une riche palettes de tons blancs, bleus, rosés ; quartz, granite, diorite, gabbro, syénite. Chaque façade était ornée avec soin, comme autant de bijoux sculptés de matériaux communs. La cité était encore plus immense que cela, et en dehors du dôme principale, des couloirs et des escaliers traversaient encore la montagne et la terre en tout sens. Les galeries formaient une fourmilière géante, travaillée et entretenue par son peuple si particulier.*
+Des coursives surmontaient des dômes et des monuments. Les nuances de roches étaient innombrables, se répondant avec harmonie dans une riche palettes de tons blancs, bleus, rosés ; quartz, granite, diorite, gabbro, syénite. Chaque façade était ornée avec soin, comme autant de bijoux sculptés de matériaux communs. La cité était encore plus immense que cela, et en dehors du dôme principale, des couloirs et des escaliers traversaient encore la montagne et la terre en tout sens. Les galeries formaient une fourmilière géante, travaillée et entretenue par son peuple si particulier.
+
+----
+
+
+*Les rayons du soleil étaient banni de la cité.
+Leur seul accès était la rosace de verre en son sommet ; mais celle-ci était close à chaque aube pour l'enrober d'un écrin de nuit permanent.
+
+*Les historiens prétendaient la ville faite de roche, mais ils se trompaient : c'était la roche qui faisait la cité. Elle était les pierres, les filons, le marbre brut de la cavité immense où elle se nichait. On avait sculpté l'intérieur en coins, en escaliers, en coursives, en dentelles de pierre qui habillaient les façades ; mais tout était né d'un bloc pur, encore à son emplacement naturel. Rien n'était extérieur, rien n'avait été déplacé. La cité était la montagne autant que chacune de ses galeries. La montagne-source ; Etsimea.*
+
+*Les murs étaient troués de larges fenêtres sans vitre, lorsqu'ils n'étaient pas simplement des arches ; au moins la moitié des bâtiments n'avaient pas de toits. C'était un lieu tout en colonnades, en poutres, en esplanades, sans frontière pleine entre les espaces, dont les couleurs variaient avec les minéraux naturels : de rouge à ocre en passant par toutes les teintes de bleus et de violets, striés et tachetés de teintes irisés. Des grappes de fleurs fluorescentes scintillaient dans les fissures et attiraient les carvernicoles, petits insectes aux longues pattes et à l'abdomen étincelants qui en récoltaient le nectar.*
+
+*De jour, c'était un mausolée, silencieux, sombre et désert. Mais lorsqu'enfin la nuit prenait possession des cieux, les deux yeux du dieux célestes, lune rousse et lune bleue, s'illuminaient. La rosace qui dominait Circarocca coulissait pour laisser filtrer leur lumière, et les cristaux pendus aux toits s'en saisissaient et la lançaient en l'amplifiant, inondant la caverne de vagues diaphanes. 
+Alors enfin, les entrailles d'Etsimea s'animaient.*
+
+*Elle sentit la conscience refluer dans ses membres. Les veines d'argent qui striaient sa peau se fluidifiaient sous l'effet de l'éclat sélène. Sa peau s'assouplissait, ses pensées s'éclaircissaient. Elle s'étira avec des craquements secs de roche qui se fend et fit jouer ses articulations. Cou, poignets, coudes, jambes... Tout était en place. Comme autant de statues habitant la cité de pierre, Barshi s'éveillait à la nuit tombée.*
 
 ---
 - A relire

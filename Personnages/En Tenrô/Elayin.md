@@ -1,4 +1,6 @@
 
+old stuff - à relire et améliorer un de ces jours !
+
 ```table-of-contents
 ```
 
