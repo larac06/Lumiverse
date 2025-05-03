@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extraits en vrac.md",
+                "file": "Autres/Extraits en vrac.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Personnages/Aux royaumes/Alisandre Songeciel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Personnages/Aux royaumes/Alisandre Songeciel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ouverture.md"
+                "file": "Personnages/Aux royaumes/Alisandre Songeciel.md"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "4514d8eaae544284",
   "lastOpenFiles": [
+    "Autres",
     "Personnages/Aux royaumes/Alisandre Songeciel.md",
     "Ouverture.md",
     "Personnages/Aux états salins/Skaïlyn.md",
     "Personnages/A Auberin/Lorien 1.md",
     "Personnages/En Kishar/Kasaï.md",
-    "Extraits en vrac.md",
+    "Autres/Extraits en vrac.md",
     "Nations non-humaines/Sylithes.md",
     "Personnages/A Auberin/Arlette.md",
     "Personnages/A Auberin/Or Lamnis.md",
@@ -239,7 +240,6 @@
     "Personnages/En Tnerô",
     "Personnages/A Auberin/Arhel.md",
     "Personnages/A Auberin/Lorien.md",
-    "Personnages/A felithis/Azun.md",
     "Personnages/A felithis",
     "Personnages/Aux royaumes",
     "Personnages/En Tenrô",
