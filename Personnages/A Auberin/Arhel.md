@@ -1,6 +1,6 @@
   -Et voilà. Rafistolé !
   Arhel grogna un merci alors que son frère appliquait le dernier pansement sur sa joue. Il venait de passer une demi-heure à gémir sous la morsure de l'alcool qui désinfectait ses plaies.
-  -J'ai envie de te dire de faire attention, mais je sais que tu ne le feras pas, soupira [Lorien](Lorien.md) avec un demi-sourire.
+  -J'ai envie de te dire de faire attention, mais je sais que tu ne le feras pas, soupira [Lorien](Personnages/A%20Auberin/Lorien.md) avec un demi-sourire.
   -Non mais j'fais gaffe hein, t'inquiète.
   -Tu reviens toujours en morceaux.
   -Je reviens toujours vivant ! Verre moitié vide, verre moitié plein... 

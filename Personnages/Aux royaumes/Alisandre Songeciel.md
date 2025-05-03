@@ -1,9 +1,7 @@
 
 
-
 ```table-of-contents
 ```
-
 
 
 ## Anciens extraits
@@ -44,11 +42,11 @@ Les ombres de la nuit les enveloppaient, protectrices, encerclant leur étroit f
 « Explique-moi, te dis-je ! » Exigea-t-elle, perdant patience face à son mutisme.
 Il soupira et céda.
 « C’est un feu qui dévore la chair, puis les os. Il s’insinue sous la carcasse, jusqu’à imbiber les tissus. La toile. Les liens qui nous font. Et puis ils les dissolvent, jusqu’à ce que tout ce qui constitue ton être et ton esprit soit réduit en poussière et nourrisse cette mélasse noire qui les constitue.
-- Arrête, souffla soudain Alis. Je vais vomir.
+-Arrête, souffla soudain Alis. Je vais vomir.
 Marek éclata de rire.
-- Petite demoiselle, tu es encore si fragile avec un aether dans le sang ?
-- Ne parle pas de « fragilité », rétorqua-t-elle, piquée au vif. Je n’ai jamais été aussi puissante ! Cependant, le savoir qui rampe dans mes organes est une pensée répugnante… Mais ça ne doit plus te toucher, toi.
-- Oh, au contraire, ma tendre amie, répondit-il, pensif. Je ne m’y suis jamais fait.
+-Petite demoiselle, tu es encore si fragile avec un aether dans le sang ?
+-Ne parle pas de « fragilité », rétorqua-t-elle, piquée au vif. Je n’ai jamais été aussi puissante ! Cependant, le savoir qui rampe dans mes organes est une pensée répugnante… Mais ça ne doit plus te toucher, toi.
+-Oh, au contraire, ma tendre amie, répondit-il, pensif. Je ne m’y suis jamais fait.
 * * *
 ### Alisandre & Marek
 
@@ -61,34 +59,34 @@ Elle était à présent une hors-la-loi. Un monstre. Elle laissa échapper un sa
 Elle releva ses yeux ternes des flammes dansantes. Il avait dressé un camp sommaire pour la nuit.
 « Oui. Répondit-elle, d’un ton rauque. S’il te plaît.
 Il réfléchit un instant.
-- Je viens de très loin. D’un lieu dont tu n’as jamais entendu parler, protégé de l’extérieur. Quand j’ai atteint l’âge, j’ai quitté mes origines pour aller explorer le monde.
-- Pourquoi ?
-- Mon monde était beau, mais étroit. On y était peu, et j’aspirais à rencontrer et découvrir plus de choses à l’extérieur. Je ne m’étais pas trompé.
-- Comment as-tu rencontré ton éther ?
+-Je viens de très loin. D’un lieu dont tu n’as jamais entendu parler, protégé de l’extérieur. Quand j’ai atteint l’âge, j’ai quitté mes origines pour aller explorer le monde.
+-Pourquoi ?
+-Mon monde était beau, mais étroit. On y était peu, et j’aspirais à rencontrer et découvrir plus de choses à l’extérieur. Je ne m’étais pas trompé.
+-Comment as-tu rencontré ton éther ?
 Il soupira.
-- J’ai vécu quelques années difficiles mais agréables à l’extérieur de mon cocon. J’ai appris tous les métiers, j’ai voyagé, j’ai rencontré des gens. J’ai aussi eu la malchance d’être victime d’un des premiers éthers qui a atteint la ville. J’aurais dû être dévoré et lui servir d’enveloppe, comme les autres. Mais il n’a pas pu m’avoir. Je venais d’une terre bénie et il ne s’y attendait pas. Je l’ai arnaqué. Et je l’ai dominé.
+-J’ai vécu quelques années difficiles mais agréables à l’extérieur de mon cocon. J’ai appris tous les métiers, j’ai voyagé, j’ai rencontré des gens. J’ai aussi eu la malchance d’être victime d’un des premiers éthers qui a atteint la ville. J’aurais dû être dévoré et lui servir d’enveloppe, comme les autres. Mais il n’a pas pu m’avoir. Je venais d’une terre bénie et il ne s’y attendait pas. Je l’ai arnaqué. Et je l’ai dominé.
 Elle écarquilla les yeux.
-- Je ne comprends pas. Tu as pu contrôler un éther grâce à tes origines ?
-- On peut dire ça.
-- Et… Peux-tu m’apprendre ?
+-Je ne comprends pas. Tu as pu contrôler un éther grâce à tes origines ?
+-On peut dire ça.
+-Et… Peux-tu m’apprendre ?
 Il hésita.
-- Je ferais de mon mieux, fillette. Mais sache que dominer l’éther ne m’a pas valu que des agréments. J’ai rencontré la mort, peu après.
-- La mort ?
-- Dal Ineis.
+-Je ferais de mon mieux, fillette. Mais sache que dominer l’éther ne m’a pas valu que des agréments. J’ai rencontré la mort, peu après.
+-La mort ?
+-Dal Ineis.
 Elle écarquilla de nouveau les yeux. Plus largement encore.
-- Dal Ineis ? demanda-t-elle, incrédule. C’est une déesse !
+-Dal Ineis ? demanda-t-elle, incrédule. C’est une déesse !
 Il haussa les épaules.
-- J’ai appris que les dieux n’étaient pas si éloignés des hommes. Ils sont juste de très puissants mages. Et de sacrés connards.
+-J’ai appris que les dieux n’étaient pas si éloignés des hommes. Ils sont juste de très puissants mages. Et de sacrés connards.
 Alis, estomaquée, était accrochée à son récit. Elle en oubliait enfin, une seconde, ses tourments.
-- Et alors… ?
-- Elle était surprise de ma résistance à l’éther et voulait me rencontrer. On a discuté d’abord. Elle avait pris l’apparence d’une prêtresse aveugle. Elle m’a proposé un marché… Elle voulait que je mette l’éther à son service. Que je l’aide dans une quête. J’ai voulu refuser. Mais cette satanée créature n’accepte pas les refus, grogna-t-il. Cela fait à présent des centaines d’années que j’erre sans vieillir, et j’ignore si c’est à cause de mon éther ou d’une malédiction de sa part. Je l’ai revu quelques fois, et elle ne démord pas de son sujet.
-- As-tu considéré de la rejoindre ?
-- Plusieurs fois. Mais elle est douée pour attiser ma haine. Quoiqu’il en soit, il paraît que j’avance sur le chemin qu’elle m’a tracé, ou je-ne-sais quelle autre connerie. J’ai essayé de retourner chez moi, mais c’était compliqué. A présent, un petit avorton a réduit ma ville natale en cendres et s’en prétend le maître. Il faut que je trouve de quoi le remettre à sa place et récupérer ce qui me revient de droit.
-- Oh. » C’est tout ce qu’elle put dire face à tant d’informations. Son esprit rationnel déduisit tout de suite qu’il devait être fou. Rencontrer Dal Ineis et venir d’un autre monde en étaient des indices clairs. Mais elle trouvait du réconfort dans cette folie : malgré son éther, que lui avait surmonté, il savait où il allait et pourquoi.
+-Et alors… ?
+-Elle était surprise de ma résistance à l’éther et voulait me rencontrer. On a discuté d’abord. Elle avait pris l’apparence d’une prêtresse aveugle. Elle m’a proposé un marché… Elle voulait que je mette l’éther à son service. Que je l’aide dans une quête. J’ai voulu refuser. Mais cette satanée créature n’accepte pas les refus, grogna-t-il. Cela fait à présent des centaines d’années que j’erre sans vieillir, et j’ignore si c’est à cause de mon éther ou d’une malédiction de sa part. Je l’ai revu quelques fois, et elle ne démord pas de son sujet.
+-As-tu considéré de la rejoindre ?
+-Plusieurs fois. Mais elle est douée pour attiser ma haine. Quoiqu’il en soit, il paraît que j’avance sur le chemin qu’elle m’a tracé, ou je-ne-sais quelle autre connerie. J’ai essayé de retourner chez moi, mais c’était compliqué. A présent, un petit avorton a réduit ma ville natale en cendres et s’en prétend le maître. Il faut que je trouve de quoi le remettre à sa place et récupérer ce qui me revient de droit.
+-Oh. » C’est tout ce qu’elle put dire face à tant d’informations. Son esprit rationnel déduisit tout de suite qu’il devait être fou. Rencontrer Dal Ineis et venir d’un autre monde en étaient des indices clairs. Mais elle trouvait du réconfort dans cette folie : malgré son éther, que lui avait surmonté, il savait où il allait et pourquoi.
 « Quel âge avez-vous ?
-- Des centaines d’années.
-- Vous avez vu l’érection des royaumes ? Le début du conflit menskä ?
-- Oh, j’ai vu tout cela et bien plus encore. Tu veux que je te raconte ? »
+-Des centaines d’années.
+-Vous avez vu l’érection des royaumes ? Le début du conflit menskä ?
+-Oh, j’ai vu tout cela et bien plus encore. Tu veux que je te raconte ? »
 Elle hocha la tête. Marek sourit légèrement, se rapprocha d’elle, et conta tout ce qu’elle pouvait lui demander. Dans l’ombre des flammes, un lion apprivoisait un corbeau.
 * * *
 
@@ -234,22 +232,22 @@ Elle murmura ces derniers mots. Les automates étaient l’ultime but des alchim
 “Tu veux dire… Des machines. Des machines imitant l’humain.”
 Il ne répondit pas. Ils savaient tout deux qu’elle ne croyait pas vraiment ce qu’elle disait. Si ces automates n’avaient été que machine, jamais Zilith n’aurait manifesté d’intérêt pour eux.
 “Et… Tu n’as répondu à rien. Pourquoi me montrer ça ?
-- J’ai décidé de faire de toi mes yeux à Auberin. Pour que tu sois efficace, très chère, il faut que tu sois renseignée.
-- C’est pour cela que tu m’as abandonné ?
-- Je ne t’ai jamais abandonné.”
+-J’ai décidé de faire de toi mes yeux à Auberin. Pour que tu sois efficace, très chère, il faut que tu sois renseignée.
+-C’est pour cela que tu m’as abandonné ?
+-Je ne t’ai jamais abandonné.”
 Elle se tut un instant, furieuse.
 “Tu ne m’as certainement jamais demandé d’enquêter. Tu ne m’as donné aucune directive du tout ! Tu t’es contenté de disparaître sans un mot !
-- On dirait un reproche. Mais dis-moi, si je t’avais ordonné de faire quelques tâches pour moi, les aurais-tu accomplies ? Ou, par frustration puérile d’avoir été abandonnée à ta solitude dans une pension confortable du centre-ville, aurais-tu entrepris de me mettre autant de bâtons dans les roues que possible ?”
+-On dirait un reproche. Mais dis-moi, si je t’avais ordonné de faire quelques tâches pour moi, les aurais-tu accomplies ? Ou, par frustration puérile d’avoir été abandonnée à ta solitude dans une pension confortable du centre-ville, aurais-tu entrepris de me mettre autant de bâtons dans les roues que possible ?”
 Elle grimaça sans répondre. Il la connaissait trop bien. Au moins, elle s’enorgueillissait de ne pas être devenue l’un de ses innombrables pions. Ou l’était-elle, à son insu ? Elle préférait ne pas y penser trop longtemps. Il était inutile de se faire des noeuds au cerveau à cause de son bluff. Marek parlait beaucoup, apparaissait bien mystérieux, mais après des années à ses côtés, elle soupçonnait finalement qu’il n’y ait rien - rien du tout. Pas de plan compliqué, de
 perspective de manipulation géopolitique à grande échelle, comme elle en avait été persuadée au début avec ses réunions nocturnes, ses espions disséminés dans le pays et ses myriades de secrets. Juste un clochard qui errait de ville en ville en se distrayant à sa façon. Arhel, en revanche, n’était pas d’accord. Cela la frustrait beaucoup.
 Marek s’apprêta à descendre du balcon.
 “Attends.” Murmura-t-elle, avec une voix où pointait le désespoir.
 “Quoi ?
-- Pourquoi m’avoir laissé ici ? J’avais encore beaucoup à apprendre pour gérer Zilith. Je perds encore le contrôle, parfois. C’est dangereux.
-- Je te l’ai dit : pour être mes yeux.”
+-Pourquoi m’avoir laissé ici ? J’avais encore beaucoup à apprendre pour gérer Zilith. Je perds encore le contrôle, parfois. C’est dangereux.
+-Je te l’ai dit : pour être mes yeux.”
 Il posa une main sur son épaule. C’était le maximum de contact physique qu’il pouvait lui témoigner.
 “Tu n’as plus rien à apprendre de moi, Alisandre. Tu t’en sors très bien.
-- Alors, pourquoi es-tu revenu ?” Siffla-t-elle.
+-Alors, pourquoi es-tu revenu ?” Siffla-t-elle.
 Il se contenta de lui sourire. Puis, avec un bruissement de sa cape sombre, il quitta la terrasse. Il la laissa avec un mélange à lui faire tourner la tête de colère, de désespoir, de fatigue et d’une légère pointe de fierté brûlante.
 Il avait besoin d’elle.
 
@@ -277,89 +275,89 @@ Une prairie d’un vert mat la remplaça, couverte par un ciel d’azur. Deux bl
 “Bonjour.” Souffla Alisandre au rêve avec une brève révérence. L’androgyne plia les jambes et se redressa lentement, découvrant avec un plaisir manifeste les mouvements de ses
 articulations. Il se tint debout, fixant un instant ses jambes avec une surprise ravie, puis releva les yeux vers Alis.
 “Bonjour.
-- Qui êtes-vous ?”
-- Je suis…” Il avait commencé sa réponse avec entrain, mais ses sourcils se froncèrent aussitôt. “Je suis !” Les mots ne sortaient pas. Un long silence suivi.
+-Qui êtes-vous ?”
+-Je suis…” Il avait commencé sa réponse avec entrain, mais ses sourcils se froncèrent aussitôt. “Je suis !” Les mots ne sortaient pas. Un long silence suivi.
 “Vous ne vous rappelez pas ?”
 Au moins, il savait parler. C’était déjà tout à fait inespéré.
 “Mais si, si, je suis… Enfin, je m’appelle… Je…” Il s’assit en tailleur, profondément confus.
 “Ça n’est pas grave”, soupira Alisandre. “Dites-moi d’où vous venez”.
 Elle n’avait jamais conversé avec une machine ; elle ne savait pas si elle en aurait de nouveau la chance. Mais elle savait déjà qu’elle retenterait plus tard.
 “Je viens de l’Atelier, répondit-il finalement.
-- A qui appartient l’atelier ?
-- A l’Artisan.
-- Qui est l’Artisan ?
-- Notre père à tous.” Ses réponses fusaient à présent naturellement. Alisandre s’était assise à côté de lui, tenant ses genoux entre ses bras.
+-A qui appartient l’atelier ?
+-A l’Artisan.
+-Qui est l’Artisan ?
+-Notre père à tous.” Ses réponses fusaient à présent naturellement. Alisandre s’était assise à côté de lui, tenant ses genoux entre ses bras.
 “Qui est ce “tous” ?
-- Vous, moi, les autres… Tous.
-- Les humains ?
-- Non, non, plus que cela. Il est le père de tout ce qui est.
-- Tout ? Même les objets inanimés ?”
+-Vous, moi, les autres… Tous.
+-Les humains ?
+-Non, non, plus que cela. Il est le père de tout ce qui est.
+-Tout ? Même les objets inanimés ?”
 Un silence. Alors, il n’était pas qu’une machine qui répondait automatiquement : lui aussi, réfléchissait, pensa Alisandre, sidérée.
 “Ça, c’est difficile à dire. Je ne sais pas bien si les objets “sont”. Mais, les humains, les animaux, les insectes… Ça, je sais. Je sais qu’ils Sont, et ils Sont par l’Artisan.
-- Comment en êtes-vous si certain ?
-- Et bien, parce que je sors de l’Atelier !
-- Vous étiez donc conscient pendant votre création ?
-- La conscience… Cela vient petit à petit. Vous voyez ? C’est comme si… J’étais fait de papier ou d’eau, et autour de moi s’agitaient des bouteilles d’encre. Vous, vous êtes une goutte d’encre. Vous diffusez sur votre entourage. Et moi, goutte d’eau, j’absorbe, jusqu’à devenir moi-même une goutte d’encre.
-- Comment savez-vous tout cela ?
-- Et bien…” Là encore, le ton de l’évidence laissa place à un silence interdit. Il eut un éclat de rire.
+-Comment en êtes-vous si certain ?
+-Et bien, parce que je sors de l’Atelier !
+-Vous étiez donc conscient pendant votre création ?
+-La conscience… Cela vient petit à petit. Vous voyez ? C’est comme si… J’étais fait de papier ou d’eau, et autour de moi s’agitaient des bouteilles d’encre. Vous, vous êtes une goutte d’encre. Vous diffusez sur votre entourage. Et moi, goutte d’eau, j’absorbe, jusqu’à devenir moi-même une goutte d’encre.
+-Comment savez-vous tout cela ?
+-Et bien…” Là encore, le ton de l’évidence laissa place à un silence interdit. Il eut un éclat de rire.
 “…J’ai l’impression qu’on m’a “diffusé” tout cela dans la cervelle, tiens ! C’est curieux, comme sensation. Ça ne vous le fait jamais ?”
 Alisandre plissa les lèvres.
 “Je ne proviens pas de l’Atelier. Je ne connais pas cette sensation.”
 L’automate la dévisagea.
 “Mais si ! Je vous assure !
-- Non, non. Je sais parfaitement qui m’a engendré, croyez-moi, et je ne suis pas sortie d’une fabrique.
-- Je pense que vous faites erreur. Fabrique ou pas fabrique, c’est le père qui nous forge. C’est simplement ainsi que la vie apparaît.”
+-Non, non. Je sais parfaitement qui m’a engendré, croyez-moi, et je ne suis pas sortie d’une fabrique.
+-Je pense que vous faites erreur. Fabrique ou pas fabrique, c’est le père qui nous forge. C’est simplement ainsi que la vie apparaît.”
 Un silence.
 “Et comment la crée-t-il, cette vie ?”
 Enfin, le sujet qui la taraudait.
 “Ah, ça… Les gouttes d’encre.
-- Encore cette image?
-- Ah, mais elle fonctionne particulièrement bien, vous savez. Voilà ce qu’il se passe : quand une goutte d’encre disparaît, l’Artisan l’absorbe.
-- Et qu’en fait-il, après ?
-- Il la garde. Et il absorbe. Goutte après goutte.
-- A l’infini ?
-- Justement… Non, il sature. Ça déborde. Alors, il reverse cette encre perdue. Autour de lui. Dans les objets, dans les gens.
-- Dans vous.
-- Dans moi, et dans vous.
-- Dans moi?
-- Dans vous.”
+-Encore cette image?
+-Ah, mais elle fonctionne particulièrement bien, vous savez. Voilà ce qu’il se passe : quand une goutte d’encre disparaît, l’Artisan l’absorbe.
+-Et qu’en fait-il, après ?
+-Il la garde. Et il absorbe. Goutte après goutte.
+-A l’infini ?
+-Justement… Non, il sature. Ça déborde. Alors, il reverse cette encre perdue. Autour de lui. Dans les objets, dans les gens.
+-Dans vous.
+-Dans moi, et dans vous.
+-Dans moi?
+-Dans vous.”
 Alisandre fronça les sourcils.
 “Je ne l’ai jamais rencontré, pourtant.
-- Oh, l’Artisan diffuse loin, vous savez.”
+-Oh, l’Artisan diffuse loin, vous savez.”
 Elle resta interdite. Elle n’était pas sûre de saisir cette histoire de goutte, d’eau, de buvard et d’encre.
 “Soyez franche. Que voulez-vous ?” Demanda enfin l’automate.
 “Guérir.” L’honnêteté de sa réponse la surprit elle-même. Mais de quoi parlait-elle soudain ?
 L’automate hocha la tête d’un air entendu.
 “Oui, je perçois bien que votre encre est habitée. N’y a-t-il personne pour vous aider à soigner cela ?
-- Je croyais que mon maître pourrait… Mais je ne le comprends pas.
-- Il ne s’explique pas ?
-- Certes non. Il est très mystérieux.
-- Vous ne lui faites pas confiance ?
-- Absolument pas. Il est calculateur, manipulateur, et ne sert que ses propres buts. J’entends bien comprendre ses desseins avant qu’ils ne portent préjudice à qui que ce soit.
-- Je vois.” L’automate hocha la tête, entendu. “Mais, dites-moi, mademoiselle… S’il est si terrible, cet individu, pourquoi en faire votre maître, au juste ?”
+-Je croyais que mon maître pourrait… Mais je ne le comprends pas.
+-Il ne s’explique pas ?
+-Certes non. Il est très mystérieux.
+-Vous ne lui faites pas confiance ?
+-Absolument pas. Il est calculateur, manipulateur, et ne sert que ses propres buts. J’entends bien comprendre ses desseins avant qu’ils ne portent préjudice à qui que ce soit.
+-Je vois.” L’automate hocha la tête, entendu. “Mais, dites-moi, mademoiselle… S’il est si terrible, cet individu, pourquoi en faire votre maître, au juste ?”
 Elle soupira longuement.
 “Je ne sais même pas si le terme est encore d’actualité. Mais voyez-vous… Il y a fort longtemps, cet homme m’a aidé à surmonter ce mal qui me rongeait. Je ne suis pas guérie, mais mon état est stable. Depuis, je suis sa disciple et son obligée.
-- Comment vous a-t-il aidé ?
-- Il m’a appris à être plus dangereuse pour le mal que le mal lui-même ne l’est pour moi.
-- Cela semble bien radical, comme solution.”
+-Comment vous a-t-il aidé ?
+-Il m’a appris à être plus dangereuse pour le mal que le mal lui-même ne l’est pour moi.
+-Cela semble bien radical, comme solution.”
 Elle acquiesça.
 “Il m’a permis le contrôle. Il m’a délivré de ma soumission à la douleur ; maintenant, je guide ma propre vie.
-- Sous sa tutelle.
-- Je ne sais pas. J’aime croire que non, mais j’ai peur d’être naïve.” Rétorqua-t-elle avec un petit sourire. “Je lui suis redevable de m’avoir sauvé et j’ai encore à apprendre de lui pour gagner en liberté, mais je ne suis certainement pas soumise pour autant. Le mot maître à plusieurs sens. Il est mon maître comme l’est un professeur, non pas un roi ou un propriétaire. Je compte bien éclairer ses mystères qu’il se refuse depuis des années à me partager. Et vous pourrez peut-être m’aider.”
+-Sous sa tutelle.
+-Je ne sais pas. J’aime croire que non, mais j’ai peur d’être naïve.” Rétorqua-t-elle avec un petit sourire. “Je lui suis redevable de m’avoir sauvé et j’ai encore à apprendre de lui pour gagner en liberté, mais je ne suis certainement pas soumise pour autant. Le mot maître à plusieurs sens. Il est mon maître comme l’est un professeur, non pas un roi ou un propriétaire. Je compte bien éclairer ses mystères qu’il se refuse depuis des années à me partager. Et vous pourrez peut-être m’aider.”
 L’automate sourit, entendu.
 “Vous semblez fort convaincue de votre démarche, chère amie ! Eh bien, soit, s’il suffit pour cela de discuter avec vous, je serais fort aise de vous aider dans votre quête. En attendant de retrouver mon nom et mon propre but, cela me donnera une motivation !”
 Alisandre sourit largement, ravie de trouver un ami dans cette créature nouvelle.
 “Comment s’appelle-t-il, ce maître-professeur des mystères ?
-- Marek.
-- Et vous, quel est votre nom, mademoiselle ?
-- Alisandre. Alisandre Songeciel.” Elle hésita un instant. “Comment pourrais-je vous appeler, en attendant que vous retrouviez votre nom ?”
+-Marek.
+-Et vous, quel est votre nom, mademoiselle ?
+-Alisandre. Alisandre Songeciel.” Elle hésita un instant. “Comment pourrais-je vous appeler, en attendant que vous retrouviez votre nom ?”
 L’automate promena son regard autour d’eux, profondément concentré. La décision d’un nom, même provisoire, n’avait rien d’anodin.
 “Appelez-moi Sanson.
-- C’est un nom atypique.
-- Il fera l’affaire.”
+-C’est un nom atypique.
+-Il fera l’affaire.”
 Alisandre acquiesça.
 “Alors, c’est entendu. Merci, Sanson. Je reviendrai discuter avec vous avec grand plaisir.
-- Le plaisir est partagé, mademoiselle.”
+-Le plaisir est partagé, mademoiselle.”
 Ils échangèrent un sourire, et Alisandre relâcha la tension de son esprit, laissant fondre dans le néant la prairie et le ciel artificiel. Elle se réveilla.
 L’atelier réapparut progressivement autour d’elle.
 Nelan venait d’entrer. Il la dévisageait, yeux ronds. Elle se redressa et reprit son souffle. Elle se sentait nauséeuse.
@@ -371,5 +369,112 @@ Un souffle de forge se fit entendre. Une chaleur profonde monta de sa poitrine. 
 “Rebonjour, Alisandre.”
 Elle était sans voix.
 “Il faut que je prévienne Théo.” Murmura Nelan.
-- Attends juste une seconde…” Elle mit une minute à formuler sa question, en proie à la sidération. “Sanson, qu’est-ce qu’il vient de se passer ? Pourquoi t’éveilles-tu maintenant ?”
+-Attends juste une seconde…” Elle mit une minute à formuler sa question, en proie à la sidération. “Sanson, qu’est-ce qu’il vient de se passer ? Pourquoi t’éveilles-tu maintenant ?”
 “Mais l’encre, ma chère ! Vous venez de m’éclabousser !”
+
+
+
+----
+
+## Morceaux très anciens
+
+### Leslie
+
+La jeune fille prit une inspiration.
+Devant elle, son reflet ; derrière elle, sa chambre. Dans le manoir des Waltshire, l'héritière s'apprêtait à prendre son envol.
+-T'es sûre que tu vas le faire ? Demanda une voix fluette dans son dos.
+-Bien sûr, que je vais le faire. Rétorqua-t-elle, piquée au vif.
+Elle avait tout préparé, pour ça. Elle avait pris son sac bourré de rations, couvertures et sous-vêtement de rechange. Elle ferma les yeux, se concentra, et tendit son bras gauche. Ses doigts entrèrent en contact avec la surface froide du miroir. Doucement, elle les laissa s'enfoncer derrière la surface argentée. Elle frissonna. Etrangement, c'était toujours humide.
+Elle bascula en avant.
+Elle trébucha, mais se réceptionna correctement sur le sol de marbre du dédale. Derrière elle, le miroir n'était plus qu'un ovale vitreux, derrière lequel son petit frère clignait des yeux. Elle sourit, satisfaite, et s'engagea dans le labyrinthe.
+Ce n'était pas la première fois qu'elle y entrait. Elle y avait accès depuis un peu plus de deux mois. Elle l'avait parcouru quelques fois, pour toujours se perdre et revenir à son point de départ. Cette fois-ci, elle était déterminée à découvrir au moins quelques-uns des secrets que ces couloirs dissimulaient. Elle se trouvait, de fait, dans le dédale d'argent : c'était un lieu étrange, immense, où chaque miroir était connecté aux autres par un ensemble de voies aux plafonds si hauts qu'ils étaient invisibles et au sol lustré et glacial. Personne ne savait qui l'avait créé, ni pourquoi, bien que les légendes sur le sujet soient multiples. Il n'était pas particulier d'y avoir accès. De fait, il fallait disposer d'un type de magestria précis et uniquement héréditaire, qu'on appelait lumancie.
+Leslie frissonna encore. Elle savait que ce n'était qu'une impression donnée par l'immensité et le silence total du lieu, mais elle le trouvait glacial. Elle suivait les marques sur les murs de cristal. La plupart venait d'elle, laissées à la peinture rouge. Elle savait qu'elles s'effaceraient vite, bien qu'elle n'eût jamais trouvé qui, ou ce qui les nettoyaient.
+Parfois, elle s'arrêtait, sortait ses couleurs, et entreprenait de donner un peu de vie à cet endroit morne à grand coup de pinceaux. Finalement, c'était la seule activité qui lui permettait de tromper un peu l'ennui de la vie d'héritière, perdue dans le froid manoir de la grande lignée des mages Waltshire.
+Elle s'arrêta une ou deux fois pour manger. Elle n'avait pas vraiment envie d'y passer la nuit ; l'immensité l'oppressait. A chaque sortie qu'elle croisait, elle tendait l'oreille, cherchant quelque chose d'intéressant. Elle n'était jamais allée si loin ; cela faisait bien plusieurs heures déjà qu'elle marchait. Pourtant, elle n'était pas effrayée. Le labyrinthe avait aussi pour particularité de ramener constamment ses voyageurs à leur point de départ dès qu'ils se perdaient, si bien qu'elle risquait plus de ne pas avancer que de se perdre au milieu des vitraux. Elle s'arrêta finalement en entendant des vagues. La mer, sûrement ? Oh, cela lui plaisait bien ! Elle n'avait jamais eu l'occasion de voir l'océan. Elle pouvait bien y risquer un œil…
+Elle s'approcha du miroir correspondant. En réalité, il semblait y en avoir une centaine, tous côte à côte, qui partageait cet écho agréable. Elle en choisit un au hasard, qui semblait donner sur une luxueuse salle de bains. Elle sourit. Parfait ; au moins, elle ne serait pas dépaysée. Elle se glissa dans l'ouverture. Le miroir était petit ; elle se contorsionna, passa au-dessus de l'évier en évitant de renverser trop de flacons… Et finit par une chute partiellement maîtrisée sur le tapis de la pièce. Elle épousseta sa robe. Presque aucun dégât.
+Elle prit quelques secondes pour observer la pièce. Les robinets semblaient en or ; la baignoire était immense, le tapis épais. Les murs, cependant, étaient de roche nue. La fenêtre n'était qu'un trouve ovale dans la pierre, couvert d'une plaque de verre et d'un rideau de mousseline bleue. Elle le souleva délicatement. Autour, de l'eau. Des quantités d'eau, bleu saphir sous un ciel d'azur. Elle sourit, ravie. Elle n'avait aucune idée d'où elle était, mais c'était sublime.
+Des pas la ramenèrent brutalement à la réalité. Mince, la propriétaire !
+Elle ouvrit l'armoire ; déjà pleine de produits divers et de serviette. Elle pensa à la baignoire, chercha d'autres meubles…
+La porte s'ouvrit. La surprise fut la même des deux côtés.
+-Mais que faites-vous ici ?!
+-Qu'êtes-vous ?! S'exclama l'adolescente, effarée.
+face à elle se trouvait une belle femme élancée aux cheveux courts, vêtue d'une longue robe drapée. Ses manches, larges comme cinq fois ses poignets, n'abritaient pas que ses bras. A côté de ses membres habituels, la femme semblait disposer de deux grandes ailes aux plumes fauves.
+Contre toutes attentes, elle s'esclaffa.
+-Venez. Nous allons nous expliquer.
+Elle l'emmena dans la chambre, contiguë a la salle de bains. Penaude, Leslie essayait de ne pas fixer les étranges appendices de la nouvelle venue.
+-Excusez-moi. Je suis en apprentissage de lumancie. Il m'est défendu de m'introduire ainsi chez les gens ; je voulais juste voir un peu l'océan. J'allais repartir. 
+La dame était presque effarée de sa naïveté. Elle sourit.
+-Tu as beaucoup de chance. Un autre de mes compagnons t'aurait égorgé sans hésitation, s'il t'avait vu dans sa chambre.
+La fillette blanchit.
+-Comment cela ?!
+La femme sourit. Elle avait des yeux de faucons et des plumes dans les cheveux, et il devenait si frappant qu'elle n'était pas humaine que Leslie avait envie de hurler.
+-Tu n'es plus sur un continent d'hommes, ma petite. Tu te trouves en Alibris. Oh, viens, je vais te montrer. Tu vas adorer. 
+La panique la mordait comme un renard tapi dans son estomac. Elle pouvait fuir. Sauter dans le miroir, et rentrer. Mais n'était-elle pas venue exactement pour cela ? Découvrir le monde ? Elle n'avait jamais entendu parler d'un endroit pareil, où vivait des gens-oiseaux qui tuaient les enfants. Elle s'était sentie forte en quittant le manoir, mais maintenant, elle n'était plus qu'une petite, tremblante en territoire ennemi.
+Ignorant totalement son tourment, la dame se leva pour chercher dans sa penderie quelque chose de plus adapté. Elle lui lança une robe sobre.
+-C'est ce que porte les domestiques. Tu seras trop voyante, habillée comme tu l'es. Allons, dépêche-toi.
+-Mais qui êtes-vous ? Murmura-t-elle tout de même.
+La femme sourit de nouveau, comme un rapace… Si les rapaces avaient pu sourire.
+-Je suis dame Shance Avelis. Elle fit une révérence, et ne pensa pas une seconde à retourner la question.
+Leslie retira sa robe pour enfiler la nouvelle. Elle n'était sûrement pas en sécurité, ici, mais avec cette femme, peut-être pouvait-elle tenter tout de même d'y passer quelques minutes ? 
+Shance sourit en la voyant, satisfaite. 
+-C'est parfait ! Allons-y. Si on te demande, tu es ma nouvelle demoiselle de chambre.
+Leslie acquiesça, et quitta la magnifique chambre à coucher de la dame.
+Elle comprenait peu à peu qu'elles se trouvaient dans une montagne. A l'image d'une fourmilière, des galeries avaient été creusé en long, en large et en travers, illuminées d'œufs de lune et décorées de tapisseries. Elles croisèrent d'autres hommes-oiseaux : elle apprit bientôt qu'ils s'appelaient des brissiens. Il n'en existait que quelques centaines ; leur population faisait régulièrement des affaires avec le continent, mais souvent dans la plus grande discrétion. Ils vivaient en paix, et ils étaient persuadés que celle-ci serait bien plus compliquée à conserver s'ils s'ouvraient au restant du monde. Ses premières angoisses passées, -elle peinait à réaliser qu'on aurait vraiment pu l'assassiner là- elle découvrait bientôt avec enthousiasme cet univers si différent du sien. Pourtant, elle ne pouvait s'empêcher de grimacer et de frissonner lorsqu'elle voyait d'autres humains. Ceux-ci, pour les brissiens, n'étaient que des domestiques destinés aux tâches élémentaires ou ennuyeuses. Ils ne disposaient pas d'ailes : ils étaient donc inférieurs. Elle avait du mal à apprécier les hommes-oiseaux, profondément fiers. 
+-Viens !
+Elle aperçut la lumière du jour. Shance était sortie sur une sorte de terrasse. Elle la suivit, inquiète : il n'y avait aucun garde-fou.
+Pourtant, l'émerveillement remplaça bientôt l'angoisse. Ce que la dame appelait les "jardins d'Alibris" étaient une série de plateformes ovales, couleur crépuscule, sur lesquelles des cascades jaillissaient et des orangers poussaient, à des kilomètres des vagues en contrebas. Elle n'avait aucune idée de ce qui maintenaient les plateformes en l'air. Chacune était reliée à ses voisines par des escaliers ou des ponts de verre, bien que la plupart de ceux qui profitaient de la vue et de l'air pur préférait s'y balader par voie des airs. Shance la fit avancer sur les terrasses. Chacune avait un motif différent. Carte du continent, carte du ciel, schéma d'oiseau. De loin, elle put finalement voir l'apparence d'Alibris. C'était un immense pic rocheux, dressé au milieu de la mer, nu, aride. Et pourtant, tant de vie y florissait. Elle sourit. Elle n'avait jamais vu un monde si différent du sien.
+Elle voulait passer le reste de la journée à suivre dame Shance. C'était si intéressant !
+-Bon, j'ai du travail, moi. Je siège au conseil, vois-tu ! Fit cette dernière en se donnant l'air important.
+-Ah… Alors, dois-je rentrer ? Je ne retrouverai pas vos appartements toute seule.
+-Oh, bien sûr que non. Nous prendrons le thé ensemble ce soir : j'adorerais que tu me parles du continent. En attendant… Elle regarda autour d'elle, l'air de chercher quelque chose. Ah ! ça fera l'affaire.
+Elle saisit soudain au col un adolescent qui passait.
+-Qu'est ce que tu fiches ?! S'exclama-t-il, surpris et rageur. Leslie discerna un petit air de famille. Il avait l'air d'avoir son âge ; ses cheveux un peu longs étaient en bataille, et il semblait apprécier les égratignures.
+-Occupe-toi de la demoiselle. Montre-lui donc la cité ! Oh, et je crois que c'est une demoiselle de bonne famille. Traite-la bien. Mais pas trop, ce serait suspect. A plus tard, mes enfants ! Et dame Shane s'éclipsa, sans plus d'explications, avec un sourire radieux.
+Leslie, hébétée, dévisagea l'adolescent.
+-E-Enchantée…
+-Pff ! Si ce n'était pas ma tante et une avelis, celle-là, je l'enverrais bien paître. Grommela-t-il en croisant les bras.  Allez, ramène-toi. Et traîne pas !
+Leslie, encore surprise, pris quelques instants à comprendre qu'il l'acceptait. Elle sourit.
+-D'accord ! Je veux tout voir ! S'exclama-t-elle, toute contente.
+Un nouveau soupir, un grommèlement, et l'adolescent l'emmena dans les jardins.
+-Au fait, c'est quoi, ton nom ? Demanda-t-elle alors qu'ils s'en allaient, enveloppés du parfum des orangers marins.
+
+
+----
+### Marek
+
+-Attendez, monsieur !
+ Résonna une voix aiguë. Dans la rue, une jeune femme tentait désespérément de rattraper un grand homme vêtu de noir, malmenée par les deux lourds sacs de voyage qu'il la laissait porter. L'air de ne pas l'entendre, son compagnon pressa encore le pas. Ils se trouvaient dans l'un des plus beaux quartiers en périphérie de la ville de Korez, cité lacustre située au cœur d'Elyon. C'était l'une de ces rares villes où les mages se rassemblaient, plus nombreux même que les citoyens ordinaires, pour y former à l'intérieur du pays quelque chose qui ressemblait à une autre société. Ils avaient leurs propres lois, leurs propres rites, et leur propre noblesse, qui occupait d'immenses manoirs de pierre et de marbre. 
+C'était devant l'un de cela que se tenait l'homme en noir et son assistante.
+-C'est ici ? Fit-elle d'une petite voix, remontant ses lunettes rondes sur son nez discret.
+Il ne l'écoutait pas. Les yeux fermés, il cherchait autre chose. Une perception, infime ; une trace de ce qu'il cherchait.
+Quelque chose remua, non loin. Quelque chose de sombre, d'immense.
+Il rouvrit ses yeux d'or.
+-C'est ici. 
+
+### Marek
+
+L'homme en noir regardait la montagne. Une frustration sans nom lui dévorait le ventre.
+  -Marek... Fit son assistante. On devrait y aller.
+  Les blessés étaient partis ; les morts, emmenés. Les secours étaient venus, ne laissant que les cendres fumantes. Ils avaient proposé une couverture à leur "héros", qu'il avait décliné sans un regard. Les parents, monsieur et madame Waltshire, lançaient avec les autorités des recherches pour leur fils et leur fille, tout deux perdus dans le massacre. Ils étaient brisés.
+Et Marek, lui, fixait la montagne ; dont personne n'était revenu. 
+  -L'Ether ne bougera pas tant qu'il sera blessé...
+  -Il a trouvé un porteur. 
+  -Quoi ? Mais non, il a du tuer les enfants.
+ Il n'argumenta même pas. Il fit demi-tour. Il le savait ; l'Éther appartenait désormais à quelqu'un d'autres, et il aurait un mal fou à le récupérer.
+
+### Aiden
+
+Il flottait. Depuis combien de temps, déjà ?
+  -Tu es si faible.
+  -Oui, répondit-il doucement à la voix qui se moquait de lui. Mais je suis en vie.
+  -seulement parce que je le veux bien.
+  -peu importe. Tant que je vis, je saurais me rendre libre. Il ferma les yeux, serein. Il ne savait pas si la créature l'avait transporté dans un endroit étrange, où si elle était auteure d'illusion ; mais il savait que ce qu'il voyait ne correspondait à rien de son monde. Finalement, incapable de lutter, il se laissait planer. Il cherchait, du bout des doigts, à comprendre l'étrange chose qui le retenait avec elle. Elle lui avait déjà appris tant de connaissances. Sa perception du monde n'avait rien à voir avec la sienne, limité par son frêle corps humain. 
+  -montre moi à quoi tu ressembles. Pas comme je te vois ; mais à quoi tu ressembles.
+  Elle sembla amusé. Des bulles de couleurs flottaient entre les doigts de l'enfant. C'était sa façon de rire, pensa-t-il.
+  -Tu ne peux pas le percevoir. Ton esprit est trop étroit. Mais je peux t'en montrer l'équivalent le plus proche.
+  Il acquiesça.
+Il sentit une paire de pattes s'agiter sur son ventre. Il leva la tête ; une mygale, placide, le regardait. Il sourit.
+  -Tu es mignonne.
+
+
+---

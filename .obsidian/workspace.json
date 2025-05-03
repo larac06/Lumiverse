@@ -25,6 +25,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Nations non-humaines/Sylithes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86a0380870175ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extraits en vrac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f643f9e918e1e22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/En Kishar/Kasaï.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79b275c29312e4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lorien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36bd17c4efdcc56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ouverture.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,11 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3ac5cb98a8e0c21",
+  "active": "36bd17c4efdcc56a",
   "lastOpenFiles": [
-    "Nations non-humaines/Sylithes.md",
     "Personnages/Aux royaumes/Alisandre Songeciel.md",
     "Ouverture.md",
+    "Personnages/Aux états salins/Skaïlyn.md",
+    "Lorien.md",
+    "Personnages/En Kishar/Kasaï.md",
+    "Extraits en vrac.md",
+    "Nations non-humaines/Sylithes.md",
+    "Personnages/A Auberin/Arlette.md",
     "Personnages/A Auberin/Or Lamnis.md",
     "Personnages/Aux royaumes/Nocis & Lucis.md",
     "Or Lam",
@@ -183,18 +236,13 @@
     "Personnages/En Kishar",
     "Univers/Villes & régions/En Elyon/Runethia.md",
     "Univers/Genèse.md",
-    "Personnages/A Auberin/Arlette.md",
     "Personnages/En Tnerô",
     "Personnages/A Auberin/Arhel.md",
     "Personnages/A Auberin/Lorien.md",
     "Personnages/A felithis/Azun.md",
-    "Univers/Dieux/Ios.md",
     "Personnages/A felithis",
     "Personnages/Aux royaumes",
     "Personnages/En Tenrô",
-    "Nations humaines/Royaumes occidentaux.md",
-    "Univers/Magie/Magie.md",
-    "Univers/Dieux/Dal Ineis.md",
     "Univers/Villes & régions/A Mehua",
     "Univers/Villes & régions/Aux royaumes occidentaux",
     "Illustrations/Dal_Ineis.jpg",

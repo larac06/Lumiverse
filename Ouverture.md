@@ -3,6 +3,17 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
+03/05/25
+
+old_à_trer_noncanon : reste le dossier personnages, tout sauf Alyss.
+Arhel, Indie, Loreleis, Lamnis, Marek, Talora.
+
+Then, back to wiki - faire au moins les pages des nations non-humaines par cc
+
+Then, checker les docs words,
+
+puis retour au guide, etc.
+
 27/04/25
 
 Reste plus que le old_à_trier_noncanon
