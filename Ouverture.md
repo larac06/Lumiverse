@@ -3,9 +3,17 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
+17/05/25
+
+J'ai slap tout ce que contenait le doc word d'un coup, sans rien relire. Y a sûrement plein de bêtises, mais au moins, c'est moins vide !
+Il reste donc toujours les dossiers des personnages restants, avec les notes writer+, les docs word qui traînent ; puis faudra relire et mettre en forme le tout.
+Pour Arlette, j'ajouterai la description que j'ai faite pour le roman quand elle bosse chez l'artisan, elle me plaît bien et décrit beaucoup mieux le personnage maintenant qu'elle a été profondément rework (enfin comme tout le monde).
+Pfiou !
+
+
 03/05/25
 
-old_à_trer_noncanon : reste le dossier personnages, tout sauf Alyss.
+old_à_trier_noncanon : reste le dossier personnages, tout sauf Alyss.
 Arhel, Indie, Loreleis, Lamnis, Marek, Talora.
 
 Then, back to wiki - faire au moins les pages des nations non-humaines par cc

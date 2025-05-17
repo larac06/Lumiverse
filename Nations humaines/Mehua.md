@@ -1,3 +1,231 @@
+
+
+La Mehua est une île commerçante au climat tropical, administrée en cinq régions distinctes. Les habitants vivent en harmonie avec les delphènes, qui leur confèrent une grande puissance militaire grâce à leurs dangereux dragon-fauves.
+
+L’influence de l’Elyon, voisin et premier client de Mehua, se fait plus intense chaque année dans la culture de l’île.
+
+La Mehua est entourée de nombreuses îles plus petites, formants une archipel qu’elle domine. Les îles des archipels sont rattachées aux régions les plus proches, mais la position de certaine prêtent à débat et sont sujets d’éternel litiges entre les chusa méhens.
+
+Ses régions sont Falve, Mahorel, Kherul, Safre et Gishae, Chacune ayant ses spécificités de climat, d’exportation, de culture et de traditions. L'eau y est omniprésente, dans la culture et la géographie du lieu. Chixala est considéré comme esprit principale de l’île, suivi par Shinn’dal.
+
+### Histoire & géographie
+
+Les habitants de Mehua proviennent majoritairement d’hybridations sorsangs, sorsèves et delphènes, ainsi que d’hybrides avelis ayant fui l’ouest pour rejoindre des terres plus clémentes malgré leurs différences. L’île était alors peuplée uniquement de sorsèves et de delphènes, qui acceptèrent sans animosité les hybrides sur leur territoire dont ils n’occupaient qu’un tier de la terre environ, et cela principalement à cause du volcan alors en activité qui régnait au milieu de l’île. Depuis, il semble s’être endormi.
+
+Après la chute des anciens, les chusa méhens bien établis en régions décidèrent de mener des explorations pour trouver des terres accueillantes et bénies à exploiter. C’est ainsi qu’ils découvrirent les ressources du Tenrô, jusque-là peu connue. N’y trouvant que des petits villages peu ravagés par la guerre, ils s’y installèrent en sauveurs apportant la civilisation et prirent possession du territoire dont ils exploitent à présent les ressources. Ils trouvèrent dans ce territoire une puissance des esprits complémentaire à la Mehua qui justifie pour eux ce contrôle.
+
+L’île possède une géographie variée entre des plaines trouées d’eau, des côtes et des plages accueillantes, d’autres déchiquetées, de large zones de jungle, de mangrove et de marécage. Les régions sont justement découpées selon ces biomes, et exploitées de la façon la plus naturelle et respectueuse des habitants et de l’environnement, dans l’esprit traditionnel méhens. Les saisons y sont rudes ; sèche ou très pluvieuses, souvent chaudes à l’exception de l’hiver ou le temps s’adoucit agréablement. Entre Kherul, Falve et Mahorel se trouve un volcan endormi.
+
+Les mers ouest et est sont souvent représentées comme deux sœurs, l’une sage et l’autre colérique et sanguinaire. Cependant les kherulois, seuls sur la côté ouest, n’apprécient pas cette représentation et se targue d’avoir la mer la plus chargée de vie par ses mouvements incessants, là où celle de l’est est inerte et morne.
+
+#### Ethnie
+
+Les méhens ont principalement hérité des delphènes et des sorsèves, espèces anciennes majoritaires sur l’île. Ils ont la peau couleur miel, blanche à brune selon la région, les yeux noisette, bleus, dorés ou verts ; leurs cheveux sont blonds, châtains ou roux sombre, cependant la culture du pays est à la teinture. Un méhen élevé sur l'île arborera souvent une chevelure bleue, carmin ou verte. Les méhens possèdent de plus une dentition ainsi qu'une forme de bouche spéciales, avec des canines pointues, plus aptes aux chuintements et aux cris delphènes que les humains du continent. Ils ont les yeux légèrement plissés, des nez longs et fins, des pommettes hautes et des silhouettes élancées, petites, qui les font ressembler aux delphènes. Ce sont d’excellent apnéistes, qui peuvent rester sous l’eau cinq minutes avec peu d’entraînement.
+
+### Religion
+
+On y vénère activement Sahaarn, qui s'y serait incarné sous la forme d'un renard aveugle que l'on garde avec un bandeau sur le museau et auquel les gens prient. Il se situe en Gishae et traduit l’influence grandissante d’Elyon qui exporte ainsi, peu à peu, sa religion.
+
+Cependant, on y vénère traditionnellement surtout les esprits de la nature (Chixala, Saï’posen, Karasdan, Shinn'dal), et l'eau y est abondante, reconnue comme une puissance purificatrice et première déesse de l'île.
+
+Des dieux mineurs, associés à ces éléments, y sont fréquemment évoqués selon les régions. Par exemple, Ayurveda, une déesse mineure, aurait fait taire les monstres des mines de Kherul. Des temples leurs sont dédiés, où les gens vont fréquemment prier, jeter des pièces ou brûler de l'encens en mémoire des anciennes légendes. On les considère comme des esprits naturels errants, auxquels on érige de nombreuses petites statues dans les jardins ou lieu naturel pour leur rendre honneur.
+
+### Structure
+
+#### Administration & législations
+
+Chaque région est administrée par une famille dominante, lignée qui protège la région depuis toujours. Le chef en est femme ou homme sans discernement, qu'on appelle chusa, mais toujours du sang de la lignée d'origine. Les croisements entre lignées directes sont évités, et on préférera en marier des cousins ou cousines éloignés afin de ne pas gêner la succession mais de permettre néanmoins des alliances. Tout cela forme un amas d'histoire compliquées. Le premier né hérite de la ligné, peu importe son sexe.
+
+La peine de mort y est rarement appliquée, mais lorsqu’elle l’est, on n’hésite pas à pendre les détenus ; les corps sont ensuite jetés aux delphènes qui s’en nourrissent et voient cela comme des présents.
+
+#### Les différentes lignées & les sorsèves
+
+L’entente avec les sorsèves est cordiale ; si ceux-ci préfèrent rester dans leur mangrove et ne pas se mêler aux humains, ils aideront ces derniers en cas de catastrophe ou de pénurie pour obtenir des récoltes viables, conférant une grande sécurité alimentaire aux méhens. Ceux-ci cherchent parfois à obtenir les secrets de leurs production si optimisée, croisements de fleurs surprenants, récoltes magnifiques malgré leur biome de vie difficile ; et ils proposent régulièrement des alliances ou du travail, notamment en Mahorel. Mais les sorsèves, fidèles à leur peuple, n’acceptent jamais tant qu’ils sont rattachés à leur tribu. Seul les très rares bannis se joignent aux humains.
+
+### Culture
+
+La première valeur des méhens est l’entraide. « Si tu vois un inconnu sur ton chemin, tend-lui la main » y est une doctrine connue. C’est ainsi qu’ils maintiennent des relations cordiales avec les sorsèves et les delphènes voisins, avec qui ils partagent leurs ressources volontiers. En échange est tout de même attendu un partage réciproque, considéré comme une marque de respect nécessaire à cette bonne entente. Car le respect de chacun est la seconde valeur méhenne par excellence ; elle est cependant différente de la notion de respect tenrane car disjointe de l’idée de hiérarchie. Les méhens considèrent que chacun peut et doit s’exprimer pour faire parler le juste ; que le chusa doit le même respect au moindre fermier que celui qu’on lui accorde par sa position.
+
+Enfin, la dernière valeur est le respect de la nature, induit par leur religion. Les méhens adaptent leurs villages à l’environnement naturel et s’abstiennent de le modifier en profondeur, témoignant à nouveau de ce respect qui leur est si cher. En Kherul, au lieu d’aplanir les rochers, les maisons sont montées sur pilotis ; à Mahorel, les villes sont étalées sur de larges terrains à cause des nombreux petits lacs qui les parsèment. C’est aussi l’une des raisons de leur entente avec les peuples anciens environnants, qui ne supportent pas le mépris de la nature dont font preuve les elins ou les royaumes au profit des prouesses humaines.
+
+Les méhens sont de bons alchimistes. Avec l’aide des sorsèves, ils ont conçu un bois dit « liquide », qu’ils sont capable de manier comme du verre en fusion et de le faire figer ensuite, créant des meubles d’un style particulièrement apprécié des régions voisines.
+
+#### Architecture
+
+          L’architecture des méhens s’adaptent à la nature alentour ; de ce fait, les villes de chaque région sont bien différentes. Cependant, on note que toutes sont organisées autour d’un bâtiment centrale : la villa du chusa pour les capitales, souvent des temples pour les autres. Elles forment de larges rues entremêlées selon les irrégularités du sol et l’environnement, ce qui leur confère un aspect hasardeux. La plupart des bâtiment sont en bois ou en matériaux minéraux selon la région et les ressources disponibles. Le métal s’est mal exporté aux villes méhennes, en proie a des conditions climatiques peu adaptées à ce matériau.
+
+#### Devise
+
+Les méhens utilisent le hu comme monnaie, huen au pluriel.
+
+#### Langage & noms
+
+Le méhen est une langue très inspirée du langage des delphènes, surtout tel qu’il est perçu à l’air libre ; il comporte ainsi à la fois beaucoup de chuintements (sons n, m, h) mais aussi de sons plus durs correspondants aux cris des delphènes (kri, ki, sons claquants et secs). Le langage des delphènes est plus complexe au niveau des sons mais plus simple au niveau de la grammaire et des concepts. 
+
+En Mehua, on apprend l'elin et la langue de l’empire, le salish et la langue des royaumes parfois. Ceux qui le veulent apprennent facilement la langue des delphènes à leur contact.
+
+Le méhen est aussi un langage parlé par les sorsèves.
+
+Les prénoms sont choisis par les parents, les noms sont formés ainsi : particule de la région suivie de la fusion des deux premiers caractères des noms des parents.
+
+###### Noms des particules de régions :
+
+Safre : Sah
+
+Falve : Fel
+
+Mahorel : Ko
+
+Kherul : Re
+
+Gishae : Sih
+
+Exemple : Kanahe Sih Strelizia, nom formé des caractères « Streli », force, et « Zia », sœur.
+
+###### Dictionnaire
+
+Mahorel : mère (maternel)
+
+Kherul : bleu
+
+#### Vêtements
+
+En Mehua, on porte des couleurs. Des tissus légers comme du lin à cause de la température, de grands chapeaux en triangle ou capuches pour se protéger de la pluie. La tenue traditionnelle se compose de grands pantalons très bouffants, serrés aux chevilles, parfois fendus sur les côtés, ainsi que de chemises légères et courtes qui couvrent les bras et tiennent aux poignets, afin de protéger le corps des insectes et du soleil. Cependant, ces tenues dépendent là encore des régions.
+
+On y arbore comme bijoux des carapaces de tortue, en pierre précieuses ou des vraies, qui symbolisent sagesse et prospérité. On se teint les cheveux pour imiter les oiseaux colorés, notamment à Safre, vert, bleu, orange, rouge ; les plumes, perles et teintes vives y sont courantes et appréciées.
+
+Les méhens adorent célébrer la nature et la vie, et les réjouissances liées au passage des saisons ou à des événements météorologiques sont fréquents.
+
+#### Masques
+
+Hérité des sorsèves, les méhens taillent et produisent des masques aux visages disproportionnés qui représentent principalement les dieux et les esprits. Ils sont principalement en bois, en métal, en pierre taillé ou en plume.
+
+#### Nourriture
+
+En Mehua, la nourriture est principalement à base de plantes et de poissons bien que la consommation de viande soit parfois plus importante dans certaines régions comme Gishae ou Safre. Les repas sont souvent composés de nombreux petites portions partagés par toute la tablée, qui se sert avec les doigts ; des bols d’eau parfumés de fleurs ou de citron permettent de se les rincer. On y mange couramment des fleurs, des feuilles et des algues, avec des céréales petites et rondes cultivés en Mahorel et les produits de la mer du jour. La vanille, le chocolat et les agrumes font partie des aliments disponibles uniquement en Mehua, bien les agrumes puissent aussi se trouver à l’empire kishar ou en Tenrô.
+
+L’une des spécialité sont les fromages végétaux, obtenus à partir de la sève blanche et fluide de plantes qui ressemblent à du lait. Le goût est moins prononcé, et la texture plus légère que celle du fromage d’origine animal.
+
+L’élevage, bien que rare en Mehua, est toutefois pratiqué avec parcimonie notamment en Mahorel ou dans les hauteurs de Kherul avec des troupeaux de caprins endémiques, des porcins ou d’autres bovidés. La viande est vendue à Gishae ou Safre, gardée pour des banquets ou offerte aux delphènes, voire consommé si les récoltes de l’année sont mauvaises. Le cuir et la laine servent pour faire des vêtements ou des couvertures.
+
+### Régions méhennes
+
+### Safre
+
+La couleur emblématique de Safre est le jaune.
+
+Safre est la région du Nord, spécialisé dans le marchandage, les bateaux qui exportent à l’Elyon notamment. A l'ouest se présente un début de mangrove, au sud de la jungle, ainsi que la première tribu sorsève.
+
+Safre étant une région plus sensible à l’exportation des autres cultures par ses importants ports marchands, les bâtiments y sont plus complexes, hauts et ouvragés qu’en Mahorel ou Gishae. La côte y est plus urbanisée ; le sol y est entièrement pavé pour ne pas gêner les chariots et les carrioles transportant des marchandises, et des alliages de métal résistant au sel et à la pluie sont utilisés pour rendre les bâtiments plus résistants. Les façades des maisons laissent ainsi souvent apparaître des croix ou des serpentins de métal qui traduisent la présence de barres retenant l’édifice de l’intérieur. On y trouve de large places, des peinture en trompe-l’œil sur les édifices et des tons pastel et colorés qui rappellent parfois les états salins, tout comme l’architecture des bâtiments rappelle parfois l’Elyon. La région est aussi la plus peuplée de Mehua.
+
+C’est aussi là qu’on trouve le temple de Dayub, la plus grande banque actuelle.
+
+Cependant, l’urbanisation et la modernisation des bâtiments décroît continument lorsqu’on s’écarte de la côte et des ports pour rejoindre l’architecture méhenne traditionnelle de Mahorel et de Gishae, voire laisser libre la nature sur le territoire sorsève dans la jungle et la mangrove.
+
+Les safarins, habitants de Safre, ont tendance à se sentir supérieur aux autres méhens grâce à leur accès anticipé à des techniques et technologies venus des pays voisins. Leur tenue en montre l’influence, par l’utilisation de tissus, de coupes et de motifs provenant de ces pays.
+
+### Falve
+
+La couleur emblématique de Safre est le rouge.
+
+Falve est une région milieu ouest, et contient la majeure partie de la mangrove. On y pêche et cultive des arbres et des animaux ; c'est aussi la région où se situe la seconde et plus grande tribu sorsève.
+
+Ainsi, l’urbanisation y est presque aussi lente et difficile qu’à Kherul. Les villes sont en bois, en grès ou en roche volcanique selon leur localisation, et certaines villes sont construites dans les arbres pour ne pas perturber la faune et la flore ; chacune se font parfaitement dans son environnement, et sans les peintures et ornements, lampions, statues qui décorent certains bâtiments seraient presque invisibles.
+
+Les falvins sont connus comme des gens discrets et sont rarement impliqués dans les conflits d’intérêts (fréquents) de la politique méhenne. L’influence des sorsèves leur assure une bonne indépendance alimentaire, et ils ont moins d’attrait pour les exportations luxueuses et exotiques que leurs voisins.
+
+### Mahorel
+
+La couleur emblématique de Mahorel est le vert.
+
+Mahorel, située au sud-ouest, région la plus calme, contient beaucoup de champs et d’élevage. C'est une région trouée de lacs d'eau où viennent dormir delphènes et dragon fauves, favorisant les rapports et contact entre humains et êtres aquatiques. C'est la région qui produit le plus de nourriture ; elle a ainsi le surnom de « grenier de Mehua » ou de « région-mère ». Cette région possède aussi le second port le plus important de l’île, sur la côte est, car c’est celui utilisés par les bateaux en liaison avec l’empire kishar ou le Tenrô.
+
+En Mahorel et en Gishae, comme les pluies sont très fréquentes en certaines saisons, les rues pavées de pierre plates sont construites concave avec des sillons de chaque côté pour éviter qu'elles ne se creusent ; les toits sont en pente douce avec des tuiles lisses pour éviter que l'eau ne s'y accumule. Pour se protéger du soleil, les avenues sont couvertes de toiles colorées à motifs travaillés qui projettent des lumières teintées sur le sol. Les bâtiments restent près du sol, rarement au-delà de deux étages, et les maisons ont souvent des terrasses au-dessus desquels s’accrochent lampions en papier et charmes pour les esprits. En Mahorel, les villes sont organisées au maximum sur les zones les plus plates et dénuées de trous d’eau ; mais lorsqu’il arrive tout de même que l’un de ceux-ci soit pris dans l’urbanisation, ce qui arrive souvent, ils sont laissés tels quels, avec assez d’espace autour pour que les créatures aquatiques puissent tout de même l’utiliser comme point de respiration et de repos.
+
+Les couleurs et les formes sont choisies pour épouser la flore naturelle ; ainsi les murs sont souvent crème ou ocre, parfois bleus ou verts, et les toits sont en tuiles vertes ou rouges qui imitent certaines des plantes de couleurs vives des environs. On privilégie le bois, le grès et les roches naturellement présente comme le basalte ou le granit. Leur port est imposant mais n’a rien à voir avec celui de Safre ; il est tout en bois, traditionnelle, et non moderne comme celui du nord de l’île. Les mahno ont réputation de gens calmes et sereins.
+
+### Gishae
+
+La couleur emblématique de Gishae est le violet.
+
+Gishae, au sud, est la région la plus visitée. Constitué d’une majorité de jungles luxuriante, ses habitants font plus de chasse et de pêche que de culture et prennent soin de leurs paysages pour y faire visiter leurs merveilles.
+
+Effectivement, la région contient les plus belles sources chaudes dues à la proximité du volcan et des cascades formidables. On y trouve aussi le temple de Sahaarn, où des pèlerins se rendent pour rendre leurs honneurs, ainsi que des plages d’argent qui attirent les riches elins en manque de soleil ; la jungle elle-même vaut le détour, composée d’arbre immense qui forment une voûte d’émeraude sur les innombrables cours d’eau où fleurissent des massifs de fleurs énormes et où butinent les colibris. Le tourisme en fait l’une des régions les plus cosmopolites du pays, avec Safre ; mais le lieu souffre aussi de braconnage, et bien que les méhens appliquent des lois de protection du patrimoine implacable, il n’est pas rare que des animaux ou plantes exotiques soient arrachés à la forêt pour aller décorer la villa d’un aristocrate qui y passe ses vacances.
+
+L’architecture y est gardée aussi traditionnelle que possible, ce qui correspond à celle de Mahorel. Les bâtiments y sont cependant voulus plus impressionnants, et des arches de grès ou de marbre couronnent parfois d’importantes avenues ou la villa du chusa de Gishae. Le plus bel édifice reste le temple de Sahaarn, entièrement en marbre et en granit, sur une falaise dominant la mer.
+
+Les gishars sont parfois mal vu par leurs voisins pour leur mise à profit de leur patrimoine fabuleux, mais il n’est pas dans l’état d’esprit méhen de dissimuler ses richesses et ceux-ci se défendent des critiques en assumant partager les beautés de l’île. Comme à Safre, leur apparence est influencée par les cultures des pays qui visitent leur région.                                                                                                      
+
+### Kherul
+
+La couleur emblématique de Kherul est le bleu.
+
+Kherul est une région fortement liée aux delphènes. La côte est aride, découpée de rochers noirs et battue de vagues et de vents. Vers l’intérieur des terres, c’est une série de plateaux très fertiles qui mènent au volcan de l’île où les bergers peuvent faire paître quelques bêtes. Kherul se situe à l'est et fait majoritairement de l'artisanat. On trouve dans ses calanques d'étranges statues de poissons et de créatures marines taillés dans les roches. On y travaille dans les mines pour récupérer les cristaux, métaux, et ressources précieuses pour produire les colorants et bijoux typiques de Mehua. Ces mines, gouffres sombres, béants et dangereux car sujets à de fréquents glissements de terrain et inondations, ont pour réputation d’abriter de terribles monstres dont on ne voit que l’immense gueule garnie de crocs, tapis dans l’eau, qui avalent les mineurs.
+
+Kherul étant une région hostile, ses habitants ont préféré construire leurs villes de la côte sur pilotis, hors d’attente des inondations fréquentes et leur épargnant d’aplanir le sol rocailleux. Cependant, les excellents artisans que sont les kherulois ont sculpté les roches pour les transformer en statues de créatures marines, parfois incrustées de pierres précieuses trouvées dans leur mine. Les delphènes adorent cette région, et les habitants de Kherul, avec ceux de Mahorel, sont les plus proches du peuple marins. Il est courant que leur enfant joue avec les leurs et que des amitiés fortes se nouent entre les peuples dans ces régions.
+
+### Aide et sources
+
+#### Noms de villes
+
+Ketis
+
+Io Ani
+
+Phelassi
+
+Kyori
+
+Kieda
+
+#### Noms et prénoms portés
+
+Voir prénoms indiens
+
+Hatsu
+
+Kalani
+
+Auta
+
+Eybie
+
+Byrei
+
+Weiga
+
+Deiara
+
+Yarow
+
+Borshi
+
+Arra
+
+Kia
+
+Jetsun
+
+Lamu
+
+Harish
+
+Shiva
+
+Mahesh
+
+Divya
+
+Sahar
+
+Varsha
+
+Uma
+
+Hari
+
+
+# Textes
 ## Kherul
 
 Le vent qui y hurlait, porté par les flots, résonnait des millénaires d'histoire qu'il portait.
