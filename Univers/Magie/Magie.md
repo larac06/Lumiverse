@@ -1,3 +1,23 @@
+Le monde était composé d’ondulation. De flux vibrants, chargés d’énergie, qui composaient, traversaient et nourrissaient toutes choses.
+
+En Elyon comme en Tenrô, on l’appelait l’écheveau. Car si on percevait chaque flux comme un fil, il devenait bien plus aisé d’en comprendre les cheminement et les agencements. Les bassins de flux que formait les créatures mouvantes étaient des nœuds, complexes et tièdes. Les pierres, les plantes, toutes choses battaient à l’unisson de ce cœur vibrant que représentait les voies, les fils, l’écheveau.
+
+Les aroatis apprenait, à l’aide de leur esprit, de leur regard et de leur souffle, armes puissantes pour maîtriser le flux, à toucher et distordre les fils selon leur volonté. Cependant, ceux-ci cherchaient toujours à retrouver une position d’équilibre, ainsi leur effet était rarement de longues durée. Un aroatis pouvait, d’un tiraillement sur un flux particulier, vous assommer par un soudain mal de crâne ; mais il ne faudrait que quelques minutes à celui-ci pour s’estomper. Les effets pouvaient cependant être augmenté si les fils déplacés par le mage influaient sur des nœuds voisins, auquel cas le système aurait besoin de plus de temps pour retrouver sa situation initiale.  
+Ainsi, un aroatis peut se faire disparaître aux yeux de plusieurs personnes en détournant les flux qui se portent à lui ; mais il lui faut toute sa concentration et sa dextérité pour maintenir cet état. Une seconde de relâchement suffira à amener toute l’attention sur lui.
+
+Les Voyageurs n’étaient plus tout à fait humains, ils peuvent libérer leur esprit de l’incarcération du corps, et appréhender l’espace tel qu’il est et non tel qu’il s’impose à eux. C’est pourquoi ils peuvent, au prix d’une grande énergie détournée, plier la trame du monde pour s’infiltrer d’un endroit à un autre. La fatigue induite est proportionnelle à la taille du pli créé. De fait, leur pelote d’énergie est « retissé » à travers de nombreux processus encore tenus secrets, afin de leur permettre de simplifier leur propre nœuds et de se glisser par les fentes du tissu du monde sans y perdre leur existence.
+
+La magie condensait en fils, épais, clairs, invisibles à l'oeil, qui tendaient d'emblée vers l'Ouest.
+L'Ouest au-delà des Royaumes de Calice, Colveil, Dalmes et Abanceau,
+Au-delà des montagnes noires des sorsangs, des sauvages et des tribus de loups.
+
+Ces brins liquides, trop près de leur source, s'emmêlaient en mystères qu'aucun homme n'avait pu revenir raconter aux siens.
+Des statues vivantes aux yeux vifs, d'immenses serpents ailés,
+Des lacs d'ombre lumineux, des forêts d'os et de poussière,
+Et de gracieux pao, dont les plumes déployées
+Montraient l'avenir
+Sur leur éventail.
+
 
 ```table-of-contents
 ```

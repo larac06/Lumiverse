@@ -79,3 +79,42 @@ Kasai toqua. Lorei ouvrit la porte et s'y précipita.
   -bienvenue à la maison, les enfants. Fit-il d'une voix rauque. 
 
 
+# Trame
+
+Kasai est un Voyageur, un mage capable de plier l’étoffe du monde et de glisser entre les mailles, lui permettant ainsi de voyager sur des kilomètres en quelques secondes. Il a donc été remis très tôt à la cité des Voyageurs de l’empire par son père, avec sa sœur, Loreleis. C’est une ville à part entière où vivent voyageurs et apprentis, presque une cité-état au cœur de l’empire.
+
+Eleve sérieux et exemplaire, il y accomplira son parcours avec brio, et portera depuis son pendentif de bronze religieusement. Cependant, il y découvrira au cours d’une de ses méditations le brasier d’Ios. Fasciné, il s’élancera alors dans la quête folle de trouver le brasier et traversera le monde jusqu’aux royaumes occidentaux. Là, il se perdra dans les montagnes enneigées d’Etsimea et découvrira la faille, Felithis, hébergeant une flamme proche du brasier mais pas suffisante. Azun lui offrira gîte et couvert en échange d’aide pour fixer et perfectionner ses propres portails, ce que Kasai fera par dégoût pour le travail mal fait et les déchirures que cela représente.
+
+Où reprendra-t-il sa quête ? Attendra-t-il son objectif ?
+
+Durant son apprentissage, il rencontrera Aran, aroatis en cavale, avec qui il aura une puissante histoire d’amour. Il en aura plusieurs autres au cours de son périple, notamment avec Djinn aux états salins, où il retrouvera aussi Aran qui en est un prince.
+
+Il vivra un temps à Felithis, et en apprendra les recoins et les ouvertures. Il jugera l’endroit approprié pour une courte retraite, avant de reprendre son périple, plus profond dans l’Ouest, jusqu’au brasier.
+
+Il y réfléchira à la suite. A ce qu’il fait s’il le voit.
+
+Le brasier, c’est Ios, le dieu de la vie et de l’entropie, du mouvement, du feu, du soleil : du concept qui unit toutes ses choses.
+
+Hypothèses de suite :
+
+-        Kasai se brûle et meurt
+
+o   L’esprit de Kasai interprète Ios comme un humanoïde et il se sent trahi
+
+o   Kasai s’intègre au brasier, et meurt
+
+-        Kasai passe un long moment à contempler le feu. Il questionne Ios. Apprend beaucoup. Puis rebrousse chemin. Il est à présent aveugle et sage, et retourne vivre et finir sa vie en Felithis.
+
+o   Kasai a été mandé pour une nouvelle mission par ses proches (sa sœur ?) et ne peux rester
+
+o   Il y obtient un nouveau pouvoir terrible
+
+-        Kasai aperçoit la vérité et en devient fou
+
+-        **Il découvre que Ios est corrompu, malade, mourrant, gangréné par les nouveux dieux du sang qui s’en prennent à sa chair. C’est un faux Ios, une incarnation.**
+
+o   Mais le sait-il ?
+
+o   Non : Il retourne à la faille alors (aveugle ?) et entreprend de combattre les sorsangs et leurs divinités impies qui bousculent l’équilibre du monde
+
+o   Oui : Il sent qu’il y a un problème et confronte Ios, se retrouvant blesser et confus, voire devenant fou et clamant qu’il n’y a pas de dieux

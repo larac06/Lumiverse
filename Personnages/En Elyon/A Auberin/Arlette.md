@@ -1,4 +1,66 @@
 
+# Ancienne fiche perso
+
+Nom : Arlette D’Edalmas (faux nom), Rosabianca (vrai nom de sa mère)
+
+Age : 15
+
+Anniversaire : 16 novembre
+
+Origine : Elyon
+
+Personnalité : Petite peste ambitieuse, curieuse, intelligente, qui aime jouer de son joli minois. Menteuse, joueuse, espiègle, impertinente. Rêve de devenir prestidigitatrice. De vivre dans le luxe.
+
+Description : Petite blonde aux cheveux très longs, frange. Tout est rond chez elle, visage, yeux, nez retroussé, joues un peu bombées (à son grand dam). Jolie taille fine, seins et hanches fournies, plus que sa sœur. Porte des robes, des volants, et toujours son haut-de-forme. Yeux violets sombres. (Biche, chat)
+
+Magie :
+
+Histoire : sœur de Talora, elle piquera la sphère par curiosité, et car elle s’y sent familière (la faille). Elle sera alors prise en otage par Théophraste, puis sauvée par Arhel (et elle-même)
+
+Arlette a été abandonné à la naissance. Pratique plutôt répandue chez les prostituées et gens de la Blanche, cela ne surprendra pas spécialement. La mère de Talora, une prostituée de haut standing officiant au bordel **, la trouvera et la recueillera malgré tout chez elle. Elle grandira alors là-bas. Fascinée par les corps, l’esthétique, le luxe et le divertissement, petit Arlette rejettera néanmoins en bloc l’idée de participer au salon. Talora ne la connaitra que peu, et partira à ses cinq ans. Elle préférera filer dans l es rues, sans le sou, seule, à ses douze ans. Talora aura depuis longtemps quitté sa mère, et sera alors à Felithis. Surveillant régulièrement la petite, elle signalera à Aaron ne pas apprécier de voir sa sœur dans les rues, et ce dernier enverra alors Kasai, ou autre, pour venir lui prendre la main et l’emmener à Felithis. Elle y grandira alors, à mi-chemin entre l’étrange monde supplémentaire et la résidence au cœur d’Auberyn. Elle deviendra ami avec Arhel dès son arrivée, et entreprendra de faire les quatre-cents coups avec lui. Cependant, elle trouvera trop dangereux de s’aventurer jusqu’à rejoindre sa bande, et préférera rester à distance.
+
+Arlette n’aime pas sa sœur, sans savoir pourquoi. Elle sait pourtant que c’est elle qui lui a apporté la tranquillité en la sortant de la rue. Elle accepte donc toutes ses invitations, lorsque Talora en émet.
+
+Invitée chez sa sœur pour les jours bleus, Arlette y croisera, la nuit, après la soirée, alors qu’elle allait chercher un verre de lait en secret, les voleuses. Elle piquera la sphère d’un portail, par réflexe, curiosité. (Inhibiteurs -> massiko n’en porte pas avec Elayin, trop dangereux de brouiller ses pouvoirs. C’est parce que Théo en portait qu’Elayin a fait son erreur). Elle sera fascinée par Hester : cette Hester qui l’enlèvera alors, consciente du pouvoir sur elle.
+
+ Elle découvrira alors, avec Hester (son modèle) ou Théophraste, le Théâtre. Tout d’abord angoissée, elle sera assez vite détendue. Arlette tient peu à son intégrité physique, du moins le croit-elle. Elle se montrera curieuse, effronté, posant des questions à Théophraste, à Hester, pour les comprendre.
+
+ Elle y sera malmenée, mais saura faire remarquer son esprit et sa force. Théophraste n’en sera que plus remonté contre elle, et pourtant attentif. Ils l’emmèneront à des soirées, se montreront doux, la convainquant presque de donner l’objet. Cependant, Arhel viendra la délivrer avant : trop épuisée par ses bracelets inhibiteurs qu’ils lui feront porter tout du long, elle sera incapable de les emmener d’un portail.
+
+Phrases : « J’éclipse tout le monde autour de moi ! »
+
+« Si tu veux me frapper, c’est que tu as peur. C’est ridicule, d’avoir peur d’une gamine comme moi ! »
+
+« Les dieux n’ont rien compris. »
+
+Bisexuelle. Adore le rouge et le violet. Porte constamment un haut de forme, qu’elle orne de perles et de plumes en tout genre.
+
+Adore la ville de Dalmes, elle dit qu’elle en vient. Ville des Etats Salins ?
+
+
+La lumière du soleil effleurant l’horizon se répandit dans sa chambre comme un poison forçant l’éveil. Arlette tenta de lutter en tirant sa couette pour se protéger de l’attaque, mais un nouvel opposant eut raison d’elle.
+“Arlette, levez-vous, il est l’heure !” Lança-t-on en toquant à sa porte. Elle repoussa finalement sa couverture tiède avec déception et émergea de son lit. Il fallait bien travailler pour payer le loyer. Elle se traîna jusqu’au robinet pour remplir son baquet d’eau et se lava rapidement le visage. Un peu plus réveillée, elle s’installa à la petite table qui lui servait de coiffeuse,  démêla les cheveux, puis noua sa crinière blonde sur sa nuque en un chignon hasardeux. Quelques étirements, et elle était enfin lucide… Assez pour prendre conscience qu’elle serait bientôt en retard. Elle se hâta de s’habiller : chemise, pantalon, bretelles, chaussettes. Elle se poudra rapidement le nez et saisit son précieux haut-de-forme, l’enfonça sur son crâne, jeta sa veste en velours sur son dos et saisit son petit porte-monnaie. Elle en tira une pièce d’un sol qu’elle jeta en l’air de sa main droite. La pièce n’atterrit pas ; elle la récupéra dans sa main gauche avec un sourire. Elle ne priait pas, elle avait perdu foi en la religion longtemps auparavant. Chaque matin, plutôt que de partager ses doutes à des figurines de pierre froide, elle s’entraînait à faire des tours de magie. Satisfaite de ses compétences, elle fila. Pas le temps de manger ; cela attendrait sa pause de dixe. 
+Elle claqua le battant et traversa le couloir poussiéreux. Le long de celui-ci s’alignait une petite dizaine de portes, qui dissimulaient autant de chambres similaires à la sienne où logeait des pensionnaires dans une situation similaire à la sienne: sans famille pour les héberger à la capitale, avec un salaire tout juste suffisant pour se payer la chambre au jour le jour et les repas chauds de la salle commune. Elle dévala les marches pour rejoindre l’entrée, manquant de trébucher sur le tapis. Elle aimait la pension. Avant d’habiter ici, elle avait expérimenté une pauvreté bien plus terrible ; avoir un lit et le ventre plein étaient à présent une fierté du quotidien. C’était Marek qui l’avait amené là, le jour de leur rencontre. Elle était alors une petite serveuse dans l’un des quartiers les plus pauvres de la cité. Elle s’était faite virée sous son nez par un patron injuste qu’elle avait copieusement injurié. Amusé par l’épisode, il l’avait guidé presque à son insu jusqu’à la pension, et elle n’avait jamais quitté l’établissement depuis.
+Elle avait fini par comprendre que le propriétaire, un original, était un ami de Marek. Tout cela n’était qu’un coup de chance; mais tant qu’elle avait un lit où dormir et la clé de sa porte, le reste lui importait bien peu. Elle faisait ses quatre sols par jour, payait son loyer, et se couchait le ventre plein.
+“Bonjour, monsieur Kasaï, mademoiselle Alisandre.”
+Elle croisa le professeur et la jeune fille dans le hall et ralentit sa course. Elle appréciait bien le professeur, avec sa belle barbe rousse, sa grande robe en velours des érudits, et sa paire de lunettes en demi-lune qui lui donnait un air sérieux, adoucit par son sourire aimable. Elle était plus partagé au sujet d’Alisandre, qui la dévisageait parfois avec un air hautain qui l’irritait beaucoup.
+“Merci pour le paquet, hier, mais ne t’embête plus à venir à mon travail. La prochaine fois que tu as quelque chose pour moi, ça peut attendre mon retour à la pension.” Dit-elle à Alisandre. “Le vieux n’aime pas beaucoup qu’on se pointe sans y être invité.”
+Alisandre fronça les sourcils.
+“Ca doit être compliqué pour vos clients, si on ne peux pas entrer dans votre boutique.
+-Sauf que tu n’étais pas une cliente, et que tu es descendue jusqu’à l’atelier.
+-J’aurais pu en être une, et je suis descendue car personne n’était là pour m’accueillir.
+-Mais tu ne l’étais pas ! Bon, je suis en retard. A ce soir !” Lança-t-elle finalement en filant dans la rue, coupant court à l’échange. Kasaï, intrigué, avait observé silencieusement l’échange. Elle se mordilla la lèvre. Elle-même se rendait compte que son discours soulevait des soupçons. Enfin, ils avaient tous leurs secrets, à la pension, non ? Elle avait bien le droit aux siens.
+Elle hâta le pas à travers les boulevards. Les ouvriers se massaient sur les larges allées, allant réveiller les usines, échoppes et boutiques. Bientôt la ville s’éveillerait, monstre énorme, et soufflerait sa lourde fumée quotidienne.[[ + décrire la ville, l’ambiance, l’agitation, le matin]] Elle traversa un pont en cuivre, puis dévala un long colimascend pour rejoindre le niveau inférieur de la ville, sautillant avec adresse sur les marches malgré la hauteur vertigineuse. Les apprentis des fabriques nettoyaient la chaussée avant l’arrivée des fiacres des clients, tirés par des chevaux mécaniques pour les plus riches. Les restaurants chauffaient, s’agitaient, répandaient des odeurs de brioche, de chocolat et de café chaud dans la rue. Elle céda et s’acheta un chausson aux pommes avec un petit gobelet de café. Elle grignota la viennoiserie sur le chemin, slalomant entre les silhouettes nombreuses et pressées qui entamaient leur journée de travail, avant de s’engouffra dans les petites ruelles sinueuses de la vieille-ville. Elle atteignit finalement l’impasse où elle se rendait chaque matin en essuyant ses doigts gras. La façade n’était pas très engageante, malgré ses efforts. Elle avait essayé de nettoyer les carreaux et de repeindre l’enseigne ; mais au bout de quelques jours, ils revenaient immanquablement dans l’état précédent, respectivement ternes et effacée. Elle soupçonnait l’artisan d’user de quelques tours de magie pour s’assurer la discrétion de l’établissement. Pour étayer sa théorie, elle travaillait déjà sur une nouvelle enseigne, toute neuve et colorée, mais qu’elle avait rendu aussi incompréhensible que possible.
+Elle poussa la porte de la boutique et descendit l’escalier qui menait à l’atelier. Le maître était déjà à l’ouvrage, comme toujours. Dormait-il seulement ? Elle retira son chapeau, sa veste, et commença à travailler sans un bruit. Le maître aimait le silence ; il aurait haï être dérangé par un “bonjour”. 
+
+Ils étaient seuls. L’atelier était une simple pièce boisée, situé sous la boutique, reliée par un escalier. Sur le bureau s’alignait pêle-mêle pinces, ciseaux à métal, marteaux, cisailles, huiles, enduits et chiffons. Des pièces de cuivre et de fer étaient rangées, contre le mur pour celles qui étaient aussi grandes qu’Arlette, encombrant les étagères pour celles qui étaient plus raisonnables. Des fils, des cristaux luisants, des rouages, des pièces d’horlogerie. Arlette avait son îlot au milieu de ce chaos organisé. Un petit bureau qui supportait vaillamment sa machine à coudre, ses étoffes, ses pinceaux, ses couleurs. Elle avait commencé à peindre : mais du coin de l’oeil, elle observait encore le maître. Il était penché sur la table de travail, au milieu de la pièce. Il était si solennel, si pesant et intimidant, que dans sa tête, elle appelait son plan de travail “l’autel”. Il l’avait longtemps terrifié, mais elle ne l’avait jamais montré. Elle était comme ça, téméraire. A présent, il ne lui faisait plus peur. Il était devenu une figure de son quotidien.
+Au milieu de l’autel trônait un visage. Un visage de collines et de vallées de métal, aux yeux ouverts, orbites nues. Rattaché à la face, un cou, un torse, des jambes. Une formidable mécanique pas encore dissimulée. L’artisan découpait, mesurait, ajustait. Les jambes attendaient déjà leur corps. Un autre corps, complet celui-là, reposait sur sa propre table de travail. Arlette ajoutait les dernières touche au masque de feutrine qui habillait le métal. Celui-là, elle l’avait appelé Sanson.
+Elle travaillait sur chacun des heures durant ; elle avait le temps de leur donner un nom et d’apprendre à les connaître. Depuis son arrivée, quelques années auparavant, elle avait fait d’énormes progrès. A présent, elle savait faire les nuances subtiles des joues, l’éclat des iris, les rides et les tâches de la peau. Mais elle n’était pas dupe : elle savait que sans la touche finale du maître, l’automate n’aurait rien eu d’humain. C’était sa partie préférée de la création : lorsqu’enfin les corps s’éveillaient, ressemblant à s’y méprendre à des êtres de chair et de sang. Elle-même aurait pu oublier les avoir vu ventre ouvert, fils à nu, tant il paraissait chaud et vivant. Elle avait tout appris seule, la peinture, la couture. Elle avait découpé les coutures de ses propres vêtements, et elle les avait réassemblés. Encore et encore, jusqu’à comprendre comment ils étaient conçu. Petit à petit, elle avait cousu des jupes, des chemisiers, des corsets, des vestons. Elle aimait son travail. Elle aurait voulu savoir ce qu’il advenait des automates, lorsqu’ils quittaient l’atelier. L’artisan disait qu’il avait des clients. Elle ne les avait jamais vu, et se contentait de vendre les petites poupées de l’étage.
+“Il est fini ?” Demanda-t-elle en regardant Sanson. Il paraissait abouti, mais c’était le Maître qui savait s’il était véritablement terminé.
+“Il faut lui laisser le temps d’imprégner.” Souffla le maître d’une voix rauque et usée en assemblant le nouvel automate.
+“Combien de temps ?
+-Quelques semaines encore à l’atelier. Plus tu lui parleras, petite, plus il sera prêt rapidement.”
+Elle pensait qu’il se moquait d’elle, et de son habitude de murmurer aux automates, mais peu lui importait. Elle le prenait au pied de la lettre, acquiesçait avec espièglerie, et continuait à leur parler d’autant plus.
 
 
 
@@ -179,3 +241,19 @@ Cela ne faisait que quelques jours qu'elle occupait cette chambre. Alexei la tri
 Elle en aimait d'autres, évidemment. Elle était folle de Laetitia. Elle adorait son amour d'enfance, Edelyon, devant qui elle cédait toujours à l'envie d'en profiter un peu. Elle aimait profondément Bailan, qui la traitait comme une reine... Et elle ne se privait pas de quelques a-côté. Elle était du genre gourmande.
 Même si cela ne lui suffisait pas. Quand elle s'asseyait et rêvait, ses pensées dérivaient encore vers un autre. Une silhouette qu'elle ne pourrait jamais gommer de son esprit, qui l'envahissait et l'étouffait au quotidien.
 Jaliane.
+
+# Trame
+
+Nom : D’Edalmas
+
+Prénom : Arlette
+
+Née dans une maison close d’un père inconnu, Arlette récupérera un vieux haut-de-forme poussiéreux et se l’attribuera en clamant que son père n’est autre qu’un brillant prestidigitateur dont elle veut suivre les traces. A la maison close, elle rencontrera Marek, qui laissera sur elle de curieuse marques d’éther. (pourquoi ? Juste par contact ?) Elle quittera la maison close à ses 12 ans, jetée à la rue car incapable d’y travailler ( ?). Elle possède un don secret, celui de déchirer et de recoudre le tissu du monde. Elle crée des portails.
+
+Elle a une demi-sœur, Talora, qui a longtemps vécu à Felithis. Sous influence de celle-ci, et aidée par ses marques d’ether, Arlette rencontrera Azun et sera invitée à vivre sur la face claire de Felithis, la résidence, tant qu’elle tient sa langue sur ce secret. Arlette acceptera et y vivra avec plaisir.
+
+Plus tard, elle rencontrera l’Artisan (lui trouver un nom), un homme immortel qui met sa mémoire dans des automates avant de les laisser vivre leur vie en ville pour s’assurer que sa mémoire et la sagesse acquise à travers les âges survivent malgré ses oublis et l’asséchement de son cœur. Arlette l’attendrira et ils deviendront amis.
+
+è Qui est cet homme ? Lien avec Marek, Azun ? Pourquoi immortel ? Possède des secrets dangereux qu’Arlette apprendra et utilisera pour se lancer dans une quête ?
+
+è Lien trame principale ?

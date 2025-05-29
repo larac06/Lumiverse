@@ -1,7 +1,26 @@
 
+
+
+
+
 Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
+
+29/05/25
+
+Fini la partie "lore" de mon word. C'était le bordel, j'ai l'impression que j'avais écrit les mêmes choses des dizaines de fois ! Il était bien temps de centraliser, ça me fera du bien au cerveau. Enfin, quand j'aurais tout relu...
+Il reste la section "histoires" de mes docs word, et le scrivener. Le scrivener, je le garde en backup quand je relirais. Et j'ai failli oublier Sauge !
+
+20/05/25
+
+FINI de cc les petits bouts intéressants des notes writer+.
+Next step :
+- Slap on les histoires et le lore des docs word de mon pc (trier tout ça au passage)
+- Rajouter les quelques passages de scrivener ou des histoires actuelles sur obsidian que j'aime beaucoup éventuellement (genre descri Arlette)
+- Reprendre chaque page proprement, petit à petit, une de temps en temps ; perso, ville, lore... Juste le contenu.
+- Faire une mise en page jolie
+
 
 17/05/25
 

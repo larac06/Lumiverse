@@ -4,8 +4,37 @@ old stuff - à relire et améliorer un de ces jours !
 ```table-of-contents
 ```
 
+# Ancienne fiche perso
 
+Nom : Elayin d’Ukosha 
 
+Origine : Tenrô
+
+Personnalité : Elayin est droite, détachée, remplie de principes. Bonne élève à Bengaï Ukosha, elle s’attache à suivre les préceptes de ses professeurs à la lettre, s’efforçant de percevoir le monde avec sérénité et sagesse.  
+D’abord méprisante à l’égard des blancs avec qui elle se trouvera forcer de travailler et de cohabiter, elle s’ouvrira à la dureté du monde et deviendra plus pragmatique, surtout à travers les arènes qui seront son déclencheur.
+
+Tout cela fera d’elle une impératrice d’acier, impénétrable.
+
+(Hiémain)
+
+Elayin parle très peu, préférant le silence aux mots inutiles. Elle attache une grande valeur aux mots, et parle souvent par image.
+
+Description : Elayin est une jeune femme grande, élancée, typée tenrane. Elle a donc une peau couleur miel, des yeux fins et dorés, des cheveux longs, lisses, et noirs. Ses lèvres sont fines, plus orangées que rose. Elle a un nez droit, des pommettes un peu haute. Son corps est souple, musclé par l’entraînement, presque maigre dû à la rigueur de l’entraînement tenran. Chez elle, tout est long et fin ; ses membres, ses doigts. Elle porte diverses légères cicatrices de son entraînement, ainsi qu’une plus marquée, au dos, dû à sa fuite lors de l’incident qui l’a forcé à fuir son pays. Elle porte d’ordinaire sa tunique rouge, sa teisha**, drapée sur un pantalon court s’arrêtant aux mollets, ainsi qu’une paire de souliers de cuir souple. En dessous, ses sous-vêtements sont faits de bandages et de coton. Arrivé au Théâtre, elle recevra des vêtements propres ; chemises habituelles, sous-vêtements plus moderne, pantalon de toile. Elle a beaucoup d’allures. Garde ses chaussons souples.
+
+Histoire : En Tenrô, la guerre civile menace. La nouvelle génération d’aroatis, combattants au service du Sâhn, est chassée du palais après l’assassinat de ce dernier. Elayin doit fuir pour sa vie. Elle arrivera en Elyon, où Théophraste l’engagera. Elle finira par retourner dans son pays sous l’injonction d’autres aroatis, pour renverser l’oppression méhenne, et deviendra impératrice dans un triumvirat avec Deshi et Xo.
+
+Magie : Par sa nature aroatis, Elayin dispose d’un doshaï, magie permettant de jouer avec les fils qui l’entourent sans les couper (influencer son environnement), même les animaux et les humains.
+
+  
+Phrases types :
+
+« Fais confiance aux forces extérieures. »
+
+« Je ne suis rien. »
+
+« Le monde est tout. »
+
+« Tu n’es rien, toi non plus, comme un grain de poussière. Pour autant, tu importes autant que le monde. Car le monde sans poussière serait vide. »
 
 # Enfance
 
@@ -961,3 +990,27 @@ Le regard d'Hester échoua sur la cheville de son aimée. Métallique.
   Elayin rit doucement.
   - Non, tu ne connais pas, Hester. Ce que tu connais n'a rien à voir avec la guerre.
   Elle se tut et vint enlacer Elayin. Elle avait sûrement raison.
+
+# Trame
+
+Nom : d’Ukosha
+
+Prénom : Elayin
+
+Soumise au test du silence vers ses 5 ans comme tous les enfants tenrans de la région orientale, elle le réussira et sera formée à devenir aroatis. Cependant, les méhens souhaitent mettre en place un Sahn plus en leur faveur et affaibliront par empoisonnement puis remplaceront celui en cours pendant leur entraînement. Les jeunes aroatis se rebelleront et seront brutalement réprimés, obligés de fuir pour la plupart, disséminés.
+
+Elayin se retrouvera en Elyon vers ses 17 ans. Elle y sera engagée par théophraste chez les lamnis, où elle évoluera drastiquement, voyant ses beaux principes et idéaux confrontés à la dure réalité. Elle y rencontrera aussi Hester, son âme sœur d’après la religion tenrane.
+
+Elle abandonnera tout du jour au lendemain en recevant un appel de la résistance tenrane, dont son âme sœur Hester, et retrouvera ses anciens compagnons dans une guerre décisive où ils recevront même un soutien sorsang. Elayin s’établira en impératrice dans le triumvirat de son nouveau pays, encore une fois évoluant drastiquement. Elle perdra une jambe dans la guerre qui lui apportera son pouvoir et sera crainte et respectée par son peuple.
+
+## Hester
+
+Nom : Destra
+
+Prénom : Hester
+
+Née d’un père demi-sorsang, Hester a elle aussi du sang ancien. Fuyant un foyer violent, elle deviendra comédienne sur la route jusqu’à être repéré par Théophraste qui l’engagera pour travailler avec lui chez les Lamnis. Il utilisera ses compétences de comédienne pour ses larcins, mais aussi ses pouvoirs de sorsang pour un avantage énorme sur ses rivaux. Folle amoureuse du premier homme à l’estimer, Hester se laissera manipuler jusqu’à l’arrivée d’Elayin. Rencontrant enfin son âme sœur, elle se dressera contre Théophraste et ses pratiques – bien qu’il soit son ami – et aidera Elayin dans sa guerre en appelant à l’aide sorsang.
+
+Les sorsangs, à ce moment là, ont retrouvé la cité de sang et se rassemblent pour reprendre leur terre d’origine. Hester participera à ses réunions et sera petit à petit prise dans le mouvement.
+
+Elle rejoindra la cité de sang avec ses amis, puis, apprenant la fin de la guerre en tenrô, ira retrouver elayin au palais impérial. Elle vivra quelques (15 ?) années avec elle avant de retrouver les siens à la cité de sang.

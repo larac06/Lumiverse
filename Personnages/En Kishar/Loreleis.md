@@ -13,3 +13,18 @@ Les autres apprenaient à plier et entailler la Trame par entraînement répét�
 D'ordinaire, on ne faisait muter un apprenti qu'une ou deux fois par an. Cependant, l'ordre des Voyageurs s'était fait un devoir d'exploiter au maximum les capacités de ses membres en augmentant la fréquence et l'intensité de ces rituels. Il y avait des accidents.
   -Va leur parler. Ils t'écouteront. Ils t'adorent, souffla Loreleis, du désespoir dans le souffle.
   -J'essaierai. Kasai était gêné. Pour lui, le congrès savait bien mieux ce qu'ils faisaient qu'une petite adolescente. Il vouait une confiance aveugle aux autorités ; mais les conséquences sur le corps de sa cadette devenait si évidente qu'il comprenait bien ses angoisses. Si seulement elle avait sa maturité, pour saisir la nécessité de ces tâches. Il était certain qu'elle comprendrait que ce qu'elle percevait comme une souffrance était un honneur.
+# Trame
+
+Prénom : Loreleis
+
+Nom : le même que Kasai
+
+Origine : Empire austral
+
+Comme son frère Kasai, Loreleis est une voyageuse. Elle est née d’un second mariage de leur père, après la mort de la mère de Kasai, d’une alchimiste eline portée sur les pratiques interdites. Sa nature rebelle, enseignée par sa mère, n’aidèrent pas son cursus malgré le talent de la jeune femme, supérieur à celui de son frère. Une surutilisation inconséquente de son pouvoir amenèrent progressivement ses cheveux et sa peau à se décolorer, et ses yeux bleus à prendre une teinte violacée, rougeâtre, des veines qui passent derrière. Elle parvint néanmoins à obtenir son diplôme. (Mais jeta le pendentif signifiant sa graduation ?)
+
+Elle quitta aussitôt la cité des Voyageurs, qu’elle détestait pour sa discipline imposée, et rejoint le clan d’alchimistes de sa mère à Runethia, en Elyon, sachant que celle-ci est morte dans une expérience dangereuse pendant son cursus à l’empire.
+
+è Liens avec la trame principale, la faille ? Utilité scenario ?
+
+è En faire juste un perso secondaire ?

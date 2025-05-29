@@ -1,8 +1,6 @@
 
-
 ```table-of-contents
 ```
-
 
 ## Anciens extraits
 
@@ -476,5 +474,107 @@ Il flottait. Depuis combien de temps, déjà ?
 Il sentit une paire de pattes s'agiter sur son ventre. Il leva la tête ; une mygale, placide, le regardait. Il sourit.
   -Tu es mignonne.
 
+----
+
+### ?
+
+-Alis. Tu m’écoutes ? Dit son ami en lui mettant une taloche sur la tête.
+
+Elle s’empourpra.
+
+- Ne me touche pas ainsi, je ne te permets pas ! Elle attrapa son poignet pour l’écarter de sa tête d’un geste brusque.
+
+Il manqua de chuter de la sienne.
+
+- Du calme… !
+
+- Tu m’as… Tu m’as surprise. Ne fais plus ça sans prévenir !
+
+- « Attention, je vais te frapper la tête » … ?
+
+- Oh, tu m’ennuies…
+
+- A quoi rêvassais-tu donc ? Tu as l’air tellement préoccupée en ce moment.
+
+Comment pouvait-elle lui dire ? Son regard se riva vers la table.
+
+- Je crois être un peu souffrante.
+
+- Souffrante ? Et de quel mal ? Tu n’as mis personne au courant. Je peux t’emmener voir le médecin…
+
+- Je doute qu’un médecin saura m’aider. C’est quelque chose de viscérale. Quelque chose de profond, d’intriqué…
+
+- Mais qu’est-ce que tu racontes ? Demanda le jeune homme en la regardant comme une folle, yeux écarquillés au milieu de la tâche de vin qui lui couvrait la moitié du visage. Elle détestait ce regard. C’était toujours un signe indubitable qu’elle était en train de vriller.
+
+- Je n’en sais rien. Oublie cette histoire. Que disais-tu ?
+
+- Non, non. Explique-moi, Alis.
+
+Elle hésita, puis s’approcha. La tentation d’avoir enfin quelqu’un a qui partagé ses tourments était trop forte. Sa voix se fit murmure.
+
+- C’est une voix qui me parle dans mes rêves, depuis des années. Elle s’infiltre en pleine journée, maintenant. Je sens son énergie en moi. Et quand elle est là, je suis… Si forte, oh ! C’est grisant.
+
+- Alis, tu te drogues ?
+
+- Mais non, je ne prends rien ! S’énerva-t-elle. Tu ne comprends pas ! C’est en moi, je te dis. Je ne sais pas d’où cela vient.
+
+- Admettons. Cette voix, que te dit-elle ?
+
+- Elle ne prononce pas de mots. C’est un chant, un bourdonnement…
+
+- Alors pourquoi parler de « voix », plutôt que de son ?
+
+Sa remarque la prit au dépourvu.
+
+- Je ne sais pas. Le terme me vient spontanément. J’ai l’impression que c’est quelque chose de conscient.
+
+- Et ça ne serait pas… Toi, simplement ? Demanda-t-il, sceptique.
+
+Alis le regarda longuement, interdite.
+
+- Peut-être. Mais je ne me connaissais pas ces capacités magiques ou physiques.
+
+- Personne ne comprend le tissage, de toutes façons. Ne t’en fais pas. Ça doit être des variations de flux dû à je-ne-sais-quel événement là-bas à l’Ouest. Il lui tapota l’épaule. Les oreilles qui bourdonnent et les capacités qui s’améliorent, pas de quoi s’alarmer. Mh ?
+
+Alis soupira, puis acquiesça.
+
+- Disons cela, oui.
+
+Alors pourquoi, pensa-t-elle, pourquoi ne pouvait-elle se retirer le sentiment que quelque chose n’allait pas du tout ?  
+Quel prix aurait ses métamorphoses, jusqu’où iraient-elles, et y aurait-il un prix à payer ?
+
+
+### Sorsangs
+
+- Les sorsangs ? Que veux-tu savoir à propos des sorsangs, Alis ? Grogna son père.
+
+- Tout. Raconte-moi tout, s’il te plaît.
+
+La petite le suppliait des yeux. Il soupira, la prit sur ses genoux et se saisit d’un épais volume. Il l’ouvrit, et commença son récit, accompagné d’illustration qu’il choisissait pour aider sa fille à comprendre l’histoire qu’elle réclamait.
+
+- Les premières peuplades à l’existence presque avérées étaient les brissiens, dont nous avons déjà discuté, les êtres aquatiques, ainsi que les sorsangs. Ceux-ci vivaient en petites communautés, isolées les unes des autres. Cependant, nomades pour certains et explorateurs pour la plupart, ils se rencontrèrent et créèrent des communautés hybrides. Fragiles et malchanceux, celles-ci ne disposaient que de faibles dons de leurs parents, mais se révélèrent fertiles. Ainsi, ostracisés par les groupes qui les avaient enfantés, Les descendants des sorsangs et des brissiens s’établirent en royaumes indépendants sur la côté Ouest, et les descendants hybrides du peuple de l’eau conquirent les terres de Mehua. Après plusieurs générations, ils aboutirent aux êtres humains tels que nous les connaissons, comme toi et moi. Depuis bien longtemps, les mages de l’Ouest s’évertuent à protéger leur sang pour en conserver l’origine noble, mais depuis la disparition des brissiens, cela n’à que peu de sens… Enfin, revenons à l’histoire.
+
+Les sorsangs, plus nombreux qu’à l’aube des temps connus, s’établirent dans une immense cité nommée « cité de sang », nom dû à la couleur rouge des roches utilisées pour en construire les murs. Non loin vinrent s’implanter les hommes qui souhaitaient prendre leur indépendance des royaumes, trop soumis aux peuples anciens à leur goût, et qui partageaient pour la plupart une ascendant sorsange. Les villes et villages fleurissaient avec l’expansion démographique des populations, en Tenrô, aux états-salins, en Elyon. Des villes d’humains, des villes de brissiens, des villes aquatiques ; des cultures se formaient, des ethnies se créaient d’elles-mêmes.
+
+Les tensions étaient fortes depuis toujours. A l’empire sorsang, un humain entreprit le tour de force de prendre la position de plus haute importance. Un autre lui succéda. Les hommes s’affirmaient, contrôlaient. La guerre contre les brissiens fut déclarées, les sorsangs essayèrent de soutenir leurs alliés. La cité de sang fut attaquée. Le sang ancien, déjà affaibli, perdit toute puissance politique en quelques instants. Les sorsangs furent forcés de fuir, loin ; les brissiens perdirent la guerre et se terrent depuis aux confins des océans. Les sorsangs allèrent donc se perdre à l’Ouest. Ils se firent nomades, explorateurs à nouveau, jusqu’à ce que leurs terres soient conquises par les nouvelles peuplades d’hommes, qui ne les laissèrent pas vivre en paix. Aujourd’hui, ils ont signé un pacte de protection avec le royaume de Colveil, qui leur offre une aide militaire en échange de leur savoir-faire en termes de magie et cristaux. De plus, cela leur permet d’avoir une base implantée à l’intérieur des territoires sauvages, ce qui n’est pas un mince avantage.
 
 ---
+
+
+## Trame
+
+Alis est la fille aînée d’une famille de mage dont les pouvoirs sont axés sur la lumière et l’optique. ~~En l’occurrence,~~ ~~son principal talent et de traverser les miroirs pour accéder à cet espace parallèle, rejoignant tous les miroirs entre eux par de curieux couloirs auxquels son cerveau donne une forme de couloir compréhensible avec d’immenses colonnes~~. Elle maîtrise les perceptions, les illusions, mais n’égale pas le talent de son jeune frère Aiden, ce qui l’angoisse beaucoup malgré la tendre relation qui unit les deux adelphes. Elle est promise à un jeune homme blond à la tâche de vin (qui mourra).
+
+Cependant, comme beaucoup de famille de mages, sa famille dispose au sous-sol d’un éther, un esprit sombre scellé là par ses ancêtres et gardien de leur nom. C’est un secret bien connu des adultes, mais qu’Alis ignore. Elle attirera l’esprit (pourquoi ?) qui l’amènera à lui et la corrompra, s’instiguant en elle pour ronger son esprit. L’ether n’est pas foncièrement mauvais, il rêvait simplement de liberté et lui propose, en retour, plus de puissance et de capacités. Un marché équitable à son sens. Il souhaite ensuite qu’elle le ramène chez lui, dans les plaines occidentales sauvages.
+
+L’esprit causera des ravages et obligera Alis à fuir. Elle se retrouvera à Alibris (pourquoi ? Via son continuum ?) et y rencontrera Marek en qui elle trouvera un mentor et un guide.
+
+è Fuite en bateau, accident de bateau, arrive en alibris ? Commence à développer un peu de folie suite aux trauma vécu
+
+è C’est l’ether qui augmentera son pouvoir et lui permettra de voyager dans l’espace « entre les mailles » à travers les miroirs, où elle rencontrera Marek qui lui expliquera comment gérer ledit ether
+
+è Elle deviendra reine de l’un des royaumes, chapeautée par Marek en continue (sa marionnette) avant de s’en émanciper
+
+è D’où viennent les éthers ? Sont-ils des esprits anciens, soudainement éveillés par les dieux sombres et agités, d’où leur empressement à prendre forme humaine ? Alis ne serait pas la seule ?
+
+è Avant elle avait des ailes. Encore là ?

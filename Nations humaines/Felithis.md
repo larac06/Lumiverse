@@ -72,3 +72,17 @@ Marek sera un jeune choisissant de voyager à travers le monde. Il subira sa mal
 
 ---
 
+# Ancienne descri
+
+Felithis est un monde créé par Ios pour protéger un peuple qui se faisait massacrer et qu'il appréciait beaucoup (magie spéciale ?)
+Byreith entra dans une colère noire suite à un outrage fait par eux/Ios et détruisit sa population (à travers Aaron ? Préciser.)
+
+Aaron s'y retrouve seul.
+Il en était le second héritier après Eldras.
+
+Il y vit longtemps seul, jusqu'à l'arrivée de Talora qui a chipé un artefact de Marek portail pour rentrer chez lui.
+Aaron la garde alors sous son aile, ravi d'avoir quelqu'un. Elle lui suggère d'inviter ceux qui souhaite se retirer du monde et dispose du sang des anciens de Felithis. 
+Ce qu'Aaron fait, recrutant aussi quelques enfants qui l'amuse au passage lors de ses balades dans "l'océan", le vrai monde.
+Or, ceux ci veulent souvent y retourner. Attaché à eux, il construit alors "la résidence", lieu de passage entre Felithis et l'océan, où seuls ses enfants peuvent voyager. Il leur est aussi impossible de parler de Felithis, par magie d'Aaron.
+
+Enfants : arhel, loris, arlette, alyss, loreleis, kasai?

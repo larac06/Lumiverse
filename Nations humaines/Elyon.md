@@ -8,7 +8,7 @@ Pays le plus avancé au niveau des sciences, l’Elyon est aussi le berceau de l
 
 Ils exploitèrent ensuite leur terre et les restes des avelis au mieux. Possédant de nombreux filons de métal et de ressources ainsi que des restes de technologies du peuple aviaire, l’Elyon put relativement vite se développer. Afin d'accélérer cette avance, elle conclut des accords de longue durée avec la Mehua, et tentèrent de limiter la guerre avec les salish, parfois en provoquant eux-mêmes des conflits internes aux Etats. À ce jour, c'est la cité la plus avancés en sciences. Ils ont mis au point les premiers dirigeables, ont développé des lignes de chemins de fer performantes. Se voulant avant-gardistes, ils commencent à développer des académies de magestria en plus de celles de sciences pour profiter de cette autre ressource que sont les mages, qui étaient traditionnellement formés uniquement au sein de famille des lignées occidentales.
 
-Attirés par la croissance économique de l’Elyon, les Royaumes de l'Ouest y ont immigré ou investi, dans l'espoir de relancer leur pays sur le déclin, ce à quoi l’Elyon les encourage. Avec l'aide de leurs mages, ils ont pu donner à leurs villes ces échos de merveilles, comme Auberyn et ses tours de quartz ou Adathéis et ses ponts d'argent.
+Attirés par la croissance économique de l’Elyon, les Royaumes de l'Ouest y ont immigré ou investi, dans l'espoir de relancer leur pays sur le déclin, ce à quoi l’Elyon les encourage. Avec l'aide de leurs mages, ils ont pu donner à leurs villes ces échos de merveilles, comme Auberin et ses tours de quartz ou Adathéis et ses ponts d'argent.
 
           Le territoire est majoritairement composé de villes fourmillantes de vie et de forêts. On y trouve dans les paysages urbanisés nombre de bâtiments immenses et précieux, monuments techniques ou esthétiques ; le maître mot est démesure. Dans les villes plus petites, on s’affranchit des ambitions du Sénat pour trouver alors une communauté majoritairement composé de savants aux connaissances plus ou moins ésotériques et fiables, ou de travailleurs, agriculteurs et artisans loin des histoire d’argent des grandes cités corrompues jusqu’aux veines. L’éducation y est primordiale : l’école est obligatoire jusqu’à 12 ans, le diplôme de premier niveau obligatoire pour voter, et les familles compensées par des allocations du Sénat ; bien que les plus petits villages n’appliquent pas nécessairement ces lois qui manquent d’inspecteurs pour les mettre en œuvre. Les écoles publiques florissent néanmoins même à la campagne, petit à petit.
 
@@ -16,13 +16,13 @@ Attirés par la croissance économique de l’Elyon, les Royaumes de l'Ouest y o
 
 Disposant d’un climat plutôt tempéré, bien que plus sec et chaud au Nord avec la présence d’un petit morceau du désert tenran, Elyon est composé de beaucoup de forêts et de lacs avec de rares massifs montagneux peu élevés et verdoyants.
 
-Les trois villes les plus importantes d’Elyon sont Amluna, Auberyn et Adathéis.
+Les trois villes les plus importantes d’Elyon sont Amluna, Auberin et Adathéis.
 
-**Auberyn** est située au bout d’un estuaire, dans les terres, et dispose d’un important port fluvial. C’est aussi et surtout l’endroit où se trouve le Sénat, et par conséquent la capitale. Auberyn possède une belle académie des sciences, l’académie de magestria, ainsi que le siège de la banque du pays. Sa bibliothèque est l’une des plus impressionnante du continent, bien qu’elle soit encore trop récente pour concurrencer celle de l’empire Kishar.
+**Auberin** est située au bout d’un estuaire, dans les terres, et dispose d’un important port fluvial. C’est aussi et surtout l’endroit où se trouve le Sénat, et par conséquent la capitale. Auberin possède une belle académie des sciences, l’académie de magestria, ainsi que le siège de la banque du pays. Sa bibliothèque est l’une des plus impressionnante du continent, bien qu’elle soit encore trop récente pour concurrencer celle de l’empire Kishar.
 
-**Adathéis**, situé au bout de l’estuaire, dispose d’un grand port maritime, le plus important du pays, et par conséquent est le siège de nombreux échanges commerciaux et économiques important. La banque y est encore plus importante et active qu’à Auberyn.
+**Adathéis**, situé au bout de l’estuaire, dispose d’un grand port maritime, le plus important du pays, et par conséquent est le siège de nombreux échanges commerciaux et économiques important. La banque y est encore plus importante et active qu’à Auberin.
 
-**Amluna**, finalement, est le siège religieux d’Elyon. Fondée sur les plus grandes ruines avelis, disposant des plus grands temples, beaucoup de pèlerins s’y rendent. C’est aussi la ville où l’éducation est la plus développée, avec d’immenses académies de théologie. Malheureusement, la magestria n’y est pas encore très bien perçue, d’où le choix d’en construire la première académie à Auberyn.
+**Amluna**, finalement, est le siège religieux d’Elyon. Fondée sur les plus grandes ruines avelis, disposant des plus grands temples, beaucoup de pèlerins s’y rendent. C’est aussi la ville où l’éducation est la plus développée, avec d’immenses académies de théologie. Malheureusement, la magestria n’y est pas encore très bien perçue, d’où le choix d’en construire la première académie à Auberin.
 
 #### Climat
 
@@ -37,7 +37,7 @@ Les elins de sang pur sont blonds, aux yeux violets prononcés ; la peau claire,
 
 Le Sénat administre le pays. Il dispose du pouvoir exécutif ; les projets de lois sont proposés par le Sénat, puis votées et proposées à l'assemblée avant d'être approuvé ou non par celui-ci, et enfin rédigé et ajouté à la constitution. Cette assemblée est composée de 130 citoyens, parmi les plus riches ; car cette position prend du temps et n'est quasiment pas rémunéré. Cela dit, il n'est pas tout à fait impossible qu'un citoyen pauvre arrive à atteindre ces hautes sphères. Il n'y en a eu qu'un, qui a pu subsister grâce aux dons des gens qui souhaitaient le voir exprimer leurs opinions. Il s'est plus tard suicidé de quelques balles dans le dos. Les membres de l'assemblée sont élus parmi la population, par suffrage censitaire, ceux du Sénat parmi l'assemblée par l'assemblée. Les élus de l'assemblée restent pendant 6 ans, après quoi ils élisent d'autres membres avec les plus riches de la cité ; après de nouveaux 6 ans, ils pourront être réélu. Pour le Sénat, les mandats durent cinq ans avec possibilité de réélection ; mais ces règles-là sont régulièrement modifiées par le Sénat même... De plus, chaque ville du pays possède un gouverneur, appelé duc ou duchesse, sous l'autorité du Sénat.
 
-Le Sénat est situé à Auberyn.
+Le Sénat est situé à Auberin.
 
 L’esclavage y est interdit, mais certains nobles utilisent des contrats qui peuvent y ressembler, notamment pour employer des mages.
 
@@ -59,7 +59,7 @@ Les grandes cités sont si peuplées qu’on les construit en hauteur pour prés
 
 #### Merveilles
 
-Les ouvrages de magestria sont les premières merveilles d’Elyon : les bâtiments de quartz et de saphir d’Auberyn ainsi que son palais du peuple au dôme d’or. On compte aussi dans cette catégorie les bateaux d’argent d’Adathéis, navires fabuleux conçus pour aller chercher les pèlerins plusieurs fois par an en faisant le tour des côtes des pays voisins. Enfin, la bibliothèque d’Auberyn est elle aussi un ouvrage fabuleux, bâtiment immense et fantastique entretenus par les scientifiques et historiens de la ville.
+Les ouvrages de magestria sont les premières merveilles d’Elyon : les bâtiments de quartz et de saphir d’Auberin ainsi que son palais du peuple au dôme d’or. On compte aussi dans cette catégorie les bateaux d’argent d’Adathéis, navires fabuleux conçus pour aller chercher les pèlerins plusieurs fois par an en faisant le tour des côtes des pays voisins. Enfin, la bibliothèque d’Auberin est elle aussi un ouvrage fabuleux, bâtiment immense et fantastique entretenus par les scientifiques et historiens de la ville.
 
 #### Langage
 
@@ -101,15 +101,16 @@ Les étoiles sont des personnages plus secondaires, comme le petit voleur et sa 
 
 Les elins adore les festivités en tout genre. A la fin de l’automne, l’angoisse de l’hiver hérité des Royaumes, pour qui l’hiver et la neige s’associe aux cultes sorsangs et aux magies dangereuses, est combattue par une série de fêtes pour apaiser les deux lunes. Le festival des jours bleus, en l’honneur de la première lune Cadis, tout en musique et théâtre ; et le festival des jours rouges, en théâtre, en danse et en chant, pour la lune rousse Othëos. On joue alors la comédie Polaire et on en arbore les masques dans la rue. On fête aussi l’arrivée des beaux jours, par l’érection de grands feux autour duquel on danse, on mange et on chante.
 
-### Auberyn
+### Auberin
 
 #### Rues & places
+Les jardins aériens et ses plantes artificielles
 
 L’Avenue Crésie, contenant le théâtre Combet (en hauteur)
 
 Les jardins d’été
 
-Le palais de Mar (tribunal), nommé d’après le sénateur qui l’a érigé
+Le temple des murmures, ou temple de Mar (tribunal), nommé d’après le sénateur qui l’a érigé
 
 La place Libre
 
@@ -133,7 +134,7 @@ Amluna
 
 Arme
 
-Auberyn
+Auberin
 
 Albryon
 
