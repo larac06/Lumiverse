@@ -7,16 +7,23 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
-30/05/25
+### 1/06/25
+
+Toutes les données sont là ! Y a plus qu'à relire, corriger, mettre à jour, et puis, mettre en forme. On va essayer une page/jour.
+et je tiens ici à jour la liste des pages updatées.
+La première :
+- Elayin (j'commence par la plus longue argh) - WIP jusqu'à enfance V
+
+### 30/05/25
 
 Plus que Tenrô !!
 
-29/05/25
+### 29/05/25
 
 Fini la partie "lore" de mon word. C'était le bordel, j'ai l'impression que j'avais écrit les mêmes choses des dizaines de fois ! Il était bien temps de centraliser, ça me fera du bien au cerveau. Enfin, quand j'aurais tout relu...
 Il reste la section "histoires" de mes docs word, et le scrivener. Le scrivener, je le garde en backup quand je relirais. Et j'ai failli oublier Sauge !
 
-20/05/25
+### 20/05/25
 
 FINI de cc les petits bouts intéressants des notes writer+.
 Next step :
@@ -26,7 +33,7 @@ Next step :
 - Faire une mise en page jolie
 
 
-17/05/25
+### 17/05/25
 
 J'ai slap tout ce que contenait le doc word d'un coup, sans rien relire. Y a sûrement plein de bêtises, mais au moins, c'est moins vide !
 Il reste donc toujours les dossiers des personnages restants, avec les notes writer+, les docs word qui traînent ; puis faudra relire et mettre en forme le tout.
@@ -34,7 +41,7 @@ Pour Arlette, j'ajouterai la description que j'ai faite pour le roman quand elle
 Pfiou !
 
 
-03/05/25
+### 03/05/25
 
 old_à_trier_noncanon : reste le dossier personnages, tout sauf Alyss.
 Arhel, Indie, Loreleis, Lamnis, Marek, Talora.
@@ -45,7 +52,7 @@ Then, checker les docs words,
 
 puis retour au guide, etc.
 
-27/04/25
+### 27/04/25
 
 Reste plus que le old_à_trier_noncanon
 Ajouté aussi anthologie alisandre
@@ -57,16 +64,16 @@ TDL :
 A faire un jour : relire sylithes, relire Elayin, retirer les espaces après les marques de dialogues dans les extraits dans personnages (notamment pour Ayte & Lavadi et Alisandre)
 Courage ! <3
 
-13/04/25
+### 13/04/25
 
 Fini "Ios", reste à checker les ptits bouts dubiously canon + descri, puis les doc word que j'ai
 
-12/04/25
+### 12/04/25
 
 Ajouté les petits extraits jusqu'à archives writer+/Ios/Elyon/Arlette
 
 
-09/04/2025
+### 09/04/2025
 - Cleaned up les titres qui apparaissent
 - Fini les ordres
 - Copy-paste les sylithes (à relire)
