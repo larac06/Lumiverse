@@ -1,4 +1,5 @@
-
+```table-of-contents
+```
 # Ancienne fiche perso
 
 Nom : Hester Destra
@@ -39,6 +40,7 @@ Hester naît dans une petite famille d’ouvriers au sud d’Auberyn. Si sa fami
 
 Après une dizaine d’années, Hester est à sa place dans la Blanche, mais désabusée. Elle déteste maintenant la ville autant qu’elle la chérit. Elle y est devenue quelqu’un : elle a grandi avec Théophraste dont elle est à présent le bras droit, y est respectée des membres. Mais elle rêve du beau monde, et le théâtre ne lui suffit plus pour s’en contenter, ni les drogues et vapeurs qu’elle y prend. Elle y a appris à tirer avec l’aide de son mentor des Lamnis, et s’est forgée une réputation d’excellente tireuse par ses talents de comédienne.
 
+# Textes
 
 ## Elayin
 
@@ -77,9 +79,146 @@ Hester venait frapper ses hanches contre celles de son partenaire, haletante.
   Elle sourit. C'était un petit rouquin frêle. Un petit bout d'homme, pas grand chose en vérité. Il était comme elle les aimait. Jeune, naïf, gentil. De parfaites peluches, qu'elle pouvait éduquer, modeler, tromper à souhait et sans ennui. Elle était avec lui pour le sexe, lui était amoureux ; elle le savait et se gardait bien de lui révéler ses manipulations. Elle profitait avec lui, et avec d'autres, sans qu'il ne se doutat de rien. Ce qu'il était mignon, en plus.
 Elle s'abandonna contre lui quelques instants, juste bien.
 
+## Audun
+
+Hester descendit les escaliers. En dessous se cachait une pièce sombre et humide, de bois craquant, de relents de sueur et de vapeurs d’alcool. Elle prit sur elle et rejoignit la petite foule. Les chevelures partageaient la teinte noir bleuté de la sienne, ou tirait sur le roux. Pour une fois, c’étaient les blondinets qui semblaient atypiques, et cela lui fit curieusement du bien. Galvanisant la foule, un homme hirsute parlait d’une voix forte en elin approximatif. On sentait les accents dans sa voix qui appelait à utiliser les langues occidentales, mais les sorsangs d’Auberyn ne connaissaient pas tous leurs propres mots. Elle s’assit en silence à une table au hasard, attrapa un verre et se saisit de la bouteille au centre. Scandant et criant en rythme, les mi-sorsangs autour d’elle ne semblèrent pas la remarquer. Sauf un.
+
+- Hep. C’est à moi.
+
+- Je rembourserai.
+
+L’homme barbu ricana.
+
+- C’est ça, c’est ça. Va te chercher ta bouteille, ma grande.
+
+Elle grogna et quitta la table. Elle alla remplir son verre au bar avant de revenir.
+
+- C’est qui, ce mec ? Demanda-t-elle en indiquant celui qui attisait l’assemblée.
+
+- C’est Faruk. Il dit qu’il a retrouvé la cité de sang.
+
+Hester écarquilla les yeux, incrédule.
+
+- Quel baratineur. Elle vida son verre. Pis qu’est ça peut nous foutre, hein… Ca doit être que des ruines.
+
+- Détrompe-toi, ma grande. L’homme sourit, amusé. Il avait une mine bourru, une large barbe noir qui mangeait son visage, une mâchoire marquée, des cheveux emmêlés ; mais son manteau de velours indiquait qu’il n’était pas dans le besoin. Son visage était marqué. De coups comme de rides. Il avait du traîner longtemps dans le coin. Cela plaisait à Hester.
+
+- Quoi, ils veulent quitter Auberyn pour retrouver ces ruines ?
+
+- Au moins, tu te fais pas démembrer quand on apprend tes origines, là-bas.
+
+- Y a pas de là-bas ! Elle se resservit. Y a que des ruines.
+
+- Et ta Blanche, alors, c’est pas que des ruines ?
+
+- Mh. Touché, pensa-t-elle. Elle se tut alors, et écouta le messie. Elle ne pouvait nier qu’être au milieu des siens lui faisait du bien. Personne dans cette salle ne l’aurait jugé pour ses actions, ses dissections, ses rituels, qu’elle-même peinait à accepter. Elle aurait voulu demander de l’aide. Demander conseil. Peu à peu, Faruk la convainquait. Un lieu où être soi, loin de tout…
+
+Le discours finit, on l’acclama. On leva son verra. On le félicita. Elle leva son verre et cria en cœur avec l’homme qu’elle venait de rencontrer. On joua des musiques de l’ouest profonds, des musiques qui lui parlaient bien qu’elle ne les avait jamais entendues. Elle les dansa et les chanta. Puis elle prit par la main son nouvel inconnu et l’entraîna dans les chambres du niveau supérieur de l’auberge. Il s’appelait Audun et lui fit vigoureusement l’amour toute la nuit. Elle était ravie.
+
+* * *
+
+- Comment ça, t’as rencontré quelqu’un ? S’étonna-t-il, assis à côté de son amie à la réunion à présent mensuelle des sorsangs d’Auberyn.
+
+- Ouais. J’espère que tu comprends. J’ai plus le cœur à baiser ailleurs.
+
+- Il en saura rien. Allez, on a le feu, nous deux. C’est pas rien.
+
+- Qui te dit que c’est un « il » ?
+
+Audun haussa un sourcil.
+
+- Ah bah, invite-la, alors.
+
+- Jamais ! Ricana Hester. Je la donnerai pas en pâture à une grosse brute comme toi.
+
+Il rit de nouveau, et l’homme qui présidait commanda le silence. Il allait prêcher de nouveau, pour que les sorsangs s’unissent et se battent pour leur terre et leur honneur. Audun se tut. Hester aussi. Entre eux, ils avaient longtemps pris cela à la plaisanterie ; mais force était de constater, que semaine après semaine, ils revenaient. Et pas seulement pour passer la nuit ensemble. Lorsque Faruk parlait, ils écoutaient, et ils s’en sentaient galvanisés. Ils savaient que bientôt, une offensive serait lancée à travers les rues d’Auberyn.
+
+Et il était prêt.
+
+## Alis
+
+Elles se ressemblaient trop : c’est pourquoi elles se détestèrent dès les premiers instants.
+
+Elles avaient toutes deux des cheveux noirs, une peau d’albâtre, ces poches sombres sous ces mêmes yeux de lune. Alis était bien quelques nuances plus brunes, un peu plus bouclée, au nez aquilin ; quand Hester avait des mèches de jais, lisses, un nez tombant et droit. Mais ce qu’elles avaient en commun, c’était cette hargne qui les bouffait.
+
+Hester ne pouvait s’empêcher de haïr cette princesse occidentale dans sa robe en soie, d’autant plus qu’elle était frustrée de ne pas voir dans ces yeux l’éclat de la peur, de la fragilité de biche qu’elle croyait commun à toutes ces créatures de porcelaine.
+
+Alis, elle, méprisait le maquillage noir qui coulait des yeux d’Hester jusqu’à ses joues. Ses atours sales, ses manières rustres, et qu’elle ait l’indécence de sembler plus humaine, plus fragile, plus épuisée et tremblante qu’elle n’aurait jamais cru voir ce genre de truand sur son tapis.
+
+- Allons, viens te réchauffer près de la cheminée.
+
+Refoulant le brasier qu’éveillait la voleuse en elle, Alis, sans hésiter, s’en saisit pour la glisser sur ses épaules. Elle était aussi frêle qu’elle. Hester ne lutta pas. Elle se laissa porter, puis s’effondra devant les flammes bienvenues, sans un mot de plus.
+
+## Père
+
+Ils étaient seuls dans la petite chaumière. La cheminée crépitait, seule source de lumière de la pièce, défiant la nuit en projetant les éclats orangés de ses flammes sur la scène. Un homme, large et solide, et une petite fille frêle, tous deux penchés sur un autel de pierre rouge.
+
+"On appelle notre art "Art du silence." Tu sais pourquoi, Hester ?
+
+-Parce que ça se fait avec des cadavres, et que les cadavres, c'est pas très causant ?"
+
+Il rit de sa voix rauque.
+
+"C'est ça. Et nous, on murmure aux morts. Bas. Très bas. Il n'y a qu'eux qui doivent entendre. Murmure sans un son, préserver le silence.
+
+-Et qu'est-ce qu'on leur dit, aux morts ?" Demanda la petite fille, ses grands yeux lunaires écarquillés devant les ossements qui reposait sur l'autel. Curieuse, sa petite main s'aventurait presque jusqu'à les toucher. Elle avait envie de jouer avec.
+
+"Il y a plusieurs étapes, ma fille. Ecoute bien. D'abord, il faut l'attraper.
+
+-L'attraper ? Attraper quoi ?
+
+-L'âme. Un esprit, c'est volatile, ça file. Il faut trouver où il se cache, le repérer aux infimes vibrations qu'il émet, et que tu sens, là." Il appuya sa main sur le sternum de la petite. Elle acquiesça. "Viens voir." Il saisit sa main et la fit parcourir l'air au-dessus des os. "Respire lentement. Moins vite. Calme-toi. Voilà... Sois attentive. Là. Tu sens ?"
+
+Elle hocha lentement la tête, fascinée. C'était comme un objet très chaud, ou très froid : elle le sentait sans le voir. Elle se persuadait d'apercevoir une aura, mais elle apprendrait en grandissant que cette illusion n'était du qu'à un esprit trop incrédule, prêt à s'inventer formes et couleurs pour justifier l'étrange magie que son corps pouvait accomplir.
+
+"Il faut être vif et doux, poursuivit-il. C'est comme attraper un papillon. Il faut le saisir avant qu'il ne t'échappe, mais sans le tordre, sans le briser.
+
+-Comment est-ce qu'on le capture ?
+
+-Du bout des doigts." Répondit son père. Il accompagna ses mots de quelques gestes infimes, faisant discrètement danser ses phalanges autour des restes humains qui sommeillaient sur la pierre.
+
+"Et quand on l'a ?" Pépia la fillette brune.
+
+Concentré, il ne répondit pas tout de suite. Il referma délicatement ses doigts et les joignit près de ses lèvres. Les yeux de son père étincelaient, plus bleus que jamais. Elle crut entendre quelques mots chantants ; puis il poursuivit la leçon, regard dans le vague.
+
+"Il faut le rassurer. Lui permettre de prendre corps, de s'affirmer, de reprendre possession de lui et de sa volonté. On dit qu'on le stabilise.
+
+-Comme s'il allait tomber ?
+
+-C'est ça. Comme s'il allait tomber et se briser en mille morceaux.
+
+-Comment on fait, pour éviter ça ?
+
+-Il faut trouver les mots.
+
+-Comment on trouve les mots ?
+
+-Tu apprendras." Dit-il simplement. Sa paume semblait cacher une lueur qu'Hester sentait sans la voir. Elle aurait juré avoir aperçu des éclats bleu glace et rouge vif sur sa peau, là où il semblait avoir piégé l'esprit. L'illusion.
+
+"Et après ?
+
+-Après, ma chérie, il faut le charmer. Le séduire. Le convaincre d'agir en ton sens.
+
+-Ca a l'air dur.
+
+-Mais non, répondit-il avec un sourire. Tu seras très douée. Je le sais déjà."
+
+Elle lui rendit son sourire. Elle espérait de tout coeur être à la hauteur des attentes de son père.
+
+## Dentelle noire
+
+Hester avait les yeux bandés d’un filet de dentelle noire, en hommage aux dieux aveugles. Autour d’elle, elle sentait les silhouettes se mouvoir, percevait leur chaleur, leur sens, leur souffle, les battements de cœur. Combien y en avait-il ? Quatre, cinq ? Elle gémit. Leurs mains sur son corps, la volupté, l’émoi l’empêchait de se focaliser sur les nombres. Elle était nue. Ils étaient tous nus. Le plaisir gonflait comme une bulle, tout en tension, prêt à éclater lorsque son corps n’en pourrait plus.
+
+## Transformation
+
+Elle effectua une révérence maîtrisée. "Merci pour cette soirée. A très bientôt !" Elle quitta alors la pièce, dos droit et port altier. La porte passée, elle fit glisser les épingles de son chignon, libérant ses longues mèches noires. Elle dégrapha son corsage, arracha sa longue jupe. Bientôt elle était de nouveau elle-même, en chemise bouffante, seins gonflés, cuisses ceintes de son pantalon noir. Elle tourna au coin de la rue pour retrouver Theophraste, qui tenait sous son bras une peinture à l'huile. - Allez. On se taille. Elle ne se le fit pas dire deux fois. Les deux prirent un pas tranquille, puis plus rapide, et sautèrent pour s'accrocher à l'arrière d'un carrosse. Bientôt ils étaient loin de la Haute et de la villa cible du larcin. Hester ne put s'empêcher de rire. Ces escapades lui procuraient beaucoup de plaisir.
+
+## Rouge
+
+Rouge. Du rouge partout. Elle avait fermé les yeux, paupières serrées à en produire des spirographes brillants devant sa vision, perdus dans l’espace. Un chuintement lui emplissait les oreilles. Sa propre respiration, courte et irrégulière. Elle avait encore chaud entre ses jambes. Elle l’avait tellement désiré. Tellement aimé. Elle avait espéré si longtemps quelqu’un qui lui aurait témoigné de l’attention et de la douceur… Ca n’avait été qu’un mensonge. Le corps sur le lit en était la preuve. Une silhouette de femme, peau sombre et courbes prononcés. Nita. Elle avait fait tombé son couteau, lame claire et brillante. Celui qu’elle avait soudain saisit pour planter Hester. Son revolver avait été plus rapide. Une balle dans la tempe. Le silence. La petite mort, ça n’avait pas été l’orgasme, ce soir.
 
 
-## Vieux textes
+# Vieux textes
 
 
 

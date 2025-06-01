@@ -7,6 +7,10 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
+30/05/25
+
+Plus que Tenrô !!
+
 29/05/25
 
 Fini la partie "lore" de mon word. C'était le bordel, j'ai l'impression que j'avais écrit les mêmes choses des dizaines de fois ! Il était bien temps de centraliser, ça me fera du bien au cerveau. Enfin, quand j'aurais tout relu...

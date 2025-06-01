@@ -1,4 +1,5 @@
-
+```table-of-contents
+```
 # Ancienne fiche perso
 
 Nom : Talora de Weil (faux nom), Rosabianca (vrai nom)
@@ -475,6 +476,71 @@ En bas, là où la mer rongeait les bâtisses et mordait dans le port, saurait l
 Majoritairement, on y trouvait les aptis, tenus à l'écart des endroits plus importants, les petits marchands, les immigrants provenant des États Salins en quête de paix ou des colonies. A cheval sur les deux étages, la Blanche ; les mafieux, les voleurs. Le "peuple vrai", comme il s'appelait. 
 Les squat des petites bandes traînent dans les ghettos sombres d'en bas ; les villas des Lamnis et autres possesseurs de larges organisations se dressaient fièrement à côté de celles des commerçants aisés.
 
+## Audun
+
+-Rhabille-toi, lança-t-il sans un regard à la femme dénudée derrière lui. Tu sais bien que ça ne m’atteint pas.
+
+-Alors pourquoi le mentionner ? Rétorqua-t-elle en allumant sa cigarette. D’un pas lent et souple, elle le contourna pour s’asseoir au bureau, devant lui. Allons-y, reprit-elle. Occupons-nous donc de ce contrat.
+
+Audun grimaça. Il n’aimait pas ça. Il haïssait la créature en face de lui ; cette femme sordide qui l’avait attachée à lui par ses manigances. Pourtant, après les années à se côtoyer, à se serrer les coudes, à jouer à la vie de couple, il n’aurait su mettre un mot sur les sentiments qu’il éprouvait à son égard. Il la haïrait toujours de le garder en laisse ; mais cela n’avait pas empêcher de voir germer un certain désir, un certain respect, de part et d’autre de l’échange. Elle faisait partie de sa meute, qu’il le veuille ou non. Il aurait à présent défendu la vie de cette femme par instinct, et non plus par obligation. Ce qui ne l’empêchait pas, lorsque l’alcool et la colère le prenait au ventre comme deux serres, de la frapper. Elle ne se refusait jamais aux coups. En fait, il avait l’impression qu’elle les acceptait comme une punition divine. Comme si subir la purifiait de ses crimes. Dans ses yeux brillaient un éclat qui ressemblait au plaisir, et dissuadait souvent Audun de poursuivre ses violences. Cela le rebutait. Alors il la jetait avec une dernière insulte, contre le lit ou le divan, et s’en allait passer ses nerfs sur d’autres cibles. Cela arrivait de moins en moins souvent. Cela n'arriverait plus lorsqu’elle tomberait enceinte.
+
+Il s’assit en face d’elle et la laissa commencer. Son regard se perdait, non sans satisfaction, dans le balancement de ses seins. Elle était folle, et si cela l’angoissait par moment, cela l’excitait aussi profondément.
+
+Elle énonça les termes de leur contrat réciproque, dont il était question, à sa demande brutale, de revoir. Celui-ci, couché sur papier un ou deux ans après le début de leur relation, explicitait les règles simples de ce qu’ils avaient le droit ou non de faire vis-à-vis l’un de l’autre. Il trouvait bien idiot de devoir l’écrire noir sur blanc, mais Talora semblait trouver l’idée amusante.
+
+Le contrat stipulait qu’il était avant tout son garde du corps : il en allait donc de son honneur (et de la vie de sa fille, mais cela le document ne le mentionnait pas) de préserver madame de tous sévices physiques et psychologiques. En retour, madame devait subvenir à tous ses besoins et à ceux de sa progéniture, qui recevait donc nourriture, chambre confortable, éducation. Ce que Rye rejetait en bloc. En termes de couple, ils se devaient l’exclusivité. Aucun des deux ne respectaient vraiment la clause ; mais sa signification réelle portait plutôt sur la fidélité morale. Le devoir de l’un allait à l’autre, et ce peu importe avec qui ils couchaient. Cependant, Talora aurait été bien mécontente qu’Audun soit vu en autre compagnie que la sienne ; il était donc tenu à la discrétion. De fait, ses écarts étaient principalement constitués de sortie au bordel, et il n’y avait pas plus discret. Cela lui allait donc bien.
+
+-Et j’ajoute donc, ici… Dit-elle en trempant sa plume dans l’encre. J’ajoute donc que monsieur Audun souhaite être traité avec respect, et non comme chien de garde. L’égalité entre les deux parties. Ecrite, et signée.
+
+-Ouais. Approuva-t-il, mal assuré sur la procédure. Ouais, marque-le bien. Je suis pas ton chien. Je suis pas ton esclave.
+
+-Mais s’il en va de notre sécurité ? Si cela s’inscrit dans un plan pensé et réfléchi par moi-même, mais dont tu ne saisis pas les subtilités, mh ?
+
+-Cesse de me prendre pour un con, grogna-t-il d’un ton rauque. On sera deux à faire les plans, deux à les appliquer.
+
+-Audun… Elle se pencha vers lui, en travers du bureau. J’ai un moyen de pression sur toi.
+
+-Et moi, sur toi.
+
+Elle haussa un sourcil.
+
+-Lequel ?
+
+Audun ne put retenir un léger sourire en coin. Ah, elle n’en avait donc aucune idée ?
+
+-Ca fait dix ans, Talora. Dix ans. Je pourrais aller raconter à n’importe qui ton vrai rôle. A Théophraste, à Chamberlain. Aux sénateurs.
+
+-On me tuerait, et tu en ferais les frais. Tu le sais bien.
+
+-C’est vrai. Alors j’ai pensé à autre chose. Il se pencha en retour, front presque touchant le sien. Je pourrais leur dire comment démanteler ton empire. Qui est un espion, où, comment ils travaillent. Comment _tu_ travailles. Tes généraux, tes quartiers secrets… Le souterrain. Je pourrais tout leur donner. Ils perdraient Arinae, sans avoir à te connaître. Je pourrais même mentir sur ta position pour m’assurer qu’il ne te tue pas. Et tu perdrais tout. Il suffirait d’évoquer le trafic de cris à la milice et de donner quelques informations clés, et tu n’aurais plus rien.
+
+-Et toi, alors ? Tu perdrais aussi toute ma fortune. Ta fille aussi.
+
+-J’en ai rien à foutre, de ta fortune. Ma fille et moi on se débrouillerait bien sans.
+
+-Tu dis ça maintenant, mais tu feras moins le fier sans les repas chauds auxquels je t’ai habitué. Tu n’as plus rien du vagabond d’autrefois.
+
+-Je sais survivre.
+
+-Moi aussi.
+
+Il haussa les épaules.
+
+-Et bien, tente. Rien ne te retient.
+
+Elle s’étonnait de le voir bluffer. Il était vrai qu’en quelques années, le louveteau avait appris un ou deux tours. Du bout de l’esprit, elle sentait ses véritables émotions. Il était déterminé à ne plus se laisser écraser par la frêle femelle qui tenait les affaires, c’était tout. Il aurait gardé la nourriture chaude et les draps épais autant que possible. Le reste, en revanche, il s’en passerait bien. Le luxe ne lui plaisait pas plus que ça.
+
+-CESSE ! Il se leva de sa chaise. En dix ans, il avait appris mieux que n’importe qui à sentir quand la dame fouillait son esprit.
+
+-Pardon, pardon. C’est instinctif, tu le sais bien. Elle relâcha les fils qu’elle avait effleuré mentalement. C’est d’accord, annonça-t-elle finalement.
+
+-Egaux ?
+
+-Egaux.
+
+Audun se détendit légèrement dans la pénombre. C’était peu, mais son honneur se sentait mieux de lui avoir arraché cela. La vipère était farouche. Elle se glissait d’ailleurs hors de son fauteuil, et vint, encore nue, s’asseoir sur ses genoux. Ils s’embrassèrent voracement, et bientôt il oubliait le papier, l’encre et le contrat. Il faisait l’amour instinctivement.
+
+Les premières fois, il l’avait fait pour la souiller. La détruire. Comme les coups, elle acceptait ces violences comme des bénédictions, et il s’était alors dégoûté de son corps. Puis, lentement, après quelques années d’apprivoisement, il en était revenu naturellement à l’apprécier. Le sexe, comme le respect qu’il se vouait en silence, étaient indépendants de leurs affaires et stratégie. Construits par le temps et les épreuves. Inévitable.
 # Trame
 
 Prénom : Talora

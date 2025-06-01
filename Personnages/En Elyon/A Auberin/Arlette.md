@@ -1,4 +1,5 @@
-
+```table-of-contents
+```
 # Ancienne fiche perso
 
 Nom : Arlette D’Edalmas (faux nom), Rosabianca (vrai nom de sa mère)
@@ -38,6 +39,11 @@ Bisexuelle. Adore le rouge et le violet. Porte constamment un haut de forme, qu�
 Adore la ville de Dalmes, elle dit qu’elle en vient. Ville des Etats Salins ?
 
 
+
+# Textes récents
+
+## Intro
+
 La lumière du soleil effleurant l’horizon se répandit dans sa chambre comme un poison forçant l’éveil. Arlette tenta de lutter en tirant sa couette pour se protéger de l’attaque, mais un nouvel opposant eut raison d’elle.
 “Arlette, levez-vous, il est l’heure !” Lança-t-on en toquant à sa porte. Elle repoussa finalement sa couverture tiède avec déception et émergea de son lit. Il fallait bien travailler pour payer le loyer. Elle se traîna jusqu’au robinet pour remplir son baquet d’eau et se lava rapidement le visage. Un peu plus réveillée, elle s’installa à la petite table qui lui servait de coiffeuse,  démêla les cheveux, puis noua sa crinière blonde sur sa nuque en un chignon hasardeux. Quelques étirements, et elle était enfin lucide… Assez pour prendre conscience qu’elle serait bientôt en retard. Elle se hâta de s’habiller : chemise, pantalon, bretelles, chaussettes. Elle se poudra rapidement le nez et saisit son précieux haut-de-forme, l’enfonça sur son crâne, jeta sa veste en velours sur son dos et saisit son petit porte-monnaie. Elle en tira une pièce d’un sol qu’elle jeta en l’air de sa main droite. La pièce n’atterrit pas ; elle la récupéra dans sa main gauche avec un sourire. Elle ne priait pas, elle avait perdu foi en la religion longtemps auparavant. Chaque matin, plutôt que de partager ses doutes à des figurines de pierre froide, elle s’entraînait à faire des tours de magie. Satisfaite de ses compétences, elle fila. Pas le temps de manger ; cela attendrait sa pause de dixe. 
 Elle claqua le battant et traversa le couloir poussiéreux. Le long de celui-ci s’alignait une petite dizaine de portes, qui dissimulaient autant de chambres similaires à la sienne où logeait des pensionnaires dans une situation similaire à la sienne: sans famille pour les héberger à la capitale, avec un salaire tout juste suffisant pour se payer la chambre au jour le jour et les repas chauds de la salle commune. Elle dévala les marches pour rejoindre l’entrée, manquant de trébucher sur le tapis. Elle aimait la pension. Avant d’habiter ici, elle avait expérimenté une pauvreté bien plus terrible ; avoir un lit et le ventre plein étaient à présent une fierté du quotidien. C’était Marek qui l’avait amené là, le jour de leur rencontre. Elle était alors une petite serveuse dans l’un des quartiers les plus pauvres de la cité. Elle s’était faite virée sous son nez par un patron injuste qu’elle avait copieusement injurié. Amusé par l’épisode, il l’avait guidé presque à son insu jusqu’à la pension, et elle n’avait jamais quitté l’établissement depuis.
@@ -62,7 +68,204 @@ Elle travaillait sur chacun des heures durant ; elle avait le temps de leur donn
 -Quelques semaines encore à l’atelier. Plus tu lui parleras, petite, plus il sera prêt rapidement.”
 Elle pensait qu’il se moquait d’elle, et de son habitude de murmurer aux automates, mais peu lui importait. Elle le prenait au pied de la lettre, acquiesçait avec espièglerie, et continuait à leur parler d’autant plus.
 
+## Automate
 
+Arlette se redressa lentement sur son lit. Elle étendit ses bras, s’étira et fit rouler ses mécaniques. Elle sentait sous sa peau les petits rouages, les petites pièces de cuivre et de bronze, cliqueter et se mettre en marche. Inaudible à autrui. Seulement pour elle.
+
+La poupée mécanique.
+
+*  *  *
+
+-C’est à vous, tout ça ?
+
+-C’est exact. C’est mon travail, répondit l’homme d’une voix douce, un léger murmure.
+
+Autour d’eux, d’innombrable poupées mécaniques. Des automates. Des hommes, des femmes, jeunes ou vieux, de rouages de cuivre, de bronze, de peau de velours et de coton. On les aurait cru vrais, avec leurs yeux de verre qui, lorsqu’ils n’étaient pas fermés derrière des songes artificiels, se mouvaient parfois dans leur orbites, clignaient régulièrement et scintillaient d’humidité. On sentait leurs cœurs, battre discrètement, on entendait leur souffle, brise infime naissant entre les monts de leurs lèvres. Arlette frissonna.
+
+-Pourquoi ne bougent-ils pas ?
+
+-Ils dorment.
+
+-Certains ont les yeux ouvert.
+
+-Ils dorment aussi. C’est moi qui choisis leur éveil.
+
+-A quoi te servent-ils ?
+
+-Ils sont ma mémoire, répondit-il avec une douceur infinie. Sa voix aurait pu être chargée d’émotion, mais celle-ci semblait éteinte, morte comme une cendre froide.
+
+Arlette promena ses doigts sur les genoux, sur les joues, sur les épaules des créations. Chacune était habillée, coiffée, avec une personnalité différente.
+
+-Tu estimes qu’il est nécessaire de la garder ?
+
+-Oui. Et moi, ma petite… Moi, je ne le supporte plus. Alors je l’offre à ces automates. Ce sont des corps, ce sont des mémoires. J’en fait des gens. Et puis, je les laisse vivre, et moi, j’oublie. L’humanité ne perdra pas la sagesse que j’ai engrangé. Mais ce n’est pas moi qui la lui offrirait.
+
+-Tu te crées des serviteurs pour porter tes responsabilités, en somme.
+
+-C’est exact.
+
+-C’est lâche.
+
+-Oui. Je ne me fais plus l’illusion de vouloir préserver ma noblesse d’âme, petite. Je ne veux simplement pas en perdre les fragments.
+
+Elle acquiesça de la tête.
+
+-Je comprends.
+
+Elle s’arrêta face à une poupée qui lui plaisait bien. Une demoiselle, comme elle. Brune.
+
+-Tu feras de moi une automate, quand je mourrai ?
+
+-Avec ta mémoire ?
+
+-Et la tienne, si tu veux.
+
+-Pourquoi ? Demanda-t-il, un brin amusé.
+
+Elle se tourna vers lui, ennuyé.
+
+-Je préfère éviter de mourir. Pourrir en terre me répugne.
+
+-Cela fait sens, petite fille. Nous verrons quand la question se posera.
+
+Elle secoua la tête.
+
+-Tu es bien optimiste, pour un homme sage. Je crois que je pourrais m’éteindre aussi vite qu’une bougie, si l’on n’y prête pas attention. Les petites filles sont fragiles. Un rien, une maladie, une révolution, un pied au mauvais endroit, au mauvais instant, et elles succombent.
+
+-Tu n’aimes pas être fragile ?
+
+-Non. Je veux un corps puissant.
+
+-Laisse-toi grandir. Ca ne peut que s’améliorer.
+
+-C’est ce que j’ai vu, oui. Si j’en ai la chance.
+
+-Qu’est ce qui t’en fait douter ?
+
+Arlette hésita, puis avoua.
+
+-Ma grande sœur.
+
+L’homme était creusé par le temps. Strié de rides, profondes et sèches. Visage envahi de sa barbe de soie grise, foisonnante et riche. Sa voix rocailleuse, caverneuse, retentissait depuis les entrailles du monde. Arlette aimait sa voix, son apparence. Un homme si vieux, si sage, si irréel, ne pouvait qu’être un être fantastique venu au monde pour la guider et la protéger, elle en était convaincue.
+
+* * *
+
+-Combien de temps veux-tu rester ici, petite fille ?
+
+-Longtemps. Aussi longtemps que possible.
+
+-Tu n’as pas un chez-toi, des parents qui attendent ?
+
+Elle hésita. Ses joues roses oscillaient sous ses cheveux blonds. Au milieu des pantins, elle aurait pu se fondre, faire illusion ; mais il y avait ses yeux trop vifs, ses rondeurs trop gourmandes, qui n’auraient su la laisser se faire créature inerte trop longtemps.
+
+-Pas vraiment, non, avoua-t-elle.
+
+L’homme reprit son travail, sans plus la regarder. Il savait que les orphelins et enfants perdus étaient monnaie courante, dans les rues acrobates d’Auberyn. Mais celle-ci semblait si bien nourrie, si fraîche, qu’il ne pouvait croire qu’elle put être de ceux-là.
+
+-Alors, qui remplit tes assiettes, gamines ?
+
+Ses questions s’espaçaient. Son souffle, son cœur, absorbés par son ouvrage, changeaient de rythme. Yeux mi-clos, elle aurait pu le croire en hibernation lente, s’il n’y avait eu ces gestes précis et automatiques qui parcouraient le squelette qu’il enveloppait de métal.
+
+-C’est le maître.
+
+Le vieillard suspendit ses gestes.
+
+-Le maître, tu as dit ?
+
+-Lui-même. Il est connu, je le sais. Dès que j’évoque son nom, on murmure, on rit, on se tait. Vous ne ferez pas exception, j’ai l’impression.
+
+Elle approcha son visage mutin, tendu vers lui, appuyé sur ses paumes. Curieuse petite fée dont il héritait là.
+
+Il se tut. Il connaissait le maître : il suspectait la créature d’être comme lui. Curiosité des soirées mondaines, ce maître, cet Azun de Colveil, cet énergumène qui hébergeait dans sa villa une truffée d’orphelins auquel on prêtait toutes sortes de vices sordides ou de qualités altruistes, comme lui, se constituait une mémoire. Il le sentait. Ces enfants, ces adolescents dont il s’entourait, n’était-il pas comme ses pantins ? Un moyen de faire survivre sa mémoire, perdurer son héritage. Une méthode vieille comme le monde. Et, comme pour lui, une enveloppe ne suffisait pas. Il en fallait dix. Cent. Mille. Mille orphelins. Mille automates.
+
+-Non… Je ne pense pas, murmura la fillette face au silence du vieillard. Je pense qu’il n’est qu’un naïf solitaire. Il se fiche bien de la mémoire, de l’héritage. Moi, je suis convaincu que le maître n’est qu’un amoureux de l’amnésie.
+
+L’artisan la dévisagea, encore longuement muet.
+
+-Parce qu’il ne t’a jamais parlé de lui ?
+
+-Entre autres, oui.
+
+-Je ne sais pas, petite. Offrir un héritage ne passe pas nécessairement par un récit de mots.
+
+Arlette, tête dans les bras, jouait avec un petit pendentif de l’atelier de l’artisan. Elle poussait l’objet. Immanquablement, il revenait à elle, poussé par la gravité.
+
+-Dal Ineis, expliqua le vieil homme en la voyant faire.
+
+-Quoi ? Demanda la petite en se réveillant de ses songes.
+
+-La force qui ramène ton pendentif à sa place. C’est Dal Ineis.
+
+-N’importe quoi ! Piailla-t-elle. Dal Ineis, c’est la déesse des morts et des avocats.
+
+Il rit.
+
+-L’un n’empêche pas l’autre. L’univers est régi par des forces élémentaires. Des lois. La gravité, par exemple, qui ramènera toujours ton pendule à l’arrêt, en est une. Par le passé, on l’a nommé Dal Ineis. L’ordre et l’inertie. L’immobile. La loi simple qui impose qu’un objet tendra toujours au calme et à la stabilité.
+
+-Comment ?! S’offusqua-t-elle. L’univers n’est pas libre ? Il doit aussi obéir à des lois ?
+
+-Bien entendu. Sinon, il ne pourrait pas exister.
+
+-Et les humains aussi ?
+
+-Ca n’est pas un choix. C’est un concept. Vivre, c’est supporter les limites de notre conditions.
+
+Elle resta interdite un instant.
+
+-Pourtant, tu triches. Tu es humain, mais tu n’es pas soumis aux mêmes règles que nous !
+
+A nouveau, il rit. D’un bon rire franc.
+
+-C’est vrai. Mais j’en paie le prix.
+
+-Ah oui ? Et quel est-il ?
+
+-Je ne vis plus, tout simplement.
+
+## Automate II
+
+-Tu es vouée à une grande destinée, Arlette. Comme tous, tu n’es qu’un pion dans ce vaste jeu d’échec joué par les dieux, les vrais comme les faux.
+
+-Je ne suis pas un pion, rétorqua la jeune femme.
+
+-Bien sûr que si. Et toi, comme tes amis de la résidence, sont voués à accomplir de grande choses. Des événements clés dans la suite de ce parcours, dont vous n’avez pas idée. Découvrir le soleil, percevoir le temps et l’espace, emmêlé les vies, bâtir des empires. Je le sais, car je connais le passé aussi bien que le futur.
+
+-Peu m’importe ce que tu sais, vieil homme. Elle connaissait si bien Tiamum, à présent, qu’elle lui témoignait plus d’affection et d’honnêteté que de respect. Je ne suis pas un pion, et ma destinée est mienne. Tu verras.
+
+-Arlette, le futur est là. Comment espères-tu échapper à ta propre vie ?
+
+-Je la dompterai, comme tout sur mon chemin.
+
+Il sourit, amusé.
+
+-Nous verrons, enfant. Nous verrons bien…
+
+Ils étaient autour d’une nappe qui ondoyait. Celle-ci , creusée ou bombée par endroit, mouvante, était difficile à regarder. Œuvre de Tiamum, elle représentait l’espace-temps dans toute sa réalité.
+
+## Automate III
+
+Arlette se baladait dans l’avenue Crésie. Elle était supposée être à l’école, comme promis au directeur de la résidence où elle habitait. Elle avait essayé d’y rester ! Mais elle n’avait tenu que deux heures avant de s’éclipser, l’air de rien, par le petit portail du fond de la cour. Elle marchait à présent au hasard, yeux et oreilles grands ouverts, sereins dans l’émerveillement constant que lui offrait la ville. Il fallait admettre qu’Auberyn était grandiose dans ces allées les plus chics. La devanture de la banque ruisselait de soleil, dont l’éclat se retrouvait piégé dans les entrelacs de quartz et de saphirs qui bordaient les fenêtres. Le théâtre essayait de rivaliser avec son dôme ouvragé, et chaque tour et chaque hauteur rivalisait d’ambition et de grandeur. Celles-ci étaient ingénieusement espacée pour laisser les places respirer et bénéficier de la lumière du jour, malgré les grandes ombres qu’elles projetaient sur le sol. Ainsi les orangers alchimiques, bien vifs sur les abords de la rivière, perlaient de larges fruits mûrs qui parfumaient l’air ; presque autant que les boulangers qui sortaient sur les pavées leurs brioches chaudes pour attirer les clients. Cependant, ce qui attira avant tout le regard de la jeune fille fut une belle poupée dans la vitrine d’une petite boutique. Elle s’approcha et dévisagea le jouet. Celui-ci était un objet d’art comme elle en avait rarement vu. La peau de tissu semblait pulpeuse, rosée, vivante ; couronnée de cheveux blond doré en cascade, d’yeux violets, elins. Elle regarda son reflet toucher sa joue face au miroir de la vitrine. Son visage se superposait à merveille avec celui de la poupée. Cette vision avait troublé sa sérénité. Elle se recula alors, non sans une pensée pour la robe de la poupée qu’elle aurait tout à fait apprécié posséder, et chercha sur la devanture des informations sur ce mystérieux endroit.
+
+« Automates, marionnettes et mannequins ».
+
+Automates ? Intriguée, elle jeta un œil à l’intérieur. Elle poussa alors un petit glapissement et eut un mouvement de recul. A l’intérieur de la boutique, elle discernait d’innombrables silhouettes humanoïdes, assises et immobiles. Comme endormies. Comme mortes. On lui avait raconté Dal Ineis, la déesse de l’inertie et de la mort ; on lui avait raconté son lourd voile de velours qui enveloppe les vivant et les engonce tant qu’ils ne peuvent ni percevoir, ni bouger. Tout en ces quatre murs semblaient ainsi pétrifié. Arlette avait peur ; mais Arlette était avant tout curieuse. Quelques passants l’avaient dévisagé. Elle redressa la tête, le dos, la nuque, et d’une main très sûre, poussa la porte. Un lieu si secret, si magique, ne pouvait que convenir à une petite magicienne, affirmaient ses pensées. Elle entra.
+
+A l’intérieur, les pantins avaient différentes tailles et différents degrés d’avancement. Les plus proches de la porte d’entrée semblaient déjà terminés, et elle s’attendait à tout moment à être salué par l’un de ceux aux yeux ouverts. Passé les premiers moments d’angoisse, le lieu lui sembla alors très serein. Dans le sommeil, le calme, le silence et l’immobilité, on était bien. Elle s’amusa à dévisager certains ouvrages. Les moins avancé n’étaient que des carcasses parcourues de fils de cuivre ou des squelettes de métal. Elle trouvait ceux à mi-chemin les plus beaux. Elle aimait voir les rouages internes, les ficelles et les petits moteur à vapeur, et en même temps un beau visage et des atours de dentelle. C’était équilibré, comme apparence. Plus original que les adultes qu’elle voyait marcher dans la rue.
+
+« Bonjour ». Elle sursauta vraiment à l’injonction, et laissa de nouveau filer un glapissement d’entre ses lèvres. L’un des pantins s’était-il donc éveillé ?!
+
+Un vieillard épais avait redressé la tête. Il était assis devant un bureau presque rangé, où une main dont émergeaient quelques fils gisait.
+
+« Vous êtes cliente ? demanda-t-il en se levant lourdement pour s’approcher. Il devait faire deux fois la largeur d’Arlette. Elle le toisa d’en bas.
+
+-Peut-être. La poupée, en vitrine, c’est combien ? Demanda-t-elle en l’indiquant d’un geste.
+
+-Ce n’est pas une poupée, c’est un automate. Approche, je vais te montrer. Il alla se saisir de la petite fille qui regardait la rue en silence.
+
+
+# Bribes de l'alt universe du RP originel
+
+## Demoiselle
 
 La jeune femme laissa tomber sur son lit son masque de la Demoiselle Fantasque. D'argent et de velours, celui-ci dissimulait entièrement son visage sous des courbes douces pour ne laisser apparaître que sa bouche. C'était l'un des nombreux personnages de la Comédie Polaire, et l'un des moins connus. Enfin, avant qu'elle ne décide de l'utiliser. 
 Elle dénoua sa cape courte et la jeta sur son lit. La chambre était étroite et sombre, mais elle avait le mérite de lui offrir la vue qu'elle désirait.
@@ -71,12 +274,7 @@ Elle venait de commencer sa carrière, mais elle savait déjà que son ascension
 
 
 
-
----
-
-
-Bribes de l'alt universe du RP originel
-# Le jeu
+## Le jeu
 25 ans
 
 Arlette jeta un oeil à la rue.
@@ -92,7 +290,7 @@ Elle fit claquer ses talons jusqu'à la chambre 1207, clé en main, chipée par 
 
 ---
 
-# Poupée
+## Poupée
 20 ans
 
 Arlette fumait. 
@@ -116,7 +314,7 @@ Elle ne serait plus jamais une poupée de chiffons.
 
 ----
 
-# Bailan
+## Bailan
 13 ans
 
 La fillette tira le garçon jusqu'au jardin.
@@ -153,7 +351,7 @@ Il posa sa paume contre la sienne, doucement. Puis il ferma les yeux et respira 
 
 
 ---
-# Quelques années plus tard...
+## Quelques années plus tard...
 16 ans
 
 Bailan avait invité Arlette à sa cour. Cela faisait quelques fois ; au détour d'une phrase, un regard, dans un couloir de la faille où Bailan allait de temps en temps. "Cela te plairait-il de te produire sur notre scène ?" "Une scène royale, une vraie ?!" Et elle sautait dans un portail. Elle prévenait Alexei... La plupart du temps. Puis elle venait et faisait ses meilleurs numéros. La première fois, on prit cela pour une lubie du prince. Les suivantes, on l'acclamait : soit avec enthousiasme, soit par imitation. Dans ses grandes robes de velours sombres, elle s'inclinait, puis retournait en coulisse remettre un pantalon. Là, elle prenait le poignet de Bailan, et ils filaient faire les quatre cent coups.
@@ -169,7 +367,7 @@ Un instant, elle capta le regard de Bailan sur sa peau. Elle sourit un peu, hés
 
 ---
 
-# Letty, I
+## Letty, I
 15 ans
 
 Le ciel était bleu. Uniquement bleu ; dans l'air d'hiver, elle se sentait écrasée par cette immensité cyan sans contraste. C'était d'un ennui...
@@ -211,7 +409,7 @@ Arlette était ravie.
 
 ---
 
-# Letty, II
+## Letty, II
 17 ans
 
 Arlette soupira doucement dans la tiédeur de ses draps. Elle n'avait jamais eu de lit aussi doux, aussi épais. C'était son nid. Elle n'avait plus envie de bouger.

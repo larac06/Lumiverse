@@ -1,4 +1,5 @@
-
+```table-of-contents
+```
   
 # Ancienne fiche perso
 
@@ -168,6 +169,105 @@ La résidence était belle, bien entretenue. Les plafonds étaient follement hau
 
 Face à eux s’étalait un village en forêt, sous le ciel, ceint de montagnes. Ca n’était pas Auberyn. Où étaient-ils donc ?
 
+# Alis & Arhel
+
+## I
+
+Ca avait mal tourné.
+
+Il courait sous les balles des corbeaux. Soit l’indic s’était trompé, soit il avait trahi. Dans tous les cas, la moitié de leur équipe en avait fait les frais. Il dérapa derrière une cheminée, puis plongea sur un balcon avant de se faufiler dans une maison. Hors d’haleine, appuyé contre le mur, il prenait quelques secondes pour ordonner ses pensées. Il devait se sortir de là.
+
+-Arhel ! Alis était là, elle aussi. Il soupira, rassurée. Elle, au moins, n’avait pas été flingué. Si ça avait été le cas, Marek lui aurait arraché les yeux.
+
+## II
+
+La nuit murmure à qui sait l’entendre ; Arhel savait écouter d’une oreille attentive. Yeux fermés, il se gorgeait des bruits des rues et des lumières de la ville comme un tissu boit une rivière. A la dérive.
+
+« Cesse de rêvasser, on y va. » Lui dit son acolyte d’un ton autoritaire.
+
+Il rouvrit les yeux. Ses pupilles jaunes comme un chat dévorèrent la ruelle sombre. Chaque venelle de la rue lui appartenait.
+
+« Bien reçu, chef ! » Confirma-t-il en sautant du toit où il s’était perché.
+
+La mise en place fut rapide et efficace. Il se dissimula en hauteur, glissé sous un auvent, et attendit que la cible n’approche. Alisandre avait ficelé le plan et servait à présent de garde-fou en cas de pépin.
+
+Les talons claquèrent sur les pavés humides. Un homme, bourgeois richement vêtu, se rendait chez lui d’un pas serein après une soirée arrosée. Il portait autour du cou un pendentif scintillant. Arhel se coula de l’auvent à une nouvelle cachette en un éclair. Le pendentif scintillant avait changé de propriétaire. L’homme s’arrêta un instant, ayant presque senti quelque chose le frôler. Hébété, il reprit son chemin sans avoir su justifier sa confusion.
+
+Arhel poursuivit son chemin quelques rues plus loin. Il frissonna en apercevant dans le noir une immense forme mouvante. Il prit une inspiration, banda son courage et poursuivit ses pas vers l’ombre. Il n’y trouva qu’une femme brune et impatiente.
+
+« Trop facile, dit-il, le collier à présent autour du cou.
+
+-Rentrons, répondit-elle pour toutes félicitations. Et range le collier. Il est trop visible. » Avait-elle dit à Arhel avant de le dépasser. Alisandre marchait loin devant, prenant beaucoup d’avance.
+
+Arhel ignora son conseil, détaillant du regard l’artefact. Des petits sillons y avaient été gravé, presqu’invisibles à l’œil nu. Le pendentif cachait la carte dont leur magister avait besoin.
+
+Alors qu’ils arrivaient en bordure du quartier de la Blanche, lieu des ruines oubliés et des repaires douteux, une silhouette épaisse approcha. Puis deux, puis trois, quatre. Ils les encerclaient.
+
+« Passe-nous ton bijou, dit-il, et on te laissera rentrer en un seul morceau.
+
+-Un, deux… Ah, c’est dommage, les gars. A quatre, vous allez pas vous en sortir.
+
+Ils ricanèrent.
+
+-Et tu vas faire quoi, morveux ?
+
+-Moi ? Oh, rien, je sais pas me battre ! Mais mon amie, elle… »
+
+Les truands jetèrent un œil dans la direction indiquée. Une ombre massive glissait doucement d’un étage de la ville à l’autre, plus noir que la nuit, mouvant, vivant. Des filaments d’encre s’en échappaient, près à happer tout ce qui passerait à leur portée. Des cris d’horreur leur échappèrent. L’un d’entre eux, plus brave ou plus idiot que les autres, envoya un coup de lame dans l’ombre. Les dendrites le saisirent au bras. Elles se glissèrent sous sa peau, dans ses veines, et se gorgèrent de la vie qui y coulait. Il hurla à la mort, tira sur son bras.
+
+« Dégagez, dégagez ! » Hurla-t-il avant de s’écrouler, exsangue.
+
+Un œil diaphane apparut soudain au milieu du néant pour se braquer sur eux. Ils détalèrent, laissant derrière eux le cadavre de leur compagnon.
+
+Arhel s’approcha et Alisandre parut, comme une illusion d’optique qui se dissipe en changeant d’angle de vue. 
+
+« Sacrée prestation, ce soir. J’ai presque eu peur de la grande dame, c’est dire ! » Voyant qu’Alisandre restait morose, il continua : « dis, comment ça se fait qu’elle ne m’attaque pas ? »
+
+Alisandre haussa les épaules.
+
+« Zilith t’apprécie, c’est tout. 
+
+-Ca veut dire que toi aussi ? Demanda-t-il avec un petit sourire en coin.
+
+-Ah, ça suffit, hein ! »
+
+Elle reprit la direction du théâtre d’un pas vif. Son sourire s’étendit, satisfait. Au moins, il savait la ramener à la réalité.
+
+## III
+
+Après trois ans de voyage en commun, Marek avait abandonné Alisandre. Il l’avait laissé aux mains de son pire ennemi, Azun, à la faille. Seule ? Elle l’avait cru, mais non, pas tout à fait. Il l’avait laissé avec Arhel, un petit voleur de bas étage qui lui devait des faveurs ; et ces deux-là étaient à présents chargés d’effectuer des corvées au profit de leur ancien mentor.
+
+« Ah, te voilà enfin ! Je te cherchais partout ! » S’écria Alis, excédée, en retrouvant Arhel confortablement installé dans une maison de jeux. L’expression d’Arhel passa de la surprise, à l’amusement, puis finit sur une résignation poli et tranquille.
+
+« Ah, mes amis… Voilà ma sœur ainée. Il est temps pour moi de rentrer. Il salua ses compagnons de jeu d’un geste du chapeau, ramassa ses gains, puis rejoignit Alisandre.
+
+-Ma chère sœur ! Dit-il en la prenant par les épaules.
+
+-Ne me touche pas, brigand. Rétorqua-t-elle froidement en s’esquivant à son emprise. Allez, décampons. Tu n’as rien à faire là ! »
+
+Il envoya un regard désolé à ses amis et quitta le casino en sa compagnie.
+
+« Ah, ma montre ! » S’écria soudain une dame à leur table, alors qu’Arhel passait la porte. Pendant qu’un scandale se faisait derrière eux, le gardien de sécurité les retint.
+
+« Attendez. Nous allons vous fouiller. » Dit-il d’un air soupçonneux.
+
+Arhel n’avait rien sur lui.
+
+-Bon, et bien…
+
+-Attends. Personne ne sort, intervint son collègue. On ne sait jamais…
+
+-Mais enfin, il n’a rien sur lui, et nous sommes pressés ! C’est inadmissible ! le charisme impérieux d’Alis eut raison du garde. Après une courte altercation, il les laissa filer.
+
+Alisandre soupira dans la nuit.
+
+« Je vous hais, bandit.
+
+-Vous m’adorez, très chère. Rétorqua-t-il alors qu’elle sortait de la doublure de sa veste la fameuse montre, ainsi que plusieurs papiers importants.
+
+-Nous n’avions pas besoin de ce scandale !
+
+-Je n’ai pas pu m’en empêcher ! »
 # Vieux textes, non canon
 
 
@@ -252,6 +352,21 @@ Elle l'avait retrouvé après les combats ; en sueur, sanglante, et pourtant l'a
 Elle ricana.
   -Viens.
  Et il avait suivi.
+## Faille
+
+qui tangentait la haute, avec ses fenêtres ouvragées et ses tons grisâtres. Mais derrière les fenêtres, une, deux, trois fois, ils avaient vu d’étranges scènes. Des couleurs, des lumières, qui parfois s’échappaient dès que le soleil déclinait. Ils avaient vu le velours du manteau du maître, brodé de légendes et de créatures fantastiques. Il avait vu les ombres, noires d’encre, qui étendaient parfois de longs doigts pour toucher les fenêtres. Dès qu’ils traversaient la rue, ils frissonnaient.
+
+Et c’était frissonnant qu’ils avaient aperçu une nouvelle étrangeté.
+
+- Arhel, regarde.
+
+- Quoi ? Il se tut alors, saisi.
+
+Devant eux, tentante, la porte de la résidence était ouverte. Ils échangèrent un regard. Ils n’auraient pas pu lutter : ils n’auraient pas voulu lutter. Une force intense, profonde, les saisissait au col et les entraînait vers l’ouverture. Les deux enfants se glissèrent, discrets, petits, silencieux, dans l’encadrement. Un pas, un second, et ils étaient entrés.
+
+La résidence était belle, bien entretenue. Les plafonds étaient follement hauts. Les deux enfants s’y poursuivirent en riant, émerveillés par le lieu. Ils montèrent un large escalier de marbre en colimaçon, traversant les couloirs étaient tapissés de velours. Lorsqu’ils entendaient des pas ou des voix, ils se cachaient derrière les tentures. Arrivés au bout du couloir, curiosité insatiable, ils poussèrent l’épaisse porte de marbre. Leurs rires moururent dans leur gorge, laissant place à l’émerveillement.
+
+Face à eux s’étalait un village en forêt, sous le ciel, ceint de montagnes. Ca n’était pas Auberyn. Où étaient-ils donc ?
 
 
 ----
@@ -556,3 +671,8 @@ Or, son interlocutrice avait une apparence tout à fait normale, bien que les pl
  Des bruits de pas rententirent dans le couloir, pressés. 
 Il n'avait plus le temps d'improviser une sortie discrète.
   -Merde.
+
+## Trame ?
+Amoureux de Lucinée depuis toujours, elle go grimdark (à cause de quoi ?) et accepte enfin de le date. La relation est toxique et elle utilise Arhel pour ses propres intérêts.
+
+Il finit par s’en affranchir, mais en souffrira beaucoup. Suite à cette relation, il passera beaucoup de temps déguiser en fille, pour profiter d’une apparence ou il a le droit d’être faible et triste plus que lorsqu’il est un homme. Alis l’aidera à s’en sortir, Arlette aussi.-

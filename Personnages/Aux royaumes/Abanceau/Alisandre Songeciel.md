@@ -129,7 +129,10 @@ Son amie hocha la tête, et Loreleis les suivit de l'index, yeux plissés.
 -Non...
 -Mais si... Ah mais... Attends, elles sont... A l'envers..." Cette conclusion vint lentement aux lèvres de Loreleis. C'était curieux, tiens. "On dirait qu'on t'a écrit ces runes de l'intérieur..." Sa voix se brisa en un murmure. Elle cligna des yeux, hébétée. "C'est quoi, ça ?"
 Alisandre ne put retenir un éclat de rire sans joie en remontant sa robe. "Ça, c'est Zilith."
-Première rencontre
+
+
+### Première rencontre
+
 Sa domestique lui retira l’ensemble complexe de robes et de jupons qu’elle portait, drapés sur ses hanches à la mode de la cour. Sa mère insistait pour que sa fille se prépare correctement à son entrée dans la haute société, et cela passait par des toilettes élaborées qu’elle ne montrait qu’aux habitant du manoir. La jeune fille salua sa domestique puis se glissa dans son lit, chauffé par une bouillotte d’eau fumante qui l’attendait au fond de ses draps. Elle soupira d’aise. La domestique souffla la bougie et quitta la pièce.
 Elle sombra dans le sommeil et laissa le rêve l’enlacer. Elle se trouva dans un lieu qu’elle connaissait par coeur : son propre manoir onirique.
 C’était un pouvoir propre à la famille Songeciel. Il avait toute maîtrise sur leur rêve, et ainsi chacun construisait, dans son espace mental, ses propres structures. Certains, comme Melchior, étaient fantasques, et choisissaient de créer un univers au-delà de la physique : on pouvait marcher à la verticale sur les murs, rebondir sur l’eau, souffler des flocons de neige. Celui d’Alis, en revanche, était très raisonnable. C’était une belle bâtisse à l’architecture élaborée, élégante et majestueuse, où des salons confortables accueillaient ses visiteurs de rêve – à savoir donc, sa famille, seuls sang-de-lune à partager cette aptitude. Les plans étaient simples à suivre. Structuré. Cependant elle y découvrait parfois d’autres couloirs, qu’elle n’avait aucun souvenir d’avoir construit. De belles et vastes galeries secrètes, agencées sans logique, sans méthode, qui ne lui disait rien ; mais où elle se sentait terriblement bien.
@@ -141,6 +144,39 @@ Elle se leva du fauteuil et s’approcha du tourne-disque. Elle releva l’aigui
 Ils étaient de bien trop mauvais songeurs pour cela… Alors qu’elle se perdait dans ses réflexion, elle se rendit compte que la musique provenait d’une direction précise dans le sous-bois. Elle s’y engagea alors, déterminée à rencontrer le fauteur de trouble. Elle marcha longtemps, jusqu’à dépasser la limite de forêt qu’elle avait conçu. Lorsqu’elle aperçut un tronc sombre qu’elle ne connaissait pas, elle s’arrêta. La peur s’insinuait dans son ventre. Quelqu’un qu’elle ne connaissait pas jouait avec ses songes. Elle poursuivit son chemin ; elle était maîtresse des lieux, tout de même ! Pourtant, alors que la musique s’amplifiait, les arbres inconnus se firent plus nombreux. Des ronces qu’elle n’avait jamais vues remplaçaient les buissons. Les arbres se faisaient noirs comme du charbon, les animaux, absents. Ca n’était plus sa forêt. C’était un cauchemar, pire angoisse des rêveurs lucides. La musique se précisait. Un chant d’oiseau. Elle se sentait prête à en découvrir l’auteur derrière n’importe quel tronc, tant la mélodie résonnait fort à présent. Des filaments noirs émergèrent du sol en arabesques brumeuses, comme si la terre elle-même était corrompue. L’endroit était lugubre. Lorsqu’elle perçut les bruissements de plumes, les cliquetis de métal, elle sut qu’elle touchait au but. Elle ne voyait plus rien ; les arbres étaient d’encre, le ciel couvait une nuit sans lune, les méduses avaient disparu.
 Une terreur indicible l’envahit. Elle était chez elle, dans l’espace le plus intime qu’elle possédait. Pourtant, en face d’elle se trouvait un être qu’elle n’avait pas pu imaginer. C’était une ombre immense, décharnée, pourvu d’un bec d’oiseau aussi long qu’elle-même. Celui-ci était tapissé de crocs acérés, formes d’encre découpée dans la toile de son rêve. Une image vaporeuse. Elle avait mal au crâne rien qu’en regardant cette créature, l’impression viscérale de voir flou. Son cerveau n’acceptait pas ce qui se présentait à lui. Elle hurla, et son rêve vola en éclat comme un verre en cristal explosant au sol. Elle chuta. Elle roula sur elle-même dans le néant.
 Un impact sur le dos lui coupa le souffle, et elle ouvrit grand les yeux, dans sa chambre, cette fois-ci. Elle se réveilla en sueur, coeur battant et bouche sèche. Ses mains tremblaient.
+
+
+### Aethers croisés
+
+-J’ai tant de questions ! Vous n’imaginez pas le temps que j’attends quelqu’un comme vous, d’apte à me guider…
+
+-Du calme, ma grande, rétorqua Marek avec un sourire amusé. Je n’ai pas prévu de devenir ton mentor.
+
+-Vous pourrez m’éclairer ! C’est déjà énorme. Alors, dites-moi. Que m’arrive-t-il ? Quelle est cette force qui m’étreint ? Est-elle bonne ou mauvaise ?
+
+-Eh bien ! Rit-il. Quelles questions. Je peux au moins répondre aux deux premières. Cette force, c’est un éther. Il s’est logé en toi comme un parasite et compte bien en profiter. Que cela te soit bénéfique n’est qu’un heureux hasard ; profite-en, qui sait si cela va durer. Quant à savoir si celui-ci est bon ou mauvais… Et bien, nous verrons, ma belle. Ces termes n’ont que bien peu de sens à mes yeux.
+
+* * *
+
+Loreleis regardait par la fenêtre, pensive. Elle ne prêtait qu’une attention mitigée à l’ether qu’elle détenait, elle, dans un bocal, posé sur le rebord de son bureau.
+
+* * *
+
+La jeune fille laissa son regard se perdre dans les brumes de la forêt qui enveloppait le manoir familiale. -Mademoiselle, vos exercices.
+
+-Voici. Elle les présenta d’une main sûre. Elle avait rarement plus de quelques secondes pour se laisser aller à ses rêveries. Tout dans sa vie, de son avenir à son esprit en passant par sa tenue et sa coiffure étaient parfaitement structurés, organisés, rangés. Son future en tant que matriarche, son futur époux, tout était planifié depuis bien avant sa naissance depuis que l’on avait confirmé le sexe de l’enfant à naître à ses parents. Depuis lors, elle s’était conformé. Ses robes étaient savamment plissées, sept marques de l’intérieur à l’extérieur du jupon, longues du cou jusqu’au bas de la cheville et nouées sous le menton comme il était convenable de porter. Ses cheveux bruns ne quittait jamais leur forme de chignon florale, maintenu en place par sept aiguilles de cuivre, les mêmes tous les jours, enlacé d’un filet invisible. Chaque jour sept heures de cours, d’octe à dodixe puis de tredixe à quindixe. Venait ensuite, jusqu’au coucher de soleil, les thés mondains, les rencontres, les balades dans le jardin le long des sept statues de la propriété. Venait alors le diner, et enfin Alis était libre d’occuper son temps de sages activités telle que la lecture, la musique ou les échecs. On avait voulu lui faire apprendre la peinture, la broderie ou la poésie, mais Alis semblait dénuée d’intérêts pour les choses trop frivoles, où la latitude artistique confusait sa confortable habitude de la structure. Son esprit lui-même était parfaitement cadré. Efficace, ses pensées comme ses connaissances étaient classés dans son esprit comme une bibliothèque méticuleuse. Sa mémoire était vive, ses réflections pertinentes. On la voyait femme de lettre en devenir. Il lui arrivait de produire une toile ou deux, occasionnellement, pour faire taire les critiques qui affirmaient qu’un manque de créativité, un manque de liberté laisser au cerveau ne pouvait relever que d’un manque d’intelligence. Elle avait au contraire l’impression de tout comprendre à l’art, qui n’était pour elle qu’un savant puzzle d’idées déjà existantes qu’il fallait simplement trouver, agencer selon les algorithmes de goût et de bienséance, produire et montrer.
+
+* * *
+
+Alis était une Songeciel. Très jeune, elle avait su prendre le contrôle sur ses rêves et s’y trouver lucide. Plus âgée, on lui avait appris à faire correct usage de son don en s’infiltrant dans l’esprit de ses proches, in interagissant avec eux via le songe, puis de jour, éveillée. Elle s’était construit des lieux mentaux où recevoir sa famille, les seuls à partager cette capacité. Et puis, en dehors du beau palais imagé qu’elle leur avait construit, il y avait d’autres constructions. Des cathédrales, des tours, qu’elle érigeait d’elle-même pierre après pierre, ornement après ornement. Elle ne savait pas bien ce que cela représentait, mais elle s’endormait mieux lorsqu’elle sombrait en rêve pour avancer l’immense projet architectural de sa cité imaginaire. Les plans étaient simples à suivre. Structuré. Elle avait d’ailleurs rangé dans sa ville sa bibliothèque mentale.
+
+Cependant elle y découvrait parfois d’autres couloirs, qu’elle n’avait aucun souvenir d’avoir construit. De belles et vastes galeries secrètes, agencées sans logique, sans méthode, qui ne lui disait rien ; mais où elle se sentait terriblement bien.
+
+* * *
+
+Une terreur indicible l’envahit. Elle était chez elle, dans l’espace le plus intime qu’elle possédait. Ses propres rêves. Pourtant, en face d’elle se trouvait un être qu’elle n’avait pas pu imaginer. C’était une ombre immense, décharnée, pourvu d’un bec d’oiseau aussi long qu’elle-même. Celui-ci était tapissé de crocs acéré, forme d’encre découpée dans la toile de son rêve. Une image vaporeuse. Elle avait mal au crâne rien qu’en regardant cette chose, l’impression viscérale de voir flou. Son cerveau n’acceptait pas ce qui se présentait à lui. Elle hurla, et son rêve vola en éclat comme un verre en cristal explosant au sol.
+
+Elle se réveilla en sueur, cœur battant et bouche sèche. Ses mains tremblaient.
 
 ----
 
@@ -370,11 +406,368 @@ Elle était sans voix.
 -Attends juste une seconde…” Elle mit une minute à formuler sa question, en proie à la sidération. “Sanson, qu’est-ce qu’il vient de se passer ? Pourquoi t’éveilles-tu maintenant ?”
 “Mais l’encre, ma chère ! Vous venez de m’éclabousser !”
 
+### Faustine et Livain
+
+Faustine hésita à s’approcher de l’eau lorsqu’elle vit que Livain profitait déjà de l’endroit. Allongé au bord de l’étang, il rêvassait, yeux fermés sous le soleil. Elle regarda autour de lui, puis approcha à petits pas discrets, aussi silencieux que possibles malgré les herbes qui craquaient sous ses pas. Elle voulait voir les poissons. Elle réussit à s’approcher, et à s’asseoir près de la surface, sans un mouvement du jeune homme. Soulagée, elle plongea alors son regard dans l’eau, cherchant la queue d’une carpe, rouge, blanche ou tachetée. Elle ne put retenir une petite exclamation de plaisir lorsque les moustaches d’un poisson apparurent sous un nénuphar. La petite fille tendit une main pour l’attraper, mais la créature fila dans l’eau avec une vitesse surréelle pour échapper à sa prise.
+
+-Ne dérange pas les carpes, dit Livain en se redressant. Il avait retiré le chapeau de paille qui lui couvrait le visage pendant sa sieste. Faustine sursauta, gênée.
+
+-Oh, excusez-moi…
+
+Livain impressionnait la petite, avec sa tâche de vin qui lui couvrait l’œil et la pommette sur le côté droit de son visage. Il était différent de son frère et de son père, qui aimaient la chasse et agissaient de façon prévisible. Si elle les dérangeait, elle savait à quoi s’attendre : une remontrance, un coup peut-être. Si elle agissait bien, faisait preuve de maturité, d’intelligence, elle recevait un sourire fier de son père et quelques compliments de son frère. Mais avec Livain, c’était différent. Comme Ambroise, son oncle, Livain était plus doux et mesuré ; ce qui lui rendait son comportement tout à fait imprévisible. Aucun coup ne vint. En fait, il se rallongea, dans sa chemise blanche froissée par sa sieste et sa veste légère jetée sur ses épaules.
+
+-Pourquoi venez-vous là ? Demanda-t-elle.
+
+Le regard de Livain se perdit dans les nuages.
+
+-J’aime sentir les poissons. Ils sont tellement plus sereins que les gens. Plus… Compréhensible. Il se redressa sur les coudes avec un sourire amusé. Alors, tu vois, je viens ici et je dors près d’eux, et j’imagine que je suis un poisson, moi aussi. Que je nage avec eux, sereinement.
+
+Faustine écarquilla les yeux.
+
+-Mais enfin ! Il y a tellement plus d’intérêt à être humain ! Elle n’en revenait pas.
+
+-A quoi penses-tu ?
+
+-Mais à tout, enfin ! Un humain, ça pense, ça juge, ça agit. Ce que nous faisons en tant que tel a des conséquences. Nous avons tant de pouvoir, tant de responsabilités de faire le bien avec ce qui nous est donné. Et vous voudriez tout abandonner pour barboter dans une mare ? C’est trop bête !
+
+Elle mit les mains sur sa bouche après avoir dit ses mots. Quelle idiote, elle n’avait pas le droit de parler au fiancé de sa cousine comme ça ! Elle était trop téméraire, son père lui disait bien. Cependant Livain ne se fâcha pas. Il éclata de rire.
+
+-Oui… Oui, c’est tout à fait ça, je crois. Les responsabilités me terrifient. Quand on barbote, au moins, on n’a aucun risque de se tromper ! Mais pour tout t’avouer, je barbote déjà.
+
+-Comment cela ?
+
+-Ma vie est toute tracée. Je vais épouser Alis, l’accompagner à la cour d’Abanceau. Puis je vivrais sur les navires de pêches, comme les autres mages de ma famille. Je n’ai qu’à suivre le courant.
+
+-Vous, sur un navire de pêche ?! C’est affreux ! Vous rendez-vous compte de l’empathie que vous avez pour ces bestioles qui nagent ? Et vous passeriez votre vie à les voir mourir sur le pont d’un chalutier ? Quelle torture ! Comment pouvez-vous raconter un futur aussi horripilant avec un sourire aux lèvres ?
+
+Elle s’était levée, joues rouges et enflammées. Livain la dévisagea, puis baissa les yeux, mine déconfite.
+
+-Tu as raison. C’est affreux. Mais que faire d’autres ?
+
+Elle posa ses mains sur ses épaules.
+
+-Il y a plein d’autres choses à faire. Vous pourriez créer de magnifiques aquariums. Le souverain de Calice adorerait ça, pourquoi pas celui d’Abanceau ? Vous pourriez mettre à profit la mer sans en assassiner les résidents ! Mettre au point des techniques pour récolter l’encre des poulpes et l’huile des baleines sans les chasser… Utiliser les crustacés et les poissons pour… Pour, euh…
+
+Livain lui sourit, intimidé par l’ardeur soudaine de la jeune adolescente.
+
+-Ce sont d’excellentes idées, Faustine. Tu as raison.
+
+L’idée de travailler avec des tueurs de créatures marines l’horripilait depuis son plus jeune âge. Il n’y croyait que très peu, mais envisager des alternatives lui faisait du bien. Et puis, pourquoi pas ? Faustine avait six ans de moins que lui, et plus de combattivité qu’il n’en avait jamais montré. Il l’admirait pour cela. Peut-être un jour pourrait-elle-même se dresser contre son père, ce général violent et misogyne qui destinait sa fille a un bon mariage, sans plus.
+
+-Et tu n’as pas à épouser Alisandre si tu n’en as pas envie !
+
+Conclut-elle avec véhémence. Livain écarquilla les yeux, surpris par cette dernière phrase.
+
+-Ca, je n’en aie pas vraiment le choix, tu sais…
+
+-Bien sûr que si. A quoi bon se marier, si c’est sans amour ?
+
+-Je n’ai pas aucun amour pour Alisandre !
+
+Elle soupira, exaspérée.
+
+-Mais tu ne l’aimes pas, avoue-le ! Pas comme il faut pour un mariage.
+
+-Faustine, le mariage n’a jamais été construit sur l’amour, sourit doucement Livain. Tu lis trop de romans. C’est peut-être le cas pour les petites gens, les nobles d’Elyon ou dans l’est lointain. Mais ici, les familles de mages ne se marient pas par amour. Elles se marient pour…
+
+-…Préserver le sang de leurs ancêtres à présent disparus, ça va, je connais la chanson ! Je ne suis pas une gamine, Livain. Faustine sentait son sang bouillir dans ses veines. En plus, c’est faux, ajouta-t-elle. Les peuples anciens sont encore là. Les sorsèves, les sorsangs, les delphènes… Et pourtant, on ne va plus se marier avec eux, si ? Ce sont des foutaises, tout ça. Si les lignées se marient entre elles, c’est pour le prestige. C’est de la politique ! Tu vas laisser leurs jeux de pouvoirs malsain te prendre ta vie, du métier à la personne qui partage ton quotidien ?
+
+Livain accusa le coup. Il ne s’attendait pas à autant de franchise de la part de la fille de Vivien. Où avait-elle bien pu entendre et apprendre toutes ces idées ?
+
+-Faustine, ne dit pas ça… Murmura-t-il, espérant qu’elle baisserait le ton.
+
+-Moi, je refuse. Bonne chance avec Alisandre.
+
+Et elle tourna les talons pour s’enfoncer dans la forêt, sûrement à la recherche d’une autre mare. Quel caractère ! Livain se massa le front. Si elle allait ainsi raconter ses opinions profondes à n’importe qui, elle aurait des problèmes… Mais tout ce qu’elle avait dit résonnait en lui, profondément, sous les couches de masques et de faux-semblants qui lui permettaient d’accepter avec un sourire placide son mariage arrangé et sa vie future comme sculptées dans l’acier.
+
+Il était loin de se douter qu’il était l’un des seuls avec qui Faustine était si honnête, car elle supportait difficilement de voir le garçon qui lui plaisait promis à une autre, qui plus est froide et inintéressante.
+
+### Melchior
+
+Melchior hésitait.
+
+-Non, je… Mère me l’a interdit…
+
+-Oh, allez ! Tu n’es plus un gamin, Melchior, viens !
+
+Sa cousine était pressante, mais Melchior n’était pas serein. Elle et son frère mourrait d’envie d’aller visiter une partie des bois où un ours avait été aperçu récemment, seuls, sans autre défense qu’un fusil à la ceinture de l’aîné et d’une dague. L’idée n’était, d’après eux, pas de le chasser mais de simplement traquer la bête. Non seulement Melchior n’était pas convaincu par cette assertion, mais il trouvait l’idée stupidement dangereuse.
+
+-Laisse, Faustine. C’est un gamin. Ils sont tous comme ça dans cette branche de la famille ; lâche et mou.
+
+-N’importe quoi !
+
+-Arrête de t’en prendre à mon frère, Sigil, lança Alisandre d’une voix glaciale en sortant de la villa pour les rejoindre sur la pelouse. Ce n’est pas un défaut d’avoir la présence d’esprit de ne pas vous rejoindre dans vos jeux stupides.
+
+Sigil plissa les yeux en dévisageant sa cousine. Elle était légèrement plus grande que lui en taille, et il détestait cela.
+
+-Est-ce de la présence d’esprit de rester enfermer dans une bibliothèque toute sa vie, à en devenir blanche comme un cadavre ? Rétorqua-t-il. Il est tant de vivre, cousine, et d’apprendre à avoir un peu de volonté personnelle ! Vous n’êtes que de petites marionnettes d’Isadèle, bien dociles, bien dressés. Heureusement que père nous répète de ne jamais vous ressembler !
+
+-Vous y arrivez très bien, ne vous en faites pas, rétorqua Alisandre d’un ton doucereux. Jamais nous ne serons aussi inconséquents que vous. J’attends avec impatience que vous vous brisiez le cou en forêt, tout fiers de votre « volonté personnelle » qui ignore que votre vie ne dépend, pour vous aussi, que de la matriarche.
+
+-N’importe quoi ! Piailla Faustine, joues rouges. Cesse d’être jalouse parce que nous, on peut vivre !
+
+Sigil fit un pas vers la forêt.
+
+-Laisse tomber, petite sœur. Ca ne sert à rien de discuter avec un cadavre ambulant. Allons-y.
+
+Elle lui emboîta le pas, non sans un dernier regard furieux. Alisandre était restée placide, froide et neutre, regard rivé dans le dos de ses cousins. Son frère cependant la connaissait assez pour savoir qu’elle imaginait une vie au manoir sans avoir à supporter ces affreux personnages, dont seul le sang les reliait. Elle serait bien vite à la cour d’Abanceau, loin de ces idiots ; mais alors ils seraient remplacés par Ariane, leur aînée, élevée dans la même haine pour la matriarche héritière que ses frères et sœurs. Elle la connaissait peu, mais elle se souvenait d’une sournoiserie sans égale. Sourire par devant, coup de couteaux par derrière. Elle était tout ce qui l’empêcherait d’hériter de l’empire familiale. Une fois à la cour, elle n’aurait certes plus à supporter d’ennuyeux adolescents ; cela serait remplacer par une crainte sans faille d’un assassinat discret. Les assassinats étaient si courants, par chez eux. A la bonne saison, on les récoltait comme des champignons. Une seule fois.
+
+-Ils sont si méchants ! Gémit son petit frère. Alis posa une main rassurante sur le sommet de sa tête.
+
+-Je sais. Tu as bien fait de refuser de les suivre.
+
+-Si je l’avais fait, ils ne nous auraient peut-être pas insulté…
+
+-Et tu aurais peut-être été mortellement blessé. Un ours ! Ils ne se rendent pas compte, ces inconscients. Une bête comme ça leur arracherait la tête d’un coup de patte.
+
+Melchior la dévisagea, inquiet.
+
+-Tu crois qu’il va leur arriver malheur ?
+
+-Je ne l’espère pas, mais ils foncent droit vers les ennuis. Enfin, ne t’en fais pas. Sigil est assez bon tisseur pour se tirer d’affaires si la rencontre tourne mal. Si déjà ils trouvent leur ours. Allez, viens. Il y a de la brioche à la cuisine, ajouta-t-elle avec un petit sourire pour convaincre son frère.
+
+-…Et de la confiture ?
+
+-Aux cerises.
+
+Il sourit et suivit sa sœur qui retournait dans la villa, non sans un petit regard inquiet vers les bois. Si détestables soient-ils, il ne souhaitait aucun mal à ses cousins.
 
 
-----
+### Rencontre Zilith
+
+Alis mangeait son diner en silence, droite et digne. En fait, elle se faisait presque ombre, face aux hommes qui discutaient. Amarante, épuisée par son nouveau-né, se gardait de participer.
+
+-Sigil a fait des merveilles à la chasse, aujourd’hui.  Il fera un excellent chasseur !
+
+-Oh, attend de voir Guilham. Je sens déjà bouillonner en lui toute la puissance des grands guerriers !
+
+-C’est encore un nourrisson mou et rose. Tu délires ! Riaient-ils ensemble. Lucien se gardait bien d’intervenir ; Melchior était plus un littéraire qu’un chasseur, à son grand soulagement. Il aurait préféré faire de lui un scientifique, mais il respectait les choix de ses enfants. C’était un homme effacé et timide, surtout face à son épouse, Isadèle, la matriarche de la famille qui régnait d’une main de fer. A l’évocation de son nom, tous, même Viven et Auguste, adoptaient un silence respectueux. C’était les femmes qui gouvernaient, au sein des lignées de mages, contrairement à la politique de cour qui était dominé par les hommes. Cela surprenait parfois ceux qui vivaient hors de ce microcosme, découvrant que des hommes virils comme Viven était pourtant très respectueux, voire soumis, à leur femme.
+
+Une fois les trois plats servis et mangés, Alis se retira. Elle resta lire dans la bibliothèque quelques heures, joua avec Livain, puis Melchior qui les avait rejoints. Enfin, elle alla se coucher. Sa domestique lui retira l’ensemble complexe de robes et de jupons qu’elle portait, drapés sur ses hanches à la mode de la cour. Sa mère insistait pour que sa fille se prépare correctement à son entrée dans la haute société, et cela passait par des toilettes élaborée qu’elle ne montrait encore qu’au habitant du manoir. Enfin, la jeune fille se glissa dans son lit, chauffé par une bouillotte d’eau fumante qui l’attendait au fond de ses draps. Elle soupira d’aise. La domestique souffla la bougie et la laissa s’endormir.
+
+Elle se laissa doucement sombrer dans le sommeil, où des rêves, pareils à des fleurs du soir, venait éclore. Elle se trouva dans un lieu qu’elle connaissait par cœur : son propre manoir onirique.
+
+C’était un pouvoir propre à la famille songeciel. Il avait toute maîtrise sur leur rêve, et ainsi chacun construisait, dans son espace mental, ses propres structures. Certains, comme Melchior, étaient fantasques, et choisissaient de créer un univers au-delà de la physique. On pouvait marcher à la verticale sur les murs, rebondir sur l’eau, souffler des flocons de neige avec la bouche. Celui d’Alis, en revanche, était très raisonnable. C’était une belle bâtisse à l’architecture élaborée, élégante et majestueuse, où des salons confortable accueillaient ses visiteurs de rêve – à savoir donc, sa famille.
+
+Elle entra dans le bâtiment et descendit au sous-sol. Peu savait qu’au fond, Alis s’était amusé à créer quelque chose de plus personnel, de plus plaisant, à l’abri des regards indiscrets. Personne ne pouvait accéder à ce lieu sans son consentement. C’était son monde ; elle décidait de l’espace comme du temps, et si l’on souhaitait fureter dans ses coins secrets, on terminait irrémédiablement par tourner en rond. Bientôt, de petites méduses luminescentes se mirent à voleter autour d’elle, paisible et inoffensives. Des oiseaux virevoltaient, et une odeur de forêt accueillait doucement sa maîtresse. Les murs finirent par disparaître tout à fait pour laisser apparaître les troncs des conifères, les buissons, et au-delà des sous-bois sombres et mystérieux. Seul restaient des colonnades sculptées autour d’elle, et sous ses pieds un ponton de bois, recouvert d’un épais tapis émeraude assorti à la mousse qui couvraient les pierres de la forêt. Le ponton enjamba une rivière claire, sinua entre les buissons, et la guida jusqu’à une plateforme où l’attendait un fauteuil moelleux, un panier de fruits et quelques lectures passionnantes.  Elle s’approcha d’abord du tourne-disque, ajoutant un peu de musique à son rêve, puis alla se reposer dans son fauteuil. Autour d’elle, des animaux faisaient bruisser les feuilles, apparaissaient, disparaissaient. Les yeux jaunes d’un renard, les plumes d’un hibou, la queue d’un chat. Elle aimait se foisonnement de vie silencieux, respectueux, ou chacun restait à sa place et se faisait le plus discret possible. C’était l’ordre des choses qui la séduisait le plus. Elle trouvait les bruyants et les arrogants ennuyeux et vulgaires, comme ses oncles.
+
+Les petites méduses constituaient le premier écart à la réalité ; elle en avait vu une fois dans un aquarium, des années auparavant, et ces créatures gracieuses avait tellement fasciné ses yeux d’enfant qu’elle n’arrivait plus, depuis, à s’en débarrasser. Pendant une période de son adolescence, elle avait tout essayé pour s’en débarrasser. Infructueuse, elle avait fini par les apprécier. Finalement, elles dansaient comme autant de petites lucioles original.
+
+Il fallait croire que la mer l’avait plus passionné qu’elle ne l’aurait cru. En fait, ne l’ayant rencontré qu’une ou deux fois, elle en avait été fasciné. Ainsi le ciel de sa forêt, en grande partie masqué par les branchages, était constitué d’une mer accroché à l’envers. Les feuillages donnaient naissance à des plants de kelp inversé, et en perdant ses yeux dans son ciel artificiel, elle voyait de temps à autre passer des poissons, ou la silhouette sinueuse d’une petite roussette.
+
+Enfin, elle s’était amusé avec les arbres. Si la plupart étaient de beaux conifères sombres et relativement normaux, certains présentaient des variations intéressantes. De couleurs : on en voyait des prune, des rouge, des bleus, toujours dans des tons profonds, ou bien de formes : certains étaient grands, d’autres entrelacés sur eux-mêmes ou avec leur voisin. D’autres encore étaient couvert de plumes, ou de métal gravés, constituant d’autres expérience de la magicienne. En se laissant aller au sommeil dans le sommeil, les frontières s’étaient brouillés, les sous-bois embrumés. Et soudain, sans qu’elle ne comprenne pourquoi, son rêve redevint très net, précis, acéré. Elle sursauta dans son sommeil et senti son corps bouger. Qu’est-ce qu’il l’avait tant dérangé ? S’était-elle brûlé le pied sur sa bouillotte ? Non, son pied n’avait rien. Elle tendit l’oreille, et compris que ce qui l’avait réveillé, c’était la musique. Elle s’était modulé d’une façon qu’Alis ne connaissait pas. Certes, il arrivait que l’inconscient joue des tours ; mais à son âge, et avec son éducation sévère sur la maîtrise de ses rêves lucides, cela n’avait jamais lieu à moins qu’elle ne soit particulièrement perturbée. Or, elle se sentait très calme. Très placide. Très vide, en fait, ce qui ne changeait pas de d’habitude. C’était peut-être pourquoi, d’ailleurs, son monde intime ressemblait à un néant sombre et tapissé de mousse et de coussin très confortable illuminé de cnidaires. Elle se leva du fauteuil et s’approcha du tourne-disque. Elle releva l’aiguille, et la musique continua de jouer, obstinée. Cela arrivait souvent, en songe, mais pas sans sa volonté. Un membre de sa famille s’était-il introduit dans ses rêves ? Cela arrivait régulièrement, mais il était d’usage de s’annoncer à l’entrée. Et pour influencer ses perceptions jusque-là, cela ne pouvait être que quelqu’un de sacrément puissant. Sa mère ou sa tante ne jouaient pas à ces jeux-là ; elles auraient fait éclater un orage pour qu’Alis, trempée, vienne instantanément s’occuper d’elles. Un tour de Sigil ou Faustine, peut-être ? Ils étaient de bien trop mauvais songeurs pour cela… Alors qu’elle se perdait dans ses réflexion, elle se rendit compte que la musique provenait non pas de partout, mais d’une direction précise dans le sous-bois. Elle s’y engagea alors, prête à rencontrer le fauteur de trouble. Elle marcha longtemps, jusqu’à dépasser la limite de forêt qu’elle avait conçu. L’usage était alors que les derniers paysages se répètent à l’infini. Aussi, lorsqu’elle aperçut un tronc sombre qu’elle ne connaissait pas, elle s’arrêta. Elle commençait vraiment à avoir peur. Quelqu’un qu’elle ne connaissait pas jouait avec ses songes de façon bien étrange. Elle poursuivit son chemin ; elle était maîtresse des lieux, tout de même ! Pourtant, alors que la musique s’amplifiait, les arbres inconnus aussi. Des ronces qu’elle n’avait jamais vu remplaçaient les buissons. Les arbres se faisaient noirs comme du charbon, les animaux, absents. Ca n’était plus sa forêt. C’était un cauchemar ; les pires angoisses des rêveurs lucides. La musique se précisait ; c’était un chant d’oiseau. Elle se sentait prête à en découvrir l’auteur derrière n’importe quel tronc, tant la mélodie résonnait fort à présent. Des filaments noirs émergeaient du sol en arabesques brumeuses, comme si la terre elle-même était corrompu. L’endroit était lugubre. Lorsqu’elle perçut les bruissements de plumes, les cliquetis de métal, elle sut qu’elle touchait au but. Elle ne voyait plus rien ; les arbres étaient noirs, le ciel couvait une nuit sans lune, les méduses avaient disparu. Alors son pied s’enfonça dans le noir, et elle chuta. Elle roula sur elle-même dans le néant, trop choqué pour crier. Un impact sur le dos lui coupa le souffle, et elle ouvrit grand les yeux, dans sa chambre, cette fois-ci. Elle s’était réveillée.
 
 ## Morceaux très anciens
+
+### Azun
+
+Alisandre était rentrée plus tôt que prévu. Seule, elle s’était rendue à l’adresse qu’Arhel lui avait donné. Lui avait prévu de prendre toute la nuit pour jouer, draguer, filer sur les toits et boire. Elle avait démissionné très vite, à peu près au moment où des jeunes femmes légèrement vêtues étaient arrivés dans la salle, faisant rougir le jeune homme… Et elle-même, à vrai dire. Outrée, elle avait préféré partir.
+
+Elle se trouvait à présent, seule et sans repère dans une cité inconnue, face à la large porte d’une résidence inconnu. Le bâtiment, bien qu’élégant, n’était pas sobre. Des colonnades habillaient l’entrée, ornées de rubis, de quartz blanc et de pyrite. Un brin tape-à-l’œil pour la demeure d’un voleur… Elle se permis d’entrer. Elle s’aventura dans le hall, sombre et silencieux. Etait-ce un squat abandonné ?  
+Soudain, les œufs de lune s’illuminèrent d’emblée, tous ensemble. Un homme au nez busqué la regardait avec un air entendu, accoudé au comptoir. Sa silhouette, dont la maigreur transparaissait dans ses joues creuses et son menton pointue, était noyée dans un immense manteau large et épais, bordeaux brodé de dragons et de serpents d’argent et d’or. Nul doute que c’était l’individu responsable pour la façade clinquante.
+
+-Bonjour, je suis…
+
+-Je sais qui vous êtes, répondit-il en levant sa paume. Nul besoin de vous présenter. Venez, mademoiselle. Je vais vous montrer votre chambre.
+
+Alis cilla, surprise. Le petit voleur avait peut-être prévenu son propriétaire. Cependant la façon dont celui-ci en témoignait était bien rustre… Ces gens de la ville, pensa-t-elle. C’est bien autre chose…
+
+-Appelez-moi Azun, dit l’homme en l’entraînant dans les couloirs de la résidence. Les œufs de lune s’illuminaient sur son chemin. Les fenêtres donnaient sur une grande cour intérieure, ornée d’une petite fontaine. Il bifurqua, pris un escalier, un second. Elle était étonnée de la largeur de l’édifice, qu’elle aurait jugé bien plus petit, vu de l’extérieur. Finalement, il s’arrêta devant une porte ouvragée.
+
+-voici vos appartements, mademoiselle. Il s’inclina. Appelez-moi si vous avez un quelconque problème !
+
+Et, sans un mot de plus, il la quitta et tourna à l’angle. Elle le suivit, sourcils froncés… Ah, elle s’en doutait. Comme Marek, l’homme s’était évaporé. Ils étaient donc de la même espèce. Possédait-il aussi un ether ?
+
+Elle en revint à sa porte et poussa le battant. Derrière, une confortable chambre, bien que plus petite que tout ce qu’elle avait fréquenté jusqu’alors, les auberges de route exceptées, elle se satisfit tout de suite de l’apparence et du contenu. Le lit semblait épais et confortable, les bibliothèques étaient à demi pleine, lui laissant la liberté de les remplir à son goût. Elle avait un beau bureau, une petite penderie. C’était idéal. Elle alla s’installer sur son lit, regardant un instant la foule à travers la fenêtre ronde, et pensa.
+
+Marek avait-il voulu lui faire rencontrer ce Azun ? Il avait promis de la retrouver une fois sa propre tâche finie. Quand donc ? Elle avait, de nouveaux, tant de questions à lui poser. Dans son esprit, Zilith s’agitait. Elle le sentait bouger les ailes, mal à l’aise dans ce nouvel environnement. Azun l’intriguait. Il avait envie de le boire.
+
+-Du calme, murmura-t-elle d’un ton excédé, pour elle-même. Du calme.
+
+Elle frissonna. Elle ne voulait plus causer d’accidents à cause de l’oiseau.
+
+Suite : alis arlette, loris, kasai
+
+III – Arlette
+
+Ses quelques affaires posées, Alis se reposa un moment sur le lit. Elle mit de l’ordre dans ses pensées. Cela faisait à présent plusieurs années qu’elle voyageait en compagnie de Marek ; elle se sentait à l’aise avec ces nouveaux environnements, changeants constamment. Cela lui donnait l’illusion de la sécurité. S’attacher, c’était risquer d’être découverte… De réitérer la tragédie. Elle se redressa sur son lit, puis alla se recoiffer devant son miroir. Elle apportait un soin particulier à sa coiffure et à son apparence, qu’elle tenait à garder aussi méticuleux que son édifice mental où elle se rendait chaque nuit. Le contrôle lui apportait sérénité, et elle avait mis bien longtemps à le retrouver. Encore maintenant, Zilith s’agitait parfois et lui échappait. Mais Marek était là. Marek veillait.
+
+-Marek ne veillera pas toujours, lui susurra l’oiseau.
+
+-Bien assez longtemps pour te calmer, rétorqua Alis.
+
+L’oiseau se retira. Il n’était ni insistant, ni désagréable. Ils cohabitaient bien. A peu près.
+
+Elle se leva et quitta sa chambre, refermant soigneusement sa porte derrière elle.  Les couloirs étaient à présent illuminés ; elle s’y aventura, prudemment, pour découvrir son nouveau lieu de vie provisoire.
+
+Elle erra jusqu’à trouver, jusque au-dessus du hall d’entrée, un petit salon. Une jeune femme, de l’âge d’Arhel, y était plongé dans un livre. Elle était vêtue d’une chemise à dentelle et ruban et d’un pantalon pour femme, une mode nouvelle qui mettait encore Alisandre mal à l’aise. Cette accoutrement était en général réservé pour les femmes de spectacle, mais il était sûrement plus commun dans les cités modernes.
+
+ Alisandre approcha, sans un bruit, et vint se placer devant elle en attendant d’être remarqué. Arlette leva les yeux de son livre, surprise.
+
+-Qui êtes-vous ? Demanda-t-elle, méfiante.
+
+-Je suis une collègue d’Arhel. C’est bien ici qu’il loge ? Demanda Alisandre. Le propriétaire ne lui avait rien confirmé, et elle préférait s’assurer que sa présence n’était pas un malentendu.
+
+Arlette haussa un sourcil.
+
+-Effectivement. Vous travaillez dans le même… Secteur ? Elle ne put retenir un petit rire. Vous n’en avez pas l’air.
+
+Alisandre se sentit outré par cette remarque.
+
+-Je ne suis pas une chapardeuse. J’ai seulement une mission à accomplir avec lui pour associée. Je me nomme *.
+
+Elle attendit qu’Arlette se présente. Celle-ci ne sembla le remarquer qu’après quelques secondes de silence pesant.
+
+-Ah. Arlette d’Edalmas, enchantée. Répondit-elle nonchalamment en lui serrant la main. Alisandre était offusquée par ce manque de manière, mais ne le laissa pas apparaître. Elle se contenta d’un sourire plaqué.
+
+-De même. Je vous laisse à vos lectures.
+
+Un ouvrage sur la prestidigitation. Ces habitants étaient bien curieux… Elle n’avait croisé personne d’autres ; pourtant le lieu semblait grand.
+
+-Combien êtes-vous, à loger dans cette pension ?  Demanda-t-elle finalement.
+
+Arlette compta sur ses doigts.
+
+-Arhel, moi, Kasai, Azun… Quatre. Oui, voilà tout. Nous sommes quatre ! S’amusa-t-elle.
+
+-Mh. Très bien. Bonne journée, dit finalement Alis en quittant la pièce, sans comprendre ce qui amusait tant la fille dans cette nouvelle. Elle avait l’air d’une petite rustaude, habillée comme une comédienne. Il était curieux qu’elle portât un nom à particule. Surement un nom de scène, jugea-t-elle. Une prétentieuse, assurément, comme le petit voleur.
+
+-Elle sentait bon, jugea Zilith. Elle était riche et pleine.
+
+Alis resta pensive. Une maison de mages ? Cela pouvait expliquer un peu leur excentricité.
+
+Plongée dans ses pensées, elle ne remarqua qu’au dernier moment l’homme large et roux qui venait à sa rencontre dans le couloir.
+
+-Mademoiselle ? Demanda-t-il en s’inclinant. Je crains ne jamais vous avoir croisé ici, et pourtant les résidents ne sont pas nombreux.
+
+Elle fit une révérence. Enfin, on s’adressait à elle de façon convenable !
+
+-Je suis *. Je ne logerai ici que provisoirement. Vous êtes ?
+
+-Kasai *, Voyageur. Il lui sourit. Enchanté, mademoiselle.
+
+Elle se sentit charmée. Il était beau, bien maniéré, et… Oh, non. La soif qu’elle éprouvait à son égard, à celui de ces yeux d’or et de cette peau blanche, était motivé par Zilith. Elle le savait car ces désirs-là, elle ne les avait jamais ressenti et savait qu’elle ne les ressentirait jamais. L’oiseau, attisé par un aptis de tel qualité, croassait avec force. Il avait si soif, et tous ces nouveaux gens étaient si appétissants ! Alisandre se sentit fiévreuse, alors que la créature forçait pour s’échapper de ses cellule et aller le quérir. Des points noirs apparaissaient au bout de ses doigts. Sous son chemisier, elle sentait qu’il en était de même tout le long de ses bras. Zilith essayait de sortir. Stop, pensa-t-elle. Stop. STOP. CESSE.
+
+-Mademoiselle… ?
+
+Alis prit une respiration difficile.
+
+-Excusez-moi. La chaleur…
+
+L’automne, pourtant, était frais. Mentalement, elle avait réussi à repousser Zilith, et les points noirs refluaient. Mais elle sentait qu’il puisait en elle pour se rassasier. Il puisait trop… Elle s’évanouit, dans les bras de ce bel inconnu qu’elle venait de rencontrer.
+
+### Café
+
+Alis laissa le liquide sombre et amer lui réchauffer la gorge.
+
+-Cela vous convient-il, mademoiselle ?
+
+Elle acquiesça.
+
+-C’est parfait.
+
+Le café était l’une de ses boissons préférées, bien qu’elle restât rare et prisée. Elle avait son goût en la matière, et Marek, qui lui se contentait auparavant bien de n’importe quel jus de chaussettes, la laissait désormais choisir et payer les grains qu’elle souhaitait. Elle avait cessé de boire du thé en quittant la demeure familiale. Désormais elle restait alerte.
+
+Elle acheta son café et quitta la boutique. Mais ça n’était pas Marek qui l’attendait de l’autre côté de la rue ; c’était son nouveau compagnon de route. Arhel.
+
+Elle se sentit irrité rien qu’à le voir, nonchalamment discutant avec une petite demoiselle de passage. Sa main gauche venait de subtiliser la bougeotte de la demoiselle, à sa ceinture. Bientôt elle reprit son chemin en gloussant et rougissant, et Arhel lui fit un signe. Alis le prit par l’oreille.
+
+-Quand cesserez-donc vos gamineries…
+
+-Et toi, de me vouvoyer, tiens. Tu en as mis, du temps ! Il se dégagea de sa prise et la suivit. Qu’elle marchait vite !
+
+-Ca vaut le coup. Vous verrez.
+
+Pourtant, lorsqu’elle lui fit goûter, le résultat fut surprenant.
+
+-Pouah, mais c’est amer !
+
+-C’est du café ! Vous ne connaissez donc pas cette saveur ?
+
+-Je bois pas ça, moi. C’est cher et c’est mauvais.
+
+-Quel enfant… Soupira-t-elle en sirotant sa tasse.
+
+Il haussa les épaules.
+
+-Au moins, j’ai le droit d’en être un.
+
+Alisandre le dévisagea.
+
+-Pardon ?
+
+-Tu agis comme une princesse responsable de je ne sais quel royaume. Redescends, ma grande. Tu n’es qu’une renégate. Comme moi.
+
+-Je suis fille de noble !
+
+-Tu es en fuite. Ecoute ; on t’a surement empêché toute ta vie de t’amuser, et d’être libre. Mais pour une fois, tu l’es ! Alors, arrête de t’incarcérer toute seule, tu veux ? Il lui sourit. Je vais te montrer.
+
+-Comment… ?
+
+Il la saisit par la maison. Son cerveau tournait à cent à l’heure. Ou pouvait-il emmener cette snob… Ah, ça y est. Il entra dans un bar dansant d’un pas sûr.
+
+-Que –
+
+Il se mit à danser et l’entraîna à sa suite. Gênée, rougissante, Alisandre se détacha de lui pour se cacher dans un coin, discrète. Arhel la reprit par le poignet.
+
+-Viens, je te dis ! Tu risques rien !
+
+-Non… !
+
+Lui tenant les mains, il la fit bouger. Ses doigts commencèrent à devenir noirs.
+
+-Détends-toi. Tout va bien. Ecoute la musique !
+
+Elle se força à respirer. A se détendre. Ne pas faire de crise ici… Surtout pas. Elle entama quelques mouvements rigides.
+
+-C’est ça ! s’extasia-t-il. Encouragée, elle poursuivit, amusée. Elle tint une petite demi-heure ; puis elle se retira.
+
+-Alors ?
+
+-C’était… Bien, convint-elle, amusée. Merci.
+
+Il regarda ses doigts.
+
+-Merci à toi, princesse.
+
+-Oh, mon chignon ! Elle se regarda dans le reflet de la fenêtre. Je suis décoiffée !
+
+-Ahah ! Il tira une épingle. Ses cheveux tombèrent en cascade sur ses épaules.
+
+-Que fais-tu ! Elle les saisit et commença à les entortiller pour les remettre en place.
+
+-Laisse. Il les effleura. Laisse, t’es bien, comme ça !
+
+Elle entreprit au moins de les lisser avec les doigts. Elle avait rarement senti ses cheveux sur ses épaules.
+
+-…D’accord.
+
+C’était agréable.
+
+### Automate
+
+« Il commence à réagir. Je ne sais pas bien quoi en penser… »
+
+Alisandre hocha la tête. « Parfait. Il s’est éveillé ?
+
+-Non, ça, pas encore.
+
+-Bien… Laisse-nous.
+
+-Tu vas utiliser tes pouvoirs de mage ? »
+
+Aucune réponse.
+
+« Le paiement d’abord. Ensuite, je vous laisse. »
+
+Dit Nelan, d’un ton soudain plus brusque. Alisandre fouilla la poche de sa jupe et en tira une petite bourse qu’elle lui lança d’un geste fluide. Il l’attrapa.
+
+« Fais attention, enfin ! » Il délaça le cordon pour vérifier le contenu du sachet. Une poudre scintillante le remplissait. Il referma le sachet, satisfait, et le fourra dans sa propre poche.
+
+« Tu as une heure, pas plus. Si on te trouve là, je suis mort. »
+
+Et il quitta la pièce. Alisandre n’avait déjà plus conscience de sa présence ; son regard était focalisé sur la silhouette en métal dont la poitrine était soulevée d’un imperceptible mouvement. Nelan avait raison : il commençait à s’éveiller. Mais par quel miracle ? Etait-ce ses cristaux, ses traitements, l’électricité ou la vapeur qu’il avait tenté d’insuffler à ses tubes et ses tuyaux ? Ou était-ce autre chose ? Peut-être l’automate fonctionnait-il depuis qu’ils l’avaient subtilisé à son propriétaire. Peut-être ne l’avaient-ils simplement pas remarqué. Alisandre effleura son cou, puis sa joue. On voyait à peine la texture du feutre de sa peau. Ses cils, ses lèvres… Il n’avait pas pu être peint, elle n’y croyait pas. Le résultat était désarmant de précision. L’automate ressemblait presque à un humain endormi, si on omettait les légères marques sous sa peau là où les plaques de métal se chevauchaient et le sifflement de machine qui accompagnait sa presque-respiration. Il était aussi entièrement chauve et glabre, à l’exception de sourcils discrets. On disait « il », sans savoir si l’automate avait été pensé homme ou femme à sa création. Peut-être aucun des deux.  Ses traits étaient fins et androgynes, ses hanches étroites, sa poitrine discrète. Alisandre ferma les yeux et se concentra.  
+Sa famille se nommait Songeciel. Ils constituaient une lignée de mages hors du commun, les seuls avec la lignée Ombelune à partager dans leur veines le sang de lune, l’héritage d’une espèce mystérieuse et discrète qui leur permettait de dialoguer avec l’inconscient, les rêves et le sommeil. Elle espérait, sans aucune certitude, que sa magie lui permettrait d’entrer en contact avec la conscience de l’automate, si conscience il y avait.
 
 ### Leslie
 
@@ -560,6 +953,111 @@ Les tensions étaient fortes depuis toujours. A l’empire sorsang, un humain en
 
 ---
 
+### Lorien, Kasaï
+
+Alisandre explorait le bâtiment. Elle n'était arrivée ici que la veille, et elle cherchait à prendre ses repères au plus vite. Elle devait aussi apprendre à connaître tous les résidents, cela lui serait utile. Elle croisa un jeune homme brun au détour d'un couloir.
+
+-Bonjour. Ah, tu dois être la nouvelle. Alisandre, si je ne m'abuse ?
+
+-Bonjour, Arhel. Elle fronça les sourcils. Quel est ce nouveau numéro que tu me joues ? C'est bien désagréable. Abstiens-toi de tes blagues de mauvais goût !
+
+-Ah... Il eut un petit rire gêné. Je ne suis pas Arhel. Je suis son frère jumeau. Elle le dévisagea. Ses cheveux bien coiffés, laqués, sa tenue d'étudiant bien mise... Elle avait cru à un nouveau costume. Était-ce vraiment un frère jumeau ? Ou se fichait-il d'elle ?
+
+-Je comprends l'hésitation. Il soupira profondément. Mon frère ne rend pas la chose aisée... il indiqua ses yeux. Mais il a les yeux jaunes, et moi, plutôt vert.
+
+-Excusez-moi, mais cela pourrait aisément relever d'un déguisement.
+
+-Je l'admets. Il montra son blason. Mon frère est certes un voleur, mais il ne touche jamais à cela. C'est mon certificat pour accéder à l'université. J'y suis étudiant.
+
+-Mh... Bon, je vais vous croire, décida Alisandre. Pour le moment.
+
+-Merci. Ça n'est pas aisé de l'avoir pour frère, je vous jure... Je m'appelle Lorien. Enchanté. Il lui tendit une paume ouverte qu'Alis serra en retour.
+
+-Beaucoup de résidents sont-ils étudiants ?
+
+-Non, vraiment pas. Arhel est difficile à convaincre. Arlette est au moins inscrite à l'école, mais elle est loin d'être assidue. Loreleis a terminé ses études... énumera-t-il, pensif. Tout comme Kasai, d'ailleurs, qui est professeur à l'université. Le regard d'Alisandre se fit intéressé.
+
+-Un professeur d'université ?
+
+-Oui ! Vous ne l'avez pas rencontré ? C'est un excellent ami à moi. Venez, je vais vous présenter. Il est essentiel que vous rencontriez tous les résidents ! S'exclamaa-t-il avec enthousiasme. Qui avez-vous déjà vu ?
+
+-Outre votre frère... J'ai rencontré Arlette, et le maître. Nous n'avons pas échangé beaucoup.
+
+-Ah, bien entendu. Loreleis a du passer la nuit à Runethia, comme elle le fait souvent, et Kasai a des horaires très personnels. Quant à moi, je me lève tôt pour aller en cours. Je suis plutôt du matin, contrairement à mon frère. Elle acquiesça, pas très intéressée par ces détails personnels. Il la guida vers la porte principale.
+
+-Alors vous n'êtes que six ici ? Il hocha la tête.
+
+-La residence est un lieu bien particulier. On n'y entre que par des conjonctions d'événements improbables... Alors, nous sommes peu. Il paraît cependant que d'autres résidents ont habité ici avant nous. Il descendit dans la rue et inspira, content. Il aimait les vapeurs des rues d'Auberyn. Il se sentait vivant dans le bruit et la fumée, et surtout les cliquetis des machines. Le vide ne l'effrayait absolument pas et il marchait d'un pas vif vers l'académie.
+
+-Ne risquons-nous pas de le déranger ?
+
+-Non, il finit son cours dans quelques minutes. Vous rentrerez ensemble, il aura sûrement beaucoup à vous dire.
+
+-Vous ne nous accompagnerez pas ?
+
+-Eh bien, non! J'ai travaux pratiques... Dans dix minutes. Il pressa encore le pas, esquivant agilement les passants. Il semblait nager comme un poisson. Alis, elle, courait presque en faisant claquer ses talons derrière lui. Enfin, ils montèrent les marches de marbre de l'académie. Il prit quelques couloirs d'un pas sûr, puis s'arrêta devant une pièce dont il ne franchit pas la porte.
+
+-Ah, Kasai ! Je dois aller en cours. Voici la demoiselle dont je t'ai parlé. Raccompagne-la, veux-tu ? Je file ! Et Loris la laissa planter là, sans un regard en arrière. Alis dévisagea les professeurs. Elle ne savait même pas lequel était le fameux Kasai, et duquel elle devait attendre une réaction. Était-ce vieil homme ? Ce rouquin qui rangeait ses affaires ? Ce large simplet qui lui souriait ? Alors enfin, il s'avança et sourit à Alis.
+
+-Mademoiselle Alisandre. Allons-y, voulez-vous. Son cœur rata un battement. C'était le rouquin. Et, à vrai dire, il ne ressemblait pas à ce qu'elle attendait d'un professeur. Il était large d'épaules, grand, bâti comme un guerrier des Royaumes dont les muscles avaient été enveloppé dans la toge rouge des professeurs. Sa mâchoire bien carré, son nez droit, son regard brun, doux et franc le rendait des plus charmants. Ses cheveux roux, gardés courts comme le voulait le bon usage, bien coiffés, bien plaqués, et sa paire de lunette fine et rectangulaire achevait de témoigner de sa bonne morale et de sa conscience des détails. Il était très beau, et c'était un professeur. Tout ce qui séduisait Alisandre.
+
+-O... Oui, monsieur. Kasai. Se corrigea-t-elle. Il ne pouvait pas être tant plus vieux qu'elle ! Pourquoi bégayait-elle soudain ? Il ne fit aucune remarque, salua ses collègues et quitta l'académie.
+
+-Depuis quand es-tu a la résidence ? Demanda-t-il d'une voix douce.
+
+  -Hier, répondit-elle, tête haute. Et toi ?
+
+  Elle avait vouvoyé Loris, mais lui, il l'intimidait tant qu'elle s'y refusait. Elle voulait garder le contrôle.
+
+Il sourit, amusé.
+
+  -Quelques années déjà.
+
+  Elle hocha la tête, pensive. Lui demander des détails ne se faisait sûrement pas en pleine rue.
+
+  -qu'enseignes-tu ?
+
+  -La géographie.
+
+  Elle le dévisagea de nouveau, impressionnée.
+
+  -Tu es si jeune, pourtant !
+
+  Il détourna un peu le regard, gêné, puis sortit un médaillon de son col. En bronze, il représentait un sceau qu'Alis avait appris à reconnaître durant ses études aux royaumes.
+
+  -Tu es un Voyageur ! Dit-elle a voix basse, estomaquée. Elle ne pensait pas en rencontrer un un jour. C'était très impressionnant. Il rangea son médaillon.
+
+  -Et oui... Cela aide, tu peux t'en douter.
+
+  Ah, ça ! Voyager n'importe où dans l'espace devait bien aider à connaître, comprendre et enseigner la géographie, elle voulait bien le croire.
+
+  -C'est impressionnant, dit-elle seulement. Elle refusait de le laisser voir a quel point elle était séduite par le personnage. C'en était presque trop ! Elle devait rester méfiante. L'image de Livain, soudain, la mordit aux tripes. Une ombre passa dans son regard.
+
+  -On a tous nos fantômes, ici, répondit-il simplement après un petit silence. Elle le dévisagea, surprise.
+
+  -Ah, oui. J'imagine... Tu viens donc de kishar ?
+
+  Il poussa la porte de la résidence.
+
+  -Je n'y suis pas né, mais j'y ai grandi, comme tous les Voyageurs.
+
+* * *
+
+Alisandre avait du mal à s’empêcher de trembler. Elle fixait le bout de ses chaussures. Elle finit par relever les yeux, dans un air de défi.
+
+-V-Voilà, dit-elle, concluant dans un bégaiement sa confession.
+
+-Alis…
+
+-Prends le temps d’y réfléchir, d’accord ? Pas la peine de te presser.
+
+Il soupira lourdement. Elle ne s’y trompait pas ; cela ne signifiait rien de bon pour elle. Elle l’avait déjà vu, pendant les quelques mois qu’elle avait passé à ses côtés, le nombre de filles qui lui faisaient des déclarations similaires. Elle avait espéré, venant de la résidence, que la sienne ferait la différence. Au fond, elle ne se faisait pas d’illusions. Elle se força à ne pas tourner les talons trop vite. Elle sonda d’abord son regard, un long moment.
+
+Il finit par hocher la tête.
+
+-Promis, je vais y réfléchir, répondit-il avec un petit sourire engageant. C’en était trop, elle fit demi-tour et partit à grands pas. Il ne pouvait pas lui servir son sourire enjôleur, ça non !
+
+Lorsqu’elle fut parti, Kasai soupira de nouveau, longuement, et s’assit sur la banquette qui bordait l’une des immenses fenêtres de la résidence. Comment lui dire qu’il avait déjà quelqu’un, dans un autre pays, qui l’attendait ? Comment lui dire que cet autre était un homme ? Avait-il seulement un véritable avenir, avec Aran et sa position de duc aux états salins ?
 
 ## Trame
 

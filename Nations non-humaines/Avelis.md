@@ -8,9 +8,10 @@ Une centaine d'arbres aussi vieux que le monde, tordus en courbes gracieuses, go
 Une silhouette se posa sur l'une des plateformes dans un bruissement de plumes. Elle fit rouler ses épaules, lissa ses rémiges et s'assit au bord de l'eau. Elle s'étendit sur le granit beige, à l'ombre d'un arbre noueux.
 Plus haut, de jeunes oisillons jouaient à se percher au bord du vide pour faire semblant de battre des ailes, surveillés par leur parents attentifs qui lisaient ou jouaient de la lyre. D'autres enfants plus âgés, déjà débarrassés de leur duvet, se préparaient au premier envol.
 
----
+----
 
-
+```table-of-contents
+```
 ## Les avelis et l’île de Brisha
 
 Noblesse, honneur, devoir
@@ -366,3 +367,44 @@ Ils se racontent qu’une partie de la civilisation avelis aurait subsisté dans
 
 #### Noms
 
+
+## Bonus
+
+### Âtre
+
+Face à eux, le mage sorsang préparait ses pierres et ses outils. La pièce sombre n’était éclairée que par un âtre flamboyant, recoins sombre comme la nuit, comme le secret qu’elle accueillait. La tentative folle de procréer des deux amants. Car lui était un sorsang, et elle une avelis.
+
+D’autres, rares, avaient déjà réussi, ils le savaient ; leurs espèces étaient compatibles. D’autres encore avaient succombés à ces tentatives. Ils voulaient que leur union se passe bien. Ils voulaient mettre toutes leurs chances de leurs côtés. Lorsqu’elle était tombée enceinte, le bonheur avait bien trop vite laissé place à l’anxiété. Il n’y avait que peu de chance que l’enfant arrive à terme, et peut-être autant que la mère n’en pâtisse pas.
+
+Le docteur se tourna vers eux, l’air grave.
+
+- Vous êtes bien au courant que l’enfant que vous obtiendrez ne sera ni sorsang, ni avelis ?  
+Une créature hybride, handicapée, dépourvue des spécificités de ses parents, n’en gardant que le noyau semblable. L’union dans l’abandon de ce qui les faisait si spéciaux.
+
+La femme approuva lentement de la tête, bientôt imitée par son compagnon.
+
+- Très bien. Si vous êtes convaincu, allons-y. Acquiesça le docteur, satisfait. Pourquoi les aidait-il ? C’était une conviction personnel. Il pensait, comme beaucoup de savant, qu’il n’y avait que du bon qui pouvait émerger d’un mélange des peuples, tant que les élites, les nobles, protégeaient le sang originel. L’émergence d’êtres mêlés ne pouvait qu’éloigner les guerres, les tensions, les dissensions. Favoriser la vie, la paix, l’entente.
+
+Il suivait la grossesse de la demoiselle depuis déjà un certain temps. Aujourd’hui, il le savait, il était temps de l’en extraire. La chair de l’avelis cherchait à développer l’embryon comme elle l’aurait fait d’un enfant-oiseau, or celui-ci n’en était pas, ou si peu. Il avait aidé son organisme et celui du fœtus pendant des mois ; maintenant, il fallait l’en expulser.
+
+### Oliviers
+
+La légende racontait que les arbres les plus anciens reposaient sur l'aiguille de Brisha.
+
+C’était une île déchiquetée oubliée par les brumes, dissimulée par la grâce d'Ios, divinité céleste et sans visage. Elle abritait un peuple ancien, désormais exilé sur ce pique de roche marine. La pierre avait été transpercée de part en part de galeries aux parois sculptées, parfois recouvertes de marbre, de velours ou de bronze. Des vitraux ouvraient le cœur du roc à l'extérieur, de sa base frôlant l'eau jusqu'à son pic. Irrégulière, l'île formait de nombreux bassins protégés où se reposaient ses habitants.
+
+Cependant, la majesté de Brisha provenait avant tout de ses jardins, et a fortiori de ses oliviers. Une centaine de troncs tordus en courbes gracieuses, gorgés de vie et de couleurs qui reposaient sur autant de disques aériens reliés par divers ponts de verre, escaliers boisés, ou cascades de plein ciel qui se déversaient dans l'océan.
+
+C’était sur l’une de ces plateformes, à l’ombre d’un de ces arbres noueux, qu’une silhouette s’étendit avec un bruissement de plumes. Le perchoir portait un petit bassin, alimenté par la montagne mère. Plus haut, elle entendait de jeunes oisillons jouer à se percher sur les branches les plus épaisses pour faire semblant de battre des ailes, surveillés par leur parents attentifs qui lisaient ou jouaient de la lyre. D'autres enfants plus âgés, déjà débarrassés de leur duvet, se préparaient au premier envol. Elle sentait les arbres se gorger de l’agitation, de la musique, de l’innocence qui les entouraient. Elle savait que ceux-ci étaient spéciaux : leur âge, leur contact avec la terre bénie leur avait octroyé un esprit vif qu’aucune végétation ne semblait égaler.
+
+- Auta ! Appela son amie en se posant non loin de la brissienne. Ses atterrissage étaient toujours gracieux et légers.
+
+- Qu'y a-t-il ? Répondit l’intéressée sans ouvrir les yeux. Leïs posa sa main sur l'écorce de l'olivier.
+
+- Tu viens ? On va faire le tour jusqu’à gorge blanche. Ça te fera du bien de te dégourdir les plumes.
+
+- Il fait trop chaud, je vous rejoindrai plus tard, rétorqua la demoiselle ailée.
+
+Sans insister, Leïs leva les yeux au ciel et s’en fut dans un battement d’ailes. Celles-ci étaient attachées à la peau du milieu du dos jusqu’au poignet, ne formant qu’un avec le bras des brissiens.
+
+Auta soupira d’aise. Elle préférait être tranquille, à l’ombre des feuilles, écoutant dans la fraîcheur de la brise marine les murmures des oléacées qui lui racontaient l’histoire du monde.

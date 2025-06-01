@@ -1,5 +1,10 @@
 
 
+```table-of-contents
+```
+
+# Mehua
+
 La Mehua est une île commerçante au climat tropical, administrée en cinq régions distinctes. Les habitants vivent en harmonie avec les delphènes, qui leur confèrent une grande puissance militaire grâce à leurs dangereux dragon-fauves.
 
 L’influence de l’Elyon, voisin et premier client de Mehua, se fait plus intense chaque année dans la culture de l’île.
@@ -163,6 +168,30 @@ La couleur emblématique de Kherul est le bleu.
 Kherul est une région fortement liée aux delphènes. La côte est aride, découpée de rochers noirs et battue de vagues et de vents. Vers l’intérieur des terres, c’est une série de plateaux très fertiles qui mènent au volcan de l’île où les bergers peuvent faire paître quelques bêtes. Kherul se situe à l'est et fait majoritairement de l'artisanat. On trouve dans ses calanques d'étranges statues de poissons et de créatures marines taillés dans les roches. On y travaille dans les mines pour récupérer les cristaux, métaux, et ressources précieuses pour produire les colorants et bijoux typiques de Mehua. Ces mines, gouffres sombres, béants et dangereux car sujets à de fréquents glissements de terrain et inondations, ont pour réputation d’abriter de terribles monstres dont on ne voit que l’immense gueule garnie de crocs, tapis dans l’eau, qui avalent les mineurs.
 
 Kherul étant une région hostile, ses habitants ont préféré construire leurs villes de la côte sur pilotis, hors d’attente des inondations fréquentes et leur épargnant d’aplanir le sol rocailleux. Cependant, les excellents artisans que sont les kherulois ont sculpté les roches pour les transformer en statues de créatures marines, parfois incrustées de pierres précieuses trouvées dans leur mine. Les delphènes adorent cette région, et les habitants de Kherul, avec ceux de Mahorel, sont les plus proches du peuple marins. Il est courant que leur enfant joue avec les leurs et que des amitiés fortes se nouent entre les peuples dans ces régions.
+
+## Délégation
+
+La pluie la berçait doucement, en métronome clair et régulier qui battait contre le toit et les fenêtres.  Le battement était si tendre, si familier, qu’on l’assimilait au cœur de l’île, ce tiède écho qui résonnait en chacun, en tous, en la terre humide et ses entrailles anciennes.
+
+Elle connaissait le parcours des gouttes. Du toit, elles glissaient le long de ses pentes étudiées pour se déverser sur le sol, dans les rigoles qui bordaient le sentier concave, lui-même couvert de toiles colorées qui protégeaient la terre blanche du soleil plus que de l’eau. Il était pavé, afin d’éviter que la boue ne gêne les chariots qui y circulaient quotidiennement, amenant des immenses caravelles du port l’argent et les produits du continent comme une artère irriguant l’île déjà fertile d’encore plus de richesses. Elle n’avait jamais vu ce fameux continent d’où l’on amenait le métal et ces outils si performants. On lui racontait qu’il n’y pleuvait que rarement, que leur pluie était froide et non tiède comme la sienne. Il n’y poussait pas non plus de ces palmiers et de ces plants d’ananas où elle affectionnait tant jouer avec ses amis.
+
+-Comme à Mahorel ?
+
+-Non, il n’y a pas d’herbe dans ces villes. Il n’y a que quelques arbres aux bords des rivières, ou dans les parcs.
+
+-Comme à Kherul, alors ?
+
+-Kherul n’est qu’une province de rochers et de pics. Non, c’est moins hostile. Nous t’y amènerons un jour, ma fille.
+
+Et elle tentait encore d’imaginer, dans son esprit fertile et pourtant si vierge, ces petits arbustes aux feuilles minuscules et sans perroquets sur leurs branches. Ces maisons immenses, les tours brillantes, les palais en bronze et en verre. Pourtant, son jeune esprit n’y arrivait pas. Elle était trop habituée aux contrées vertes et chaudes de Mehua, et a fortiori de Safre et de ses forêts rouges. Elle avait déjà tant à explorer ici ! Elle rêvait de trouver l’habitat des sorcières, dans la mangrove.
+
+-Les voici !
+
+S’exclama-t-on dans la rue. Elle s’approcha de la petite fenêtre ronde. La délégation des femmes de sève avançait fièrement devant eux, avec leurs yeux topaze et leurs veines céladon. Ses grands yeux brillants étaient accrochés à leurs jupes de lin. Quelle prestance ! Quelques hommes avançaient avec elles, de leurs lignées, derrière les mères et sœurs qui portaient sur leurs épaules tout le poids de leur revendication. La plupart restait au village. Les hommes étaient leurs protecteurs.
+
+Elles se dirigeaient vers la maison de Safre, le palais de la famille du chusa, où on les avait conviées à la suite des récents événements qui bouleversaient le monde.
+
+Pendant que la guerre faisait rage en Tenrô, les sorcières de sang avaient regagné leur cité. Elles luttaient comme elles pouvaient contre l’Empire, mais elles avaient besoin d’aide : et leurs frères et leurs sœurs voulaient les y aider. Or, elles n’étaient que peu, et se sentaient en droit de demander l’aide de Mehua dans leur entreprise. Toutes les sorcières ne s’y accordaient pas. Mehua était déjà en train de lutter, et de perdre ; et certains pensaient que Tenrô, avec son passé de peuple opprimé, seraient plus à même de les comprendre et de les aider que les méhens. Bénéfice s’ils disposaient de plus d’une meilleure puissance militaire.
 
 ### Aide et sources
 

@@ -9,7 +9,11 @@ Il quitta sa tente dès qu'il fut en état.
   Faruk toussa. Et puis, sa voix rauque brisa à jamais la triste vie des sorciers du continent ouest.
   -J'ai trouvé la cité de Sang. Répondit-il simplement.
   
-  ---
+  
+```table-of-contents
+```
+
+---
 
 Les sorsangs, sorsèves et aroatis sont rassemblés dans la catégorie d’aptis nommé « augures », ou « vifs-mages ».
 
@@ -304,3 +308,144 @@ Un animal-sorcière peut aussi être conçu artificiellement en insérant un cri
 
 Tito, Leiore, Semera, Maura, Pirmine, Soraluze, Selene, Angeles, Soralina, Kaled, Barsen, Caura, Rega, Cassia, Cingus, Farad, Chaim, Myriam, Hakam, Zura
 
+
+# Textes
+
+
+## Barshah
+
+Il s’était fait à la tribu. Il y était chasseur, et bien qu’il fût habitué dans ses vies passées aux cités barbares, bien plus vastes et impressionnantes que les nobliauds ne le croyaient, il appréciait le confort intimiste d’une petite communauté soudé. Il y sentait pulser l’esprit de la meute, plus fort que jamais. Le respect des anciens, des alpha, la protection des jeunes, l’avancement de la société pour de meilleures conditions de vie. S’il avait vécu l’arrivée des mineurs, il aurait probablement été bien moins ravi ; mais ceux-ci étaient déjà présent depuis plusieurs dizaines d’années, et se trouvaient mêlé au sang des mages comme s’ils n’avaient formé qu’une seule ethnie.
+
+Cependant, Barshi avait le sentiment que quelque chose n’allait pas depuis quelques temps. Les anciens l’inquiétaient, dissimulaient des choses au peuple. Il les avait vu se retirer plusieurs fois et discuter sous le secret induit par des cristaux tissés. Jamais ils n’avaient osé de si extrêmes mesures auparavant. Que se passait-il au village ?
+
+Il se réveillait la nuit. Entendait des bruits, des échos, des rêves. Cette nuit-là, n’y tenant plus, il s’était levé. Il était allé rejoindre la source de ses insomnies, armé d’une lampe et d’un couteau.
+
+Seul, face à lui nuit, il sentait doucement son échine frissonner. Il était Barshi. Il était le loup. Quelle chose lui faisait donc face ?
+
+Un son. Une goutte qui touche le sol, suivit d’une autre. Plic. Plic. Ininterrompu.
+
+Des cornes saillantes renvoyèrent sa lumière.
+
+La déchirure d’une bouche abjecte. Il leva son couteau, lorsqu’une voix, enfin, s’éleva en lui pour résonner.
+
+« Nous sommes de ceux qui payent.
+
+-Vous êtes des imposteurs, rétorqua l’homme à mi-voix dans un grognement rauque.
+
+-Nous sommes les dieux anciens.
+
+-Vous n’existez pas !
+
+-Nous sommes ceux qui remboursent le prix du sang versé.
+
+-Menteurs ! Rugit-il. L’ombre disparut. Barshi leva sa lampe et découvrit un corbeau égorgé, responsable du sang qui gouttait sur la neige.
+
+Avec un rictus, il décrocha le cadavre de sa branche et retourna à sa hutte. Dépecer l’oiseau lui calmerait les nerfs.
+
+Il ne supportait pas ces prétentieux démons qui souhaitaient avidement sa déchéance.
+
+
+## Labyrinthe
+
+Le secret de la nuit enveloppait le village. Par ordre des étoiles, tous s’étaient rassemblés autour de l’autel, où les lueurs dansantes des bougies transperçaient la neige. Sur la pierre gisait un cerf dont les flancs se soulevaient paisiblement. Devant la créature, la silhouette frêle d’un jeune apprenti supportait les regards. Ceux de sa tribu, rivés dans son dos, et celui de son maître, brûlant, plongé dans ses yeux. Cette nuit, les constellations lui rendaient grâce.
+
+  Il reçut le poignard des mains du prêtre. Du silence des villageois s’éleva un murmure, qui gonfla en un chant de psaumes, sourd, vibrant et rauque. La lame, tenue par la main de l’enfant, s’élevait avec l’intensité des voix. Lorsque la dernière note mourut dans la dernière gorge, il l’abattit dans le cœur de l’animal.
+
+Devant lui s’ouvrit alors la Trame. Chaque vie, tendue et nouée, entrelacée en un dédale d’âmes vives. En tranchant le fil d’existence du cerf, il en avait saisi l’extrémité et s’était glissé par ce nouvel accès au labyrinthe fou qui régissait l’univers. Alors, pendant un instant qui dura une éternité, il ne fit qu’un avec le Tissage. Il parcourut chaque boucle, chaque lien, et connut intimement chaque esprit du Monde.
+
+Lorsqu’il se réveilla, étourdi, les mains rouges, le silence était revenu. Son maître posa ses mains sur ses épaules et tourna le garçon face à la foule.
+
+« Dal Ineis nous offre un nouveau prêtre ! » S’exclama-t-il. Et, alors que le sang chaud coulait de l’autel, la tribu éclata en une myriade d’acclamations, de joies et de danses.
+
+## Rituel
+
+Le village était silencieux. La nuit l'étouffait comme une épaisse étoffe de velours, piquée d'innombrables bougies blanches qui brûlaient dans la neige.  Aucune forme ne se mouvait sous les toiles ornées de légendes des immenses tentes de la cité : ce temps n’appartenait plus à la vie. C’était l’heure de Dal Ineis, dame de l’inertie, de l’absence, du silence et de l’atonie. 
+
+Tous s'étaient massés devant l'autel. Un son rauque émanait du peuple, sourd et intense, guidé par les prêtres aux yeux bandés. Le chant vibrait, nourri d’abord par les voix des ancêtres, puis celles des adultes, et enfin les tons plus doux des enfants. S’y joignirent les instruments à vent, les percussions. Lente déchirure du silence d’encre. Les renards et les oiseaux fuyaient l’étrange musique. Les arbres y répondaient. La brise, glaciale, y mêlait ses plaintes.
+
+Sur l’autel reposait le corps ensanglanté d'un jeune garçon, sur lequel le plus âgé des prêtres traçait des arabesques incarnat, indifférent aux échos graves qui émanaient de la foule. Il inscrivait sur sa peau blanche les runes de l’esprit et du souffle, ôtés de sa poitrine par la lame acérée qui dépassait de son ventre. 
+
+Devant l’enfant, ses parents murmuraient leurs prières entre deux sanglots, serrés l’un contre l’autre. La clameur s’adoucit, dans les larmes et les suppliques ; ils furent les derniers à arrêter de chanter, et leurs notes silencieuses moururent dans la neige rouge. Les prêtres répandirent du sel et des cristaux. L’adolescent était apaisé. 
+
+Alors étincela l’acier. Le silence se fit absolu, foule tut par le mysticisme de la scène. Respect, crainte, excitation. Le métal pénétra le corps avec lenteur et minutie. La chair se détachait des os avec des craquements sinistres ; le sang coulait, imbibant les roches taillées de l’autel, les cristaux, le sel, rougissant les mains des sages. Un à un, les membres de l’enfant se séparèrent de son corps, puis se fragmentèrent encore. Le travail était soigneux : le long de la table de pierre, une série de récipients de verre taillé recevait chair, os, sang, muscle, organe, tendon, rangé avec précision. Bientôt, ils eurent entièrement désassemblé l’être qui formait un tout.
+
+Puis le plus jeune des prêtres, tout vêtu de son masque de soie et de sa lourde cape de velours, avança le large bol qui contenait le sang du garçon. Comme le voulait la coutume, ses parents s'y servirent les premiers. Lentement, ils y plongèrent leurs mains, puis leurs lèvres. Le sang du défunt gonflait leurs veines d'une puissance extatique. C’était là que leur peuple trouvait la plus grande source de leur étrange magie. L’art du murmure, comme l'appelait les étrangers, se nourrissait de vie : de chair, d’être, du vif, cette étrange force qui pousse le charnel à développer une âme. C’étaient ses parents qui lui avaient offert, et à ses parents il retournerait.
+
+Chacun en reçut ensuite une part égale. Les sages leur effleuraient le front, la joue, la bouche d'un peu du précieux liquide sombre. Quelques guerriers du clan emmenèrent les autres récipients de l’autel vers la tente de réserve. Son corps servirait à la magie, au peuple et à la cité. Sa chair nourrirait le village.
+
+Lorsque tous furent servi, l’atmosphère avait changé. On se sentait bien, fort du plaisir pris dans cette dose d’énergie pure. Alors la musique reprit, par les instruments uniquement cette fois-ci, et on dansa. La clameur brûlante et brusque vint inonder les cieux.
+
+On ne terminerait les réjouissances qu’à la fin de la nuit, épuisé, ravi, et finalement ramené à l’ordre par l’astre solaire. Dal Ineis en serait satisfaite. La nuit était sienne, et avait été honoré.
+
+## Village
+
+L’alliance avait été signé une centaine d’années auparavant. Il avait transformé les petits villages de toile des sorcières en village, hybridé leur culture, modelé leur histoire. En échange d’une alliance avec le royaume, leur octroyant les techniques nécessaires au travail du métal ainsi qu’une protection militaire face aux chasseurs, les sorcières, installées plus profondément dans les terres, leur devait une dime de cristaux et de minerai.  
+  
+
+On aurait pu croire la forêt enrobée d’un grand coussin d’ouate blanche. La neige étouffait les pas, avalait les sons, et reflétait le soleil qui dardait alors ses rayons sur les mille troncs et aiguilles des sapins environnants. Derrière ceux-ci se cachait les grottes, les cavernes et surtout les mines, fierté des Sorcières qui vivaient là.
+
+« Attends, Seka ! » cria Axim en s’élançant à la poursuite de son amie. Celle-ci s’engouffrait justement dans la gueule noire et béante de l’une de ces galeries abandonnées. Le rire de la fillette resonnait sur les murs, terrifiant le petit garçon qui peinait à suivre ses pas. « On va se perdre ! Et mourir de faim ! » Gémit-il. « Il fait sombre ! » mais il continuait d’avancer.  Des poutres de bois aidaient à maintenir la structure ; craquantes et couvertes de toiles d’araignées, il préférait ne pas leur faire confiance.  
+« Seka !
+
+-Regarde ! »
+
+Il tourna dans la galerie où l’attendait son ami, et écarquilla les yeux. « Oh ! » La galerie connectait visiblement à des branches plus récentes, et encore exploitées ; comme en témoignait les subtiles lueurs brillantes du minerai à travers la paroi.
+
+« Des cristaux purs, fit-il. C’est joli.
+
+-Seulement des réceptacles, m’a dit maman. Il faudra les remplir de flux pour qu’ils deviennent les cristaux qu’on connaît. » Axim hocha la tête. Il avait eu les mêmes réponses de ses parents, lorsqu’il avait demandé ce qu’étaient les cristaux.
+
+En lui-même, le matériau n’était pas plus rare que du fer, dans ces montagnes-ci. Cependant le processus pour les transformer en artefact puissant nécessitait l’intervention délicate d’un ou de plusieurs sorsangs. Ceux-ci y gravaient des runes, distordant les flux pour transformer les mailles du cristal en une petite source d’énergie. C’était une pratique ancienne, connue uniquement des sorsangs de l’intérieur des terres.
+
+« Qu’est-ce que vous fichez là, les enfants ? » S’écria une voix rauque à l’autre bout de la galerie. Un homme arriva à grands pas. Un mineur. « C’est dangereux, les mines ! Par où êtes-vous donc passés… »
+
+Seka et Axim sursautèrent et filèrent aussi sec. L’homme ne les poursuivit pas. Cela lui suffisait bien de les voir décamper des cavernes organisées.
+
+« Je croyais qu’il n’y avait pas travail, aujourd’hui !
+
+-Moi aussi, répondit Seka à son ami. Il devait faire du boulot supplémentaire, lui. C’est pas de chance. »
+
+Si Axim était terrifié à l’idée de se perdre dans les mines, Seka, en revanche, avait un sens de l’orientation aussi aiguisée que son esprit ; et ils furent dehors en quelques instants.
+
+« J’aime pas les mineurs, souffla le garçonnet à mi-voix. Son amie fronça les sourcils.
+
+-Mon père est un mineur, idiot ! Rétorqua-t-elle en lui enfonçant son coude dans les côtés.
+
+-Aïe… ! » Il fit la moue, mais ne répondit rien. Seka le dévisagea, puis s’assit sur un coin de rocher sans trop de neige.
+
+« T’es pas le seul, je le sais bien. Mais je ne comprends pas. Ça altère la cohésion du village, cette peur des mineurs. Ils ne vous ont rien fait.
+
+-Je sais. Excuse-moi, Seka. Mais ils me font peur, quand ils reviennent du travail tout couvert de noir. Ils ne portent pas de cristaux, ni les symboles du village. Ils sont fatigués, ils boivent, ils ont accent étrange.
+
+-Tu exagères ! Tes parents boivent largement autant qu’eux. Ils le font juste en te poussant dans ta chambre. C’est grâce aux mineurs que nous avons de vraies maisons, d’ailleurs. Avant, c’étaient des tentes.
+
+-Je sais. Je comprends aussi pourquoi la majorité de la population les aime bien, aussi. Je t’assure. Je ne les déteste pas, ils m’angoissent, c’est tout. Ils ne sont pas comme nous. »
+
+Seka soupira, mais s’abstint de nourrir le débat. Elle l’avait déjà eu plusieurs fois avec lui, et elle avait fini par accepter qu’il n’avait pas de réels arguments. Comme ses parents, et tous les réticents du village à accepter les « étrangers ». Le terme était fallacieux : cela faisait bien longtemps que leurs populations étaient mêlées.
+
+Les deux enfants restèrent à discuter dans la neige un moment, avant de rentrer. Si leur village était loin d’être imposant, il grandissait d’année en année, confiait la mère de Seka à sa fille, un sourire fier aux lèvres. Grâce aux mineurs, grâce aux Royaumes. Il était entouré de palissades peintes, sur lesquelles des corbeaux sorcières, étranges oiseaux de proie portant un masque d’os, montaient la garde. Seka et Axim les saluèrent avec de grands sourires. Ces oiseaux étaient les gardiens, qui dissimulaient le village aux terribles chasseurs de sorcières.  
+Ils saluèrent les adultes qu’ils croisèrent, puis filèrent jusqu’à la masure d’Axim. C’était une maison de planche sombres, fenêtres étroites, à la face couverte de tentures figurant les symboles spirituels du peuple. Les maisons des sorciers purs étaient les plus belles, pensait Seka, mais elle ne l’avouait jamais. A l’intérieur, il y avait de nombreux tableaux et broderies, faites par les grands-parents de son ami, qui racontait l’histoire de leurs ancêtres. Elle aimait s’y poser, regarder, penser.  
+«  Je vais chercher du gouter ! » fit Axim en filant dans la cuisine, pour récupérer de la brioche, du miel et des fruits au sirop. Seka le laissa faire avec un demi-sourire, et reporta son attention sur les belles fresques du mur.
+
+Il y avait d’abord un tableau de la cité de Sang. Le premier tableau figurait la cité telle qu’on s’en souvenait, magnifique, incarnat et brûlante sous un soleil d’enfer, au milieu du sable et de montagnes sèches, devant une mer d’azur.  C’étaient les terres d’origine de leur peuple, d’après la légende. S’en suivait une longue tapisserie de la Guerre ; on y voyait les sorcières, stigmatisées pour leur magie particulière, puis attaquée de nuit. Anéanti, leur civilisation fuyait alors jusqu’au tableau suivant, celui de l’exode, jusqu’à une toile blanche figurant leurs nouvelles terres, guidée par la prophétesse, seul endroit encore libre d’accès pour eux. Ils avaient alors cru à un nouvel espoir.  
+Mais leur magie était leur malédiction, et ils tombèrent alors sur les chasseurs. Si leurs relations avec les locaux furent, aux premiers abords, cordiales, elles s’envenimèrent rapidement lorsque des cadavres d’animaux, puis d’humains, furent trouver. On blâma les sorcières, on les chassa, on les tua. Ils se defendirent comme ils purent ; mais malgré les idées reçues, ils n’avaient rien d’un peuple guerrier. Ils dissimulèrent leurs villages à l’aide de leurs corbeaux sorcières, se firent nomades.  
+Cela ne suffit pas. Ils souffraient de pertes fréquentes, et les sorcières mourraient plus vite qu’elles ne naissaient. Leur culture et leur héritage étaient en péril.
+
+C’est alors qu’on envoya des ambassadeurs aux royaumes côtiers, de l’intérieur des terres, qui avaient offert leur soutien durant l’exode. Bien reçu au royaume, on signa un traité. Le royaume, déjà en guerre contre les chasseurs de sorcières qui rognaient chaque année un peu plus sur les terres, les écrasant vers la mer, offrir un échange aux sorcières. C’était le dernier tableau : le sorcier qui tendait les cristaux, le secret et la force de son peuple, et le roi qui lui donnait du métal et du feu.
+
+Les filons de métal et de cristal n’existait qu’au plus profond des montagnes, ressources inatteignables pour le royaume côtier qui souffrait cruellement de ce manque. Les sorcières surent résoudre ce problème. Ils reçurent d’abord du royaume une aide militaire ainsi qu’une première délégation de mineures et de maîtres forgerons. Ils se sédentarisèrent alors près des montagnes, fondèrent un village à la culture hybride, et construisirent des mines exploitées par les hommes du royaume. Pourvu de métal, même les sorciers sans grande magie purent se défendre face au chasseur. Bien entendu, cela ne suffisait pas ; les pertes étaient encore courantes, et on interdisait formellement aux enfants de s’éloigner du territoire. Mais la vie allait mieux. Une minorité des sorcières, attachée à leur culture, peinait à accepter le mélange inexorable qui s’opérait entre les côtiers et les magiciens. Cependant, le déclin avait été si proche, si sûr, qu’il ne pouvait les démettre tout à fait, aux yeux de l’opinion public, de leur place de sauveur. Enfin, la culture des sorcières restait prédominante au village ; et après de longues années de cohabitation, se mêlait à celle des mineurs. On en voyait certains qui apprenaient la langue ancienne, arborait les symboles ; et on voyait des sorcières porter des chapeaux ou jouer aux dés.
+
+Ils se redressaient, peu à peu.
+
+Axim toussota.
+
+« Encore à regarder ces vieilles tapisseries ? allez, viens, Seka. Mangeons plutôt un morceau. On pourra aller jour avec les renards, ensuite ! Ma mère m’a dit qu’elle avait trouvé un terrier non loin. »
+
+Seka sourit, et s’assit avec lui sur le tapis du salon.  
+Cela irait, comme disait son père.
+
+-> pratiques
+
+-> renard
+
+-> rituel
