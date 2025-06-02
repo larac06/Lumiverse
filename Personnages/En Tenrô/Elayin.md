@@ -255,7 +255,7 @@ Elle hésita une seconde, puis obéit, gardant de son mieux la montagne dans son
 Autour d'elle, les lueurs étaient bleues et froides. Comment pouvait-elle changer sa teinte pour s'y accorder ? Elle essaya diverses techniques, sans aboutissement. En sueur, elle finit par tenter autre chose : forçant sur son sens, elle cessa d'essayer de changer sa propre aura, et se focalisa sur sa perceptions de celles qui l'entouraient. Un lapin qui passait là changea alors de couleur, et son aura passa de bleu à une douce nuance dorée.
 L'acte n'avait duré qu'une fraction de seconde, mais elle y avait perçu un tout nouveau type de connection. Son maître posa une main sur son épaule. Elle ne savait jamais s'il jouait un rôle dans ces nouveaux aspects de son pouvoir qu'elle découvrait. 
 "C'est bien. Détente, maintenant : ton doshaï est tendu comme un arc.
-Elle obéit, comme s'il elle faisait rouler un muscle trop utiliser durant les dernières heures.
+Elle obéit, comme s'il elle faisait rouler un muscle trop utilisé durant les dernières heures.
   -Je l'ai senti ! S'écria-t-elle, tremblante de fatigue. Le lapin ! Mais je ne comprends pas. Que lui ai-je fait ?
   Son maître lui ébouriffa doucement les cheveux. Elle sentit soudain un froid brûlant au niveau de ses jambes et se ses paumes : il avait neigé. Le gel n'avait pas tenu une heure, mais avait suffit à tremper ses vêtements. L'aroatis lui tendit alors une petite écharpe et deux gants fins.
   -Enfile cela avant d'attraper froid. Tu peux filer : tu en as finis avec le bandeau pour le moment. Quant au lapin, ne t'inquiète pas. Tu n'as fait que... L'influencer une fraction de seconde. Lorsque vous aurez acquis assez d'expérience et de connaissances, nous vous dispenserons des cours de théorie du doshaï qui rendront tout cela clair comme de l'eau de roche.
@@ -263,131 +263,122 @@ Elle obéit, comme s'il elle faisait rouler un muscle trop utiliser durant les d
 -Ah, mais... Ça ne lui a pas fait de mal, hein ? S'inquiéta-t-elle. Le maître rit.
   -Au lapin ? Aucun, je t'en assure. File."
  Elle obéit et fila. Elle espérait ne pas tomber avant d'avoir atteindre son lit.
-
---marque-page de relecture--
 ## V
 
 Finalement, elle n'était pas tombée.
-Elle avait grimpé les escaliers, le couloir, passé la porte : chaque étape avait été douloureuse tant elle était éreintée. Et puis, elle s'était écroulée sur son lit. Regard rivé sur le plafond, doshaï oscillant, elle laissait le sommeil venir doucement à elle, comme une vague léchant le rivage ; quand soudain, un bruit la sortit de sa torpeur. La fillette ouvrit les yeux, puis alla ouvrir sa porte sur la pointe des pieds. Elle aperçut alors deux silhouettes qui filaient, leur doshaï masqué au maximum. Curieuse, elle les suivit. Ils entrèrent dans une chambre avec quelques rires étouffés, et elle les rejoignit.
+Elle avait grimpé les escaliers, le couloir, passé la porte : chaque étape avait été douloureuse tant elle était éreintée. Et puis, elle s'était écroulée sur son lit. Regard rivé sur le plafond, doshaï oscillant, elle laissait le sommeil venir à elle comme une vague tente le rivage. Quand soudain, un bruit la sortit de sa torpeur. La fillette ouvrit les yeux, puis alla ouvrir sa porte sur la pointe des pieds. Elle aperçut deux silhouettes qui filaient, leur doshaï masqué au maximum. Curieuse, elle les suivit. Ils entrèrent dans une chambre avec quelques rires étouffés, et elle les rejoignit.
 "Mince, Yin ! S'exclama Aran. Deshi rougit en la voyant.
-  - Qu'est ce que tu fais là ?
-  - Je vous ai entendu filer." Répondit-elle simplement, en penchant la tête. "Que faites-vous ?
-  - Chut. Éteins ton doshaï, dit Aran en fermant la porte. Rien d'important. On discute.
-  Elle aperçut alors la bouteille que tenait le gamin sous sa veste. Du jus de fruits, piqué aux réserves. Ils n'avaient jamais droit à pareil luxe, d'ordinaire.
-  - Je vois. Sourit-elle à demi. Partage, et je ne dirais rien !
+  -Qu'est ce que tu fais là ?
+  -Je vous ai entendu filer." Répondit-elle simplement, en penchant la tête. "Que faites-vous ?
+  -Chut. Éteins ton doshaï, dit Aran en fermant la porte. Rien d'important. On discute.
+  Elle aperçut alors la bouteille que tenait le gamin sous sa veste. Du jus de fruits, piqué aux réserves. Ils n'avaient jamais droit à pareil luxe.
+  -Je vois. Sourit-elle à demi. Partage, et je ne dirais rien !
   Un peu de sucre lui ferait un bien fou. Elle méritait bien une petite célébration !
-  - Oh, t'es sérieuse ? Soupira-t-il. Bon, très bien. Viens, prends place à notre festin !
+  -Oh, t'es sérieuse ? Soupira-t-il. Bon, très bien. Viens, alors !
   Et il sortit un coussin de plus pour qu'elle puisse s'asseoir sur le sol et se joindre à leur assemblée.
-  - Tu l'as chipé au salon ?
-  - Et oui. Un maître voleur ! Fanfaronna Aran. Deshi, gêné, la considérait juste avec un demi-sourire hésitant.
-  - Bon, et bien, de quoi parlez-vous donc, ici ?
-  - oh, de tout, de rien, fit Aran en haussant les épaules. On discute et on boit, voilà tout ! 
-  - Mes parents vont me tuer s'ils l'apprennent, soupira Deshi.
-  - Pourquoi ? Ils sont au palais ? Demanda Elayin. Deshi acquiesça.
-  - Ce sont des aroatis, comme la plupart des parents des autres apprentis. Mais elles sont en mission dans l'ouest, et ne participent pas à notre formation.
-  - "Elles" ?
-  - ce sont deux femmes, j'ai donc un frère.
-  Parmis les aroatis, les couples de même sexe étaient habituels et acceptés, tant qu'ils souscrivaient à l'unique contrainte imposé par leur rang : engendrer une descendance.
-  - Où est-il, maintenant ? Demanda la fillette, curieuse.
-  - Il n'a pas passé le test du silence, évidemment : alors, il a commencé un apprentissage en ville, pour apprendre le chant et la cithare. Il souhaitait devenir musicien. Cela fait un bout de temps maintenant que je ne l'ai plus revu, dit doucement l'enfant. Il en semblait attristé. Son frère aîné lui manquait, autant que ses parents.
-  - Oh, ça va ! S'exclama Aran, boudeur. Tu reverras tes parents vite, toi. Moi, je n'en sais rien !
-  - Les professeurs deviennent un peu des parents, non ? Demanda Elayin. Le gamin la dévisagea, surpris. Il prit une rasade de jus de fruits, pensif, et se laissa aller en arrière contre le mur. 
-  - rien ne remplacera ma maman, soupira-t-il.
-  - Personne ne parle de remplacer, rétorqua-t-elle. Mais je suis sûre que ta maman te manquera nettement moins quand tu seras plus habitué aux professeurs. Ou à nous, aussi. Nous sommes supposés devenir une famille. Non ?
-  - Tu as une drôle de conception de la famille, souffla Deshi.
-  - Comment cela ? 
+  -Tu l'as chipé au salon ?
+  -Et oui. Un maître voleur ! Fanfaronna Aran. 
+  Deshi, gêné, la considérait juste avec un demi-sourire hésitant.
+  -Vous parlez de quoi, ici ?
+  -oh, de tout, de rien, fit Aran en haussant les épaules. On discute et on boit, voilà tout ! 
+  -Mes parents vont me tuer s'ils l'apprennent, soupira Deshi.
+  -Pourquoi ? Ils sont au palais ? Demanda Elayin. Deshi acquiesça.
+  -Ce sont des aroatis, comme la plupart des parents des autres apprentis. Mais elles sont en mission dans l'ouest. Elles ne participent pas à notre formation.
+  -"Elles" ?
+  -ce sont deux femmes, j'ai donc un frère.
+  Parmi les aroatis, les couples de même sexe étaient habituels et acceptés, tant qu'ils souscrivaient à l'unique contrainte imposé par leur rang : engendrer chacun une descendance. Cela obligeait ces couples à avoir deux enfants, par des unions externes où l'usage d'esclave. L'infidélité n'existait pas chez les aroatis ; on considérait que chacun avait son âme soeur, unique et absolue, inconditionnellement des envies qui pouvaient faire osciller le coeur. Décider d'un partenaire de vie était une décision immense, mais partager son lit n'était qu'une contingence.
+  -Où est-il, maintenant ? Demanda la fillette, curieuse.
+  -Il n'a pas passé le test du silence, alors, il a commencé un apprentissage en ville, pour apprendre le chant et la cithare. Cela fait un bout de temps maintenant que je ne l'ai plus revu, dit doucement l'enfant. Il en semblait attristé. Son frère aîné lui manquait, autant que ses parents.
+  -Oh, ça va ! S'exclama Aran, boudeur. Tu reverras tes parents vite, toi. Moi, je n'en sais rien !
+  Aran provenait d'une région bien plus lointaine, comme en témoignait sa peau brune.
+  -Les professeurs deviennent un peu des parents, non ? Demanda Elayin. Le gamin la dévisagea, surpris. Il prit une rasade de jus de fruits, pensif, et se laissa aller en arrière contre le mur. 
+  -rien ne remplacera ma maman, soupira-t-il.
+  -Personne ne parle de remplacer, rétorqua-t-elle. Mais je suis sûre que ta maman te manquera nettement moins quand tu seras plus habitué aux professeurs. Ou à nous, aussi. Nous sommes supposés devenir une famille. Non ?
+  -Tu as une drôle de conception de la famille, souffla Deshi.
+  -Comment cela ? 
   Il rougit à nouveau, et Aran développa sa pensée.
-  - Tu parles à peine aux autres. Tu les traites comme des inconnus ! 
+  -Tu parles à peine aux autres. Tu les traites comme des inconnus ! 
   Ce fut au tour d'Elayin de rougir.
-  - Mais non !
-  - Mais si. Tu ne veux pas te mêler à nous, et notre génération est déjà scindée. C'est mauvais, d'après les grands !
+  -Mais non !
+  -Mais si. Tu ne veux pas te mêler à nous, et notre génération est déjà scindée. C'est mauvais, d'après les grands !
   Elle cilla. Accusée ainsi, elle ne savait quoi répondre.
-  - Laisse donc, fit doucement Deshi en appuyant sa paume sur le dos d'Aran. Chacun fonctionne à son rythme.
+  -Laisse donc, fit doucement Deshi en appuyant sa paume sur le dos d'Aran. Chacun fonctionne à son rythme.
   Ce dernier grogna un peu, puis se détendit, avant de changer de sujet.
-  - J'ai entendu des rumeurs. 
-  - Quoi donc, comme rumeur ? Demanda son ami.
-  - une délégation meheenne va nous rendre visite. 
-  - pourquoi ? Fit Elayin. Pour Nine ?
-  - Ça, je n'en ai aucune idée : mais ils s'agitent aux cuisines et ne parlent que de ça !
-  Ils passèrent le reste de la soirée à discuter : Elayin se réchauffa au contact des deux garçons. Deshi sortit un paquet de cartes, et ils finirent la soirée par quelques parties endiablées qui lui arracha de grands éclats de rire.
+  -J'ai entendu des rumeurs. 
+  -Quoi donc, comme rumeur ? Demanda son ami.
+  -une délégation méheenne va nous rendre visite. 
+  -pourquoi ? Fit Elayin. Pour Nine ?
+  -Ça, je n'en ai aucune idée : mais ils s'agitent aux cuisines et ne parlent que de ça !
+  Ils passèrent le reste de la soirée à discuter : Elayin se fit plus bavarde au contact des deux garçons. Deshi sortit un paquet de cartes, et ils finirent la soirée par quelques parties endiablées qui lui arrachèrent de grands éclats de rire.
 Lorsqu'elle se coucha ce soir-là, bien plus tard que prévu, elle se sentait vraiment bien.
 
 Aran se réveilla aux aurores. La tête lourde de sommeil, il maudissait ses maîtres en s'habillant ; il n'avait vraiment pas la fibre matinal, et la petite fête de la veille n'avait pas aidé. Il ouvrit la fenêtre de sa chambre, invitant un peu d'air frais à l'intérieur de la pièce. Les montagnes brillaient au soleil, lustrées de neige. Il y perdit son regard une seconde, avant qu'un mouvement n'attire l'attention de son doshaï.
 "Mh ?"
 Une tarente rouge le dévisageait, immobile. Il sourit.
 "Oh, génial !
-  - Alors, mieux qu'un insecte, non ?"
+  -Alors, mieux qu'un insecte, non ?"
   Il leva la tête, surpris. Perchée sur le toit, tête à l'envers, Elayin lui souriait. Elle descendit agilement de son perchoir pour se faufiler dans sa chambre.
 "Je pouvais pas te laisser gagner, tout de même !
-  - Ça n'est même pas un insecte ! Rit Aran.
-  - Peut-être, mais je l'ai tout de même attrapé, et ça vaut plus qu'un scarabée ! Elle lui tira la langue, joueuse. Habille-toi, reprit-elle. Tu vas être en retard !
+  -Ça n'est même pas un insecte ! Rit Aran.
+  -Peut-être, mais je l'ai tout de même attrapé, et ça vaut plus qu'un scarabée ! Elle lui tira la langue, joueuse. Habille-toi, reprit-elle. Tu vas être en retard !
   Et elle fila dans le couloir.
-Aran soupira, sourit en regardant la tarente. Quelle bonne idée il avait eu, de l'inviter à leur soirée. Les maîtres lui avaient intimés d'essayer de connecter les autres enfants ensemble : et malgré ce qu'on aurait pu croire, il comptait bien être remplir sa mission.
-  - Ah, je vais vraiment être en retard ! S'alarma-t-il en se rappelant de l'heure. Il s'habilla précipitamment et descendit. La tarente rouge se roula en boule sur le rebord de la fenêtre, indolente, et s'endormit sous les rayons tièdes du soleil matinal.
+Aran soupira et sourit en regardant la tarente, satisfait. Quelle bonne idée il avait eu, de l'inviter à leur soirée ! Les maîtres lui avaient intimés d'essayer de connecter les autres enfants ensemble : et il comptait bien être remplir sa mission.
+  -Ah, je vais vraiment être en retard ! S'alarma-t-il en se rappelant de l'heure. Il s'habilla précipitamment et descendit. La tarente rouge se roula en boule sur le rebord de la fenêtre, indolente, et s'endormit sous les rayons tièdes du soleil matinal.
 
 ## VI
 
-L’apprentissage se poursuivait, long et ardu. Elayin arrivait enfin à se lier aux autres enfants ; elle avait construit des relations auxquelles elle ne s’attendait pas. Elle était devenue très complice avec Aran, avec qui elle partageait de nombreux jeux ; Deshi, plus réservé, était à présent un confident précieux ; Harun un impressionnant stratège, et Yoka discutait volontier avec elle après les entraînements. Elle peinait à comprendre Aldershin, qui grandissait comme une affable et parfaite jeune fille, mais se montrait désormais amicale à son égard ; quant à Ereshi et Nine, ils évitaient sciemment son contact. L’un parce qu’il traitait ainsi la totalité du groupe, l’autre parce qu’il n’appréciait pas d’être au même niveau qu’elle.
+L’apprentissage se poursuivait, long et ardu. Elayin arrivait enfin à se lier aux autres enfants ; elle avait construit des relations auxquelles elle ne s’attendait pas. Elle était devenue très complice avec Aran, avec qui elle partageait de nombreux jeux ; Deshi, plus réservé, était à présent un confident précieux ; Harun un impressionnant stratège, et Yoka discutait volontier avec elle après les entraînements. Elle peinait à comprendre Aldershin, qui grandissait comme une affable et parfaite jeune fille, mais elle se montrait au moins amicale à son égard ; quant à Ereshi et Nine, ils évitaient sciemment son contact. L’un parce qu’il traitait ainsi la totalité du groupe, l’autre parce qu’il n’appréciait pas d’être au même niveau qu’elle.
 
-Elle avait commencé à saisir Saï’posen. C’était un élément ancien, qui nécessitait d’apprendre à “devenir la montagne” : maîtrise du souffle, calme, stabilité. Ressentir le sol qui porte la vie, comprendre la roche, la terre. On l’avait fait écouter les monts du temple, ressentir le granit ; modeler l’argile jusqu’à ce qu’elle le sente vivre sous ses doigts. Ensuite, son maître était passé à Shinn’dal ; on l’avait mené à Shinja Ashire, les plus hauts pics des montagnes tenranes, pour ressentir l’air glacial et pur qui s’embrasait autour d’elle. On lui avait fait jouer d’un étrange instrument à vent, une sorte de flute qui ne produisait aucun son. Ainsi s’entamait une discussion avec l’air environnant.
+Elle avait commencé à mieux comprendre Saï’posen. C’était un élément ancien, qui nécessitait d’apprendre à “devenir la montagne” : maîtrise du souffle, calme, stabilité. Ressentir le sol qui porte la vie, comprendre la roche, la terre. On l’avait fait écouter les monts du temple, ressentir le granit ; modeler l’argile jusqu’à ce qu’elle le sente vivre sous ses doigts. Ensuite, son maître était passé à Shinn’dal ; on l’avait mené à Shinja Ashire, les plus hauts pics des montagnes tenranes, pour ressentir l’air glacial et pur qui s’embrasait autour d’elle. On lui avait fait jouer d’un étrange instrument à vent, une sorte de flute qui ne produisait aucun son, pour discuter avec l’air environnant.
 
  Elle progressait vite et satisfaisait maître Kan, qui ne manquait alors jamais d’une occasion pour la récompenser. Il lui laissait le temps de jouer après les entraînements, ce qui n’était pas le cas de tous les enseignants. C’était un mentor, et bientôt il fut comme un père.
 
-Pendant que son entraînement se passait, le monastère évoluait. La première délégation méhenne arriva quelques mois après le début de l’apprentissage. C’était un groupe d’une dizaine d’hommes et de femmes, qui apportaient de nombreux cadeaux aux moines et aux apprentis, et passaient de longs jours à s’entretenir avec le Sahn. Nine était toujours différent lorsqu’ils étaient là. Plus réservé, anxieux, et à cran qu’à l’ordinaire. Et il l’était déjà beaucoup d’ordinaire. Pour elle, cela n’était plus qu’une formalité.  
-Ces délégations se firent d’ailleurs régulières ; tous les ans, environ, parfois plus.
+Pendant que son entraînement se passait, le monastère évoluait. La première délégation méhenne arriva quelques mois après le début de l’apprentissage. C’était un groupe d’une dizaine d’hommes et de femmes, qui apportaient de nombreux cadeaux aux moines et aux apprentis, et passaient de longs jours à s’entretenir avec le Sahn. Nine était toujours différent lorsqu’ils étaient là. Plus réservé, anxieux, et à cran qu’à l’ordinaire, et il l’était déjà beaucoup d’ordinaire. Pour elle, cela n’était plus qu’une formalité.  
+Ces délégations se firent d’ailleurs régulières. Tous les ans, environ, parfois plus.
 
 Après la maîtrise des trois premiers éléments et lui avoir fait effleuré la manipulation d’aura, maître Kan offrit à Elayin de nouveaux exercices. Vers ses onze ans, vint celui de la cascade.
 
-C’était un jour à la veille du printemps. On y avait convié une partie des apprentis dans le hall, juste après leur petit-déjeuner. La gamine salua Harun et Deshi.
+C’était un jour à la veille du printemps. On y avait convié une partie des apprentis dans le hall, juste après leur petit-déjeuner. L'enfant salua Harun et Deshi.
 
-“Vous savez pourquoi on est là ?” Demanda-t-elle à ses amis. Ils secouèrent la tête. Deshi avait les joues roses, surement anxieux à l’idée de se faire disputer. Il se détendit bien vite lorsqu’ils furent accueilli par leurs maîtres ; au centre présidait Kaï, une aroatis qui semblait posséder une certaine élévation hiérarchique par rapport à ses semblables.  
-“Aujourd’hui, nous allons à la rivière, les enfants.” Dit-elle doucement. Ceux-ci échangèrent des sourires et des regards. Ils étaient déjà allés à la rivière, parfois ; nager, pour les exercices physiques ; ou juste pour s’y amuser.
+“Vous savez pourquoi on est là ?” Demanda-t-elle à ses amis. Ils secouèrent la tête. Deshi avait les joues roses, surement anxieux à l’idée de se faire disputer. Il se détendit bien vite lorsqu’ils furent accueilli par leurs maîtres ; au centre présidait Lissa, une aroatis qui semblait dominer hiérarchiquement les autres adultes. Son aura était plus présente, plus ferme, et elle tenait son regard droit.
+“Aujourd’hui, nous allons à la rivière, les enfants.” Dit-elle. Ceux-ci échangèrent des sourires et des regards. Ils étaient déjà allés à la rivière, parfois ; nager, pour les exercices physiques, ou juste pour s’y amuser.
 
 Dociles, ils se mirent alors en route. Ils n’allèrent pas juste au cours d’eau ; cette fois-ci, ils le remontèrent.  
 “Où va-t-on ? Demanda Elayin.
 
 -Aucune idée. Répondit Deshi, pensif.  
--Nous verrons bien ! Si nous nous baignons au bout, cela vaut la balade. Et le paysage est beau.” Fit doucement Harun, avec un sourire rêveur sur le visage. Elayin soupira, amusée par sa candeur, et suivit la marche. Ils étaient devenus endurants, entraînés qu’ils étaient par leurs exercices physiques quotidiens. Les maîtres essayaient cependant de ne pas les surexploiter ; ils répétaient souvent qu’un corps sain n’était pas un corps épuisé. La bonne croissance de ces enfants était nécessaire.
+-Nous verrons bien ! Si nous nous baignons au bout, cela vaut la balade. Et le paysage est beau.” Fit Harun, avec un sourire rêveur sur le visage. Elayin soupira, amusée par sa candeur, et suivit la marche. Ils étaient devenus endurants, entraînés qu’ils étaient par leurs exercices physiques quotidiens. Les maîtres essayaient cependant de ne pas les surexploiter ; ils répétaient souvent qu’un corps sain n’était pas un corps épuisé. La bonne croissance de ces enfants était nécessaire. Mais Elayin sentait bien que son corps grandissait plus mince et plat qu'il n'aurait dû ; que celui d'Aldershin, en tout cas, qui elle était dispensée des exercices de doshaï et passait son temps à apprendre les simples, l'histoires et la politique.
 
 Elayin leva le nez, inspira. L’air était agréable durant leur ascension. Deshi marchait tranquillement à ses côtés ; Harun, vivace, avait pris de l’avance. Quant à Ereshi et Nine, ils restaient à l’arrière, silencieux.
 
-L’été vibrait. Les plantes, éveillées par la chaleur, abritaient des centaines de petites vies qui bourdonnaient. Les criquets-lions perçaient le silence de leur rugissement mécanique, les marmottes sifflaient, les oiseaux accompagnaient ce concert de vie saisonnier. A ce chant s’ajoutait le bruissement de chaque brin d’herbe, chaque feuille, dansant sous la brise tiède. Les carcans de glace des rivières brisés leur permettaient de s’élancer, libres et féroces, et éclaboussaient les pierres sombres de leurs lits. C’était un chaos sans nom au doshaï des apprentis aroatis, qui en étaient rendus léthargiques. C’était probablement la raison pour laquelle l’odieux prince n’avait pas encore cherché des noises au petit trio.
+L’été vibrait. Les plantes, éveillées par la chaleur, abritaient des centaines de petites vies qui bourdonnaient. Les criquets-lions perçaient le silence de leur rugissement mécanique, les marmottes sifflaient, les oiseaux accompagnaient le concert. A ce chant s’ajoutait le bruissement de chaque brin d’herbe, chaque feuille, dansant sous la brise tiède. Les carcans de glace des rivières brisés leur permettaient de s’élancer, libres et féroces, et éclaboussaient les pierres sombres de leurs lits. C’était un chaos sans nom au doshaï des apprentis aroatis, qui en étaient rendus léthargiques. C’était probablement la raison pour laquelle l’odieux prince n’avait pas encore cherché des noises au petit trio.
 
 “Elayin, regarde !” S’exclama Deshi en la tirant par le poignet. Il semblait qu’ils étaient arrivés.
 
 L’aura du lieu faisait suffoquer aux premiers instants.
-
-C’était une clairière si sereine, si douce, qu’elle en paraissait sacrée. La plaine respirait librement l’air pur des montagnes. Chaque brin d’herbe chantait dans un bruissement discret, accompagné des doux échos des criquets-lions ; les fleurs, rouges et bleues, semblaient murmurer des mélodies secrètes ; et toutes cette cour se courbait respectueusement devant leur reine.  
-L’eau formait un pilier rugissant. La cascade dévalait la roche jusqu’à un lac serein où dansaient quelques carpes.  
-Elayin sentit son doshaï être agressé par une telle présence ; l’eau en mouvement, l’herbe, les insectes furent soudain trop pour sa tête. Elle plaqua ses mains sur ses oreilles.  
-“Nous venons ici au printemps, commença doucement son maître, car en été, ce sera pire. Viens. Tu vas apprendre à dompter ce sens que tu ne maîtrises pas encore.”
+C’était une clairière si sereine, si douce, qu’elle en paraissait sacrée. La plaine respirait librement l’air pur des montagnes. Chaque brin d’herbe chantait dans un bruissement discret ; les fleurs, rouges et bleues, murmuraient des mélodies secrètes ; et toutes cette cour s'inclinait respectueusement devant leur reine.  
+L’eau formait un pilier rugissant. La cascade dévalait la roche jusqu’à un lac serein où dansaient quelques carpes. Elayin sentit son doshaï agressé par une telle présence ; l’eau en mouvement, l’herbe, les insectes furent soudain trop pour sa tête. Elle plaqua ses mains sur ses oreilles.  
+“Nous venons ici au début du printemps, commença son maître, car en été, ce sera pire. Viens. Tu vas apprendre à dompter ce sens que tu ne maîtrises pas encore.”
 
 Et il indiqua la cascade. Elayin comprit, comme les autres ; un à un, ils se déshabillèrent, puis allèrent se placer sous la cascade.  
-Le flot rugissant les assourdissait ; l’eau les aveuglait ; et chixala, qui rugissait autour d’eux, assourdissait son doshaï.  
+Le flot rugissant les assourdissait ; l’eau les aveuglait ; et Chixala, qui rugissait autour d’eux, assourdissait son doshaï.  
 Elle savait ce qu’elle devait faire. Assise en tailleur, elle prit le temps, et se concentra ; elle devait arriver à percevoir, manipuler, toucher l’univers au-delà du fracas qui l’entourait. Apprendre la plénitude.
 
 Encore une fois, elle oublia le temps qu’elle y passa. On tira doucement sa main ; c’était Deshi.
 
 “Allez, viens. Ouvre les yeux.” Elle obéit ; l’eau y ruisselait, rendant sa vision totalement floue. Elle sortit de la cascade et s’essuya le visage de la paume de la main. Deshi semblait épuisé, comme les trois autres apprentis, affalés au bord de l’eau. Elle ne put s’empêcher de sourire, puis poussa Deshi dans l’eau.
 
-“Eh, pourquoi tu as fait ça !” Protesta-t-il, l’air vexé. Elle rit, l’éclaboussa ; si Deshi ne se laissa pas trop prendre au jeu, Harun ne tarda pas à la rejoindre pour profiter de l’eau claire. Les carpes filaient entre leurs chevilles ; elle tomba plusieurs fois sur les rochers, s’écorcha les poignets, mais ne cessa pas de rire et de jouer. Après de longues minutes, épuisée mais l’esprit serein, elle s’assit dans l’herbe avec ses compagnons.
-
+“Eh, pourquoi tu as fait ça !” Protesta-t-il, l’air vexé. Elle rit, l’éclaboussa ; si Deshi ne se laissa pas trop prendre au jeu, Harun ne tarda pas à la rejoindre pour profiter de l’eau claire. Les carpes et les loutres filaient entre leurs chevilles ; elle tomba plusieurs fois sur les rochers, s’écorcha les poignets, mais ne cessa pas de rire et de jouer. Après de longues minutes, épuisée mais l’esprit aussi clair que l'eau, elle s’assit dans l’herbe avec ses compagnons.
 “vous avez réussi ? Murmura Nine. Elle haussa les épaules.
-
--Moi, ça allait. Répondit Deshi, fier mais timide. La cascade n’a pas trop obstrué mon doshaï, et j’ai su changer la couleur d’une pierre au bord de la rivière malgré le bruit et l’eau.
-
+-Moi, ça allait, répondit Deshi, fier mais timide. La cascade n’a pas trop obstrué mon doshaï, et j’ai su changer la couleur d’une pierre au bord de la rivière malgré le bruit et l’eau.
 -Ce que tu es fort, soupira Harun. Moi, j’ai rien su faire ! Trop d’eau, partout. Impossible de passer au-delà.
-
 -Moi, j’ai su appeler des poissons, fit doucement Ereshi. C’est un peu de la triche, car ils font parti du fracas proche, en quelque sorte. Alors, ce n’était pas trop compliqué.”
-
 Elayin ne répondit pas, souriant juste.  
 “Allez, dis. Et toi? Demanda Harun en lui mettant un petit coup de coude.
-
 -Regarde.” Au bord de l’eau, là où elle s’était tenue, une colonie de scarabée s’était rassemblé. Ils disposaient tous d’une belle carapace irisée, bleue pour la plupart.
+“C’est toi qui les a amené là ?” S’étonna-t-il. Elle acquiesça. “Trop forte !” Et il lui offrit un sourire sincère. Elle avait des facilités avec chixala, et surtout les insectes. C’était de petites formes de vie, qu’elle comprenait bien ; autant que Deshi, lui, comprenait Saï’posen avec plus d’agilité que n’importe lequel d’entre eux.
 
-“C’est toi qui les a amené là ?” S’étonna-t-il. Elle acquiesça. “Trop forte !” Et il lui offrit un immense sourire sincère. Elle avait des facilités avec chixala, et surtout les insectes. C’était de petites formes de vie, qu’elle comprenait bien ; autant que Deshi, lui, comprenait Saï’posen avec plus d’agilité que n’importe lequel d’entre eux.
-
-L'exercice de la cascade se répéta, toute la saison. Lorsqu’ils le terminaient, ils étaient tous épuisés ; mais aussi bien plus proches.
+L'exercice de la cascade se répéta, toute la saison. Lorsqu’ils le terminaient, ils étaient tous épuisés; mais aussi bien plus proches les uns des autres.
 
   
 
@@ -399,87 +390,61 @@ La pluie s’était levée, battante, glacée. Aroatis qu’ils étaient, ils sa
 
 Les maîtres les firent se mettre en position de méditation.  
 Chaque éclair était un concentré d’une force nouvelle, qu’ils percevaient dans les flammes, la lumière, le souffle de vie, mêlé à chixala. C’était Karasdan, qu’ils n’avaient jamais perçu aussi fortement.  
-La première séance, ils avaient seulement médité. Elayin se demandait comment cela se faisait qu’aucun élève ne se fut pris un éclair ; elle découvrirait plus tard que d’immenses aiguilles de métal servaient à rediriger ceux-ci vers la terre. Au second orage d’été, ils commencèrent à devoir les tordre. L’exercice était difficile, car l’éclair était infiniment rapide. Il fallait le sentir venir, le saisir, lui donner une nouvelle forme, une nouvelle direction, et le relâcher aussitôt.  
+La première séance, ils avaient seulement médité. Elayin se demandait comment cela se faisait qu’aucun élève ne se fut pris un éclair ; elle découvrirait plus tard que d’immenses aiguilles de métal servaient à rediriger ceux-ci vers la terre. Au second orage d’été, ils commencèrent à devoir les tordre. L’exercice était difficile, car l’éclair était infiniment rapide. Il fallait le sentir venir, le saisir, lui donner une nouvelle forme, une nouvelle direction, et le relâcher aussitôt, en un battement de coeur.  
 Au bout d’une trentaine de séances, où parfois une foudre mal contrôlée menaçait un élève, ils surent sentir, percevoir et manipuler les orages.  
-En parallèle de cet apprentissage, il fallut apprendre à contrôler et ressentir le feu. Le feu, disaient les maîtres, était une combustion : une réaction chimique. Un doshaï bien contrôlé pouvant servir de catalyseur, c’était l’un des seul élément que les aroatis pouvait produire, et faible quantité et en présence de combustible et comburant. Créer le feu était aisée ; le contrôler, plus complexe.
+En parallèle de cet apprentissage, il fallut apprendre à contrôler et ressentir le feu. Le feu, disaient les maîtres, était une combustion, une réaction physique. Un doshaï bien contrôlé pouvant servir de catalyseur, c’était l’un des seuls éléments que les aroatis pouvait produire, en faible quantité et en présence de combustible et comburant. Créer le feu était aisée ; le contrôler, complexe.
 
-Pour acquérir la maîtrise nécessaire, ils reçurent de nombreux cours de danse. Apprendre à respirer, ondoyer, comprendre la flamme. Xo et Ereshi détestèrent ces cours. Aldershin, elle, s’y joignit avec plaisir malgré son manque de capacités.
+Pour acquérir la maîtrise nécessaire, ils reçurent de nombreux cours de danse. Apprendre à respirer, ondoyer, comprendre la flamme. Xo et Ereshi détestèrent ces cours. Aldershin, elle, s’y joignit avec plaisir.
 
   
 
 ## Rouge-gorge
 
-Dans la religion tenrane, la croyance des esprits naturels, tout ce qui était à l'unique service des interactions humaines était à rejeter.
-
-Le but était d'élever son âme, au-delà de sa nature, afin d'appréhender ces esprits ; ainsi, ce qui liait à des êtres terrestres, des humains et à fortiori des sans-doshai, était de trop.
-
-On limitait alors l'expression du désir à son strict minimum ; on apprenait aux aroatis à supporter la solitude, à se défaire de liens sociaux trop fort ; et, surtout, on limitait l'usage du langage.
+Dans la religion tenrane, tout ce qui était à l'unique service des interactions humaines était à rejeter. Le but était d'élever son âme au-delà de sa nature, afin d'appréhender ces esprits ; ainsi, ce qui liait à des êtres terrestres, des humains et à fortiori des sans-doshai, était de trop.
+On limitait alors l'expression du désir à son strict minimum ; on apprenait aux aroatis à supporter la solitude, à se défaire de liens sociaux ; et, surtout, on limitait l'usage du langage en dehors du temple.
 
 C'était pourquoi Elayin n'avait jamais chanté.
 
-Peut être lors d'une lointaine enfance ; mais en tout cas, elle ne possédait plus aucun souvenir.
-
 Lors des premières années d'apprentissage, la voix n'était ni encouragée ni réprimandée. Jusqu'à leur onze ans environ, on laissait les enfants poser les questions qui leur semblaient nécessaire, exprimer leurs souhaits, leurs plaintes.
 
-Durant cette période, elle n'en avait jamais ressenti l'envie ni le besoin. Elle profitait en certaines rares occasions des musiques instrumentales, au luth ou à la cithare, sans avoir l'idée saugrenue d'y mettre des mots.
+Durant cette période, elle n'en avait jamais ressenti l'envie ni le besoin. Elle profitait en certaines rares occasions des musiques instrumentales, au luth ou à la cithare, sans avoir l'idée saugrenue d'y mettre des mots. Ensuite, ils atteignaient l'âge du silence.
 
-Ensuite, ils atteignaient l'âge du silence.
-
-De leur onze ans et jusqu'à leur quinzième année, les apprentis se devaient de faire voeu de silence, afin d'affiner leur sens, leur réflexion sur le monde, leur humilité.
-
+De leur onze ans et jusqu'à leur quinzième année, les apprentis devaient faire voeu de silence, afin d'affiner leur sens, leur réflexion sur le monde, leur humilité.
 Enfin, au bout de quatre ans, ils avaient à nouveau le droit d'être écouté. Leurs mots avaient gagné en élégance, leurs réflexion en sagesse ; et il parlait beaucoup moins au quotidien.
 
-Ce jour-ci, cela faisait déjà plusieurs mois qu'Elayin avait récupéré le droit de parler. Silencieuse, elle était agenouillée devant son maître, sur l'herbe fine d'un plateau rocheux au-dessus du palais.
-
-Le vent glacé battait ses cheveux et ses mains. Yeux fermés, elle travaillait son attaque mentale, ses appels de doshai, contre son enseignant.
-
-  - Très bien.
-
+Ce jour-ci, cela faisait seulement plusieurs mois qu'Elayin avait récupéré le droit de parler. Silencieuse, elle était agenouillée devant son maître, sur l'herbe fine d'un plateau rocheux au-dessus du palais.
+Le vent glacé battait ses cheveux et ses mains. Yeux fermés, elle travaillait son attaque mentale, ses appels de doshaï, contre son enseignant.
+  -Très bien.
  Elle grimaça légèrement, déçue de sa performance du jour.
-
- - Il y a un sujet que j'aimerais aborder avec toi. Fit maître Kan. Peau tannée, yeux couleur café ; un tenran de l'ouest, typique. Ses tatouages, un saule et un loup, ornait chacun de ses bras, nus malgré la température.
+ -Il y a un sujet que j'aimerais aborder avec toi. Fit maître Kan. Peau tannée, yeux couleur café ; un tenran de l'ouest, typique. Ses tatouages, un saule et un loup, ornait chacun de ses bras, nus malgré la température.
 
 Elayin le dévisagea, surprise, attendant la suite.
 
-  - nous avons besoin de voix pour la cérémonie solaire.
+  -nous avons besoin de voix pour la cérémonie solaire.
 
-  Elle prit son temps pour répondre. La cérémonie solaire état une fête religieuse, où la ville se devait de présenter certains chants sacrés. Traditionnellement, ceux-ci étaient interprétés par au moins une fille et un garçon, aroatis apprentis. Elle avait lieu au solstice d'été, et se préparait de longs mois à l'avance.
+  Elle prit son temps pour répondre. La cérémonie solaire état une fête religieuse, nécessitant l'expression de chants sacrés. Traditionnellement, ceux-ci étaient interprétés par au moins une fille et un garçon, aroatis apprentis. Elle avait lieu au solstice d'été, et se préparait de longs mois à l'avance.
+  -Aldershin sera sûrement plus adaptée.
+  Dit-elle d'une voix ténue. Aldershin était plus âgée. Elle ne possédait aucun doshaï, mais surtout, elle était belle. Son corps était formée et plaisait déjà à l'oeil des gens. Pour une telle performance, elle serait sûrement parfaite. La sirène Kosha, l'appelait-on parfois, lorsqu'on apercevait la silhouette de la jeune fille en haut de la montagne de Bengaï Ukosha.
+  -Il n'est pas question d'esthétique, sinon je ne t'aurais pas adressé cette demande. Rétorqua le maître d'un ton ferme. Il est question de voix. Je ne t'ai jamais entendu chanter. Il serait temps, Elayin, pour faire notre choix.
 
-  - Aldershin sera sûrement plus adaptée.
+  Elle acquiesça. Ces chants étaient supposé permettre d'atteindre les esprits solaires, à un moment où ils seraient au meilleur de leur puissance et de leur clarté. Une grande occasion pour améliorer son doshaï.
+  -Je n'ai jamais chanté. Dit-elle. Ce n'était pas une excuse ; juste un fait. Son professeur leva les yeux vers les branches.
+  -Imite l'oiseau, répondit-il, son regard sombre dans ses yeux d'or.
 
-  dit-elle d'une voix ténue. Aldershin etait plus âgée. Elle possédait un don léger, mais sutout, elle était belle. Son corps était formée et plaisait déjà à l'oeil des gens. Pour une telle performance, elle serait sûrement parfaite. La sirène Kosha, l'appelerait-on...
-
-  - Il n'est pas question d'esthétique, sinon je ne t'aurais pas adressé cette demande. Rétorqua le maître d'un ton doux et ferme. Il est question de voix. Je ne t'ai jamais entendu chanter. Il serait temps, Elayin, pour faire notre choix. C'est un grand honneur. Les esprits solaires sont rares dans cette région.
-
-  Elle acquiesça. Ces chants étaient supposé permettre justement d'atteindre ces esprits naturels-là, à un moment où ils seraient au meilleur de leur puissance et de leur clarté. Une grande occasion pour améliorer son Doshai.
-
-  - Je n'ai jamais chanté.
-
-  Dit-elle. Ce n'était pas une excuse ; juste un fait. Son professeur leva les yeux vers les branches.
-
-  - Imite l'oiseau.
-
- Répondit-il, son regard sombre dans ses yeux d'or.
-
-Elle acquiesça d'un mouvement de tête, et entonna l'air, léger et étrange, des mésanges et des moineaux environnants.
+Elle acquiesça d'un mouvement de tête, docile, et entonna l'air, léger et étrange, des mésanges et des moineaux environnants.
 
 * * *
 
-  - Comment cela !  La jeune femme était verte de rage. C'est impossible. C'était mon rôle ! Mon doshai à besoin de cette occasion pour se renforcer !
-
-  - Calmez vous immédiatement, apprentie. Le choix est fait.
-
+  -Comment cela !  La jeune femme était verte de rage. C'est impossible. C'était mon rôle !
+  -Calmez vous immédiatement, apprentie. Le choix est fait.
  Fit maitre Kan d'un ton sec.
-
-  Elle baissa la tête. Aldershin, agenouillée sur le tapis tressé de la salle d'entraînement, sentait ses joues rougirent ; elle avait honte, mais elle était frustrée. On lui avait presque promis ce rôle, depuis toutes ces années. Elle se concentra sur son souffle. Laissa glisser ses emotions.
-
-  - Je ne comprends pas. Je chante très correctement.
-
-  - C'est vrai. Mais Elayin chante mieux.
+  Elle baissa la tête. Aldershin, agenouillée sur le tapis tressé de la salle d'entraînement, sentait ses joues rougirent ; elle avait honte, mais elle était frustrée. On lui avait presque promis ce rôle, depuis toutes ces années. Elle se concentra sur son souffle. Laissa glisser ses émotions.
+  -Je ne comprends pas. Je chante très correctement.
+  -C'est vrai. Mais Elayin chante mieux.
 
   Le ton était sans appel.
 
-  - Comment ? Elle n'a jamais chanté. Rétorqua-t-elle.
+  -Comment ? Je n'ai jamais entendu sa voix ! Rétorqua-t-elle.
 
  Le maître n'ajouta rien et se leva. Les faits étaient dit.
 
@@ -487,123 +452,81 @@ Elle acquiesça d'un mouvement de tête, et entonna l'air, léger et étrange, d
 
 Le jour de la cérémonie solaire, les apprentis étaient descendus du temple. Le palais religieux serait désert, ce soir, exceptionnellement.
 
-Ils étaient installés sur une place. Sur une scène, cinq musiciens, Harun, et Elayin.
+Ils étaient installés sur une place. Sur une scène, cinq musiciens, Harun, et Elayin. Les deux avaient revêtu des vêtements de fêtes, de tissus drapés orangés et rouges, ornés d'or et de chaînettes. La jeune fille était déboussolée, mais profondément heureuse.
 
-Les deux avaient revêtu des vêtements de fêtes, de tissus drapés orangés et rouges, ornés d'or et de chaînettes. La jeune fille était déboussolée, mais profondément heureuse.
-
-- T'inquiète pas. On sait tous que tu chantes mieux qu'elle. Glissa Yoka à Aldershin, assis dans les gradins de pierres taillée. Elle fit la moue ; Deshi grognait, dans son coin. Il n'approuvait pas l'avis des autres, comme quoi la place d'Elayin était usurpée. Il aimait son amie, et il avait confiance. En plus, aucun de ces idiots ne l'avait jamais entendu ! Lui non plus d'ailleurs...
-
-Xo et Ereshi attendaient. Les deux blocs de glace du groupe, insensibles au litige. Aran, lui, prenait parti pour Aldershin ; penchée sur son épaule, il lui murmurait quelques mots plaisants ; mais Deshi était persuadé que c'était uniquement par intérêt. Ils étaient tous à ses pieds, dernièrement... Nine était plus mesuré ; ce n'était pas qu'il aimait la jeune femme, c'était juste qu'il détestait fortement Elayin, depuis qu'elle lui avait flanqué plusieurs roustes à doshai égal.
-
-Il laissa son regard errer vers les lucioles d'été, près des tentures arborant des soleil sur fond carmin. Il avait hâte de l'entendre, vraiment.
+-Ne t'inquiète pas. On sait tous que tu chantes mieux qu'elle, glissa Yoka à Aldershin, assis dans les gradins de pierres taillée. Tout le monde savait qu'il avait un faible pour la jeune fille. Qui n'en avait pas un, d'ailleurs ? Sauf peut-être Ereshi et Nine, qui semblaient complètement désintéressés du corps féminin. Cela n'empêchait pas ce dernier de prendre partie pour Aldershin, d'ailleurs ; mais c'était juste qu'il détestait fortement Elayin, depuis qu'elle lui avait flanqué plusieurs roustes à doshai égal. Deshi, renfrogné, n'approuvait pas l'avis des autres, comme quoi la place d'Elayin était usurpée. Il aimait son amie, et il avait confiance. En plus, aucun de ces idiots ne l'avait jamais entendu ! Lui non plus d'ailleurs... Aran lui tapota l'épaule, compatissant. En retrait, Xo et Ereshi attendaient. Les deux blocs de glace du groupe, insensibles au litige.
+Deshi laissa son regard errer vers les lucioles d'été, près des tentures arborant des soleil sur fond carmin. Il avait hâte de l'entendre, vraiment.
 
 Les maîtres buvaient déjà, beaucoup. Il les entendit rire, tourna le regard. Ils devaient être saouls. L'alcool était presque un aphrodisiaque, pour les aroatis. Il les rendait beaucoup plus puissant.
+Autour, le public venus voir le spectacle. La cérémonie solaire permettait aussi de nouer des liens avec la population.
 
-Autour, des inconnus, venus voir le spectacle. La cérémonie solaire permettait aussi de nouer des liens avec la population.
-
-Un son de corde retentit et mit fin aux conversations.
-
-Puis une voix retentit, et mis fin aux doutes.
+Un son de corde retentit et mit fin aux conversations. Puis une voix retentit, et mis fin aux doutes.
 
 D'une voix claire et pure, Elayin émit ses premières notes.
 
 Vêtue de rouge.
 
-Harun l'accompagnait de sa voix douce et rauque. Les deux se mariaient bien, tant que personne n'osa interrompre.
+Harun l'accompagnait de sa voix douce et rauque. Les deux résonnaient bien, complémentaires.
 
-Le numéro finit, ce fut Aran qui parla.
+Lorsque le numéro finit, ce fut Aran qui parla.
 
-  - Oh, mais cette fille est un rouge-gorge !
+  -Oh, mais cette fille est un rouge-gorge !
 
-  s'exclama-t-il, ravi.
+Le surnom resta toute la vie d'Elayin.
 
 ## Aîné
 
 Lorsque Xo atteignit ses quinze ans, les liens entre les apprentis avaient eu le temps de se tisser avec force. Les premières dissensions au sein du groupe s’était tassés pour laisser place à de saines rivalités ; Nine et Elayin discutaient maintenant sans animosité, Deshi et Yoka partageait volontier leur repas, et même Ereshi, s’il n’était toujours pas très loquace, n’était plus fermé aux interactions que d’autres pouvaient vouloir entreprendre à son égard.
 
-Et cela, c’était grâce à lui. Personne ne le remettait en doute ; si chacun y était allé de son effort, c’était Xo qui s’était le plus investi dans le groupe. Il était venu parler à Ereshi, chaque jour, sans faute, jusqu’à ce qu’il accepte de s’ouvrir ; il avait fait des accords avec Nine pour empêcher les disputes d’escalader ; il avait tenu la bride à Aran lorsque celui-ci avait eu des vues sur Aldershin, déjà clairement amourachée de Yoka. Lorsqu’il y avait un malentendu qui ne se réglait pas, on allait voir Xo. Montagne silencieuse et impressionnante, il faisait preuve de justice et d’empathie, et ses solutions convenaient à tout le monde.
+Et cela, c’était grâce à lui. Personne ne le remettait en doute ; si chacun y était allé de son effort, c’était Xo qui s’était le plus investi dans le groupe. Il était venu voir Ereshi, assis en silence à côté de lui, chaque jour, sans faute, jusqu’à ce qu’il accepte de s’ouvrir ; il avait fait des accords avec Nine pour empêcher les disputes d’escalader ; il avait tenu la bride à Aran lorsque celui-ci avait eu des vues sur Aldershin, déjà clairement amourachée de Yoka. Lorsqu’il y avait un malentendu qui ne se réglait pas, on allait voir Xo. Montagne silencieuse et impressionnante, il faisait preuve de justice et d’empathie, et ses solutions convenaient à tout le monde.
 
-(écrire des exemples)
-
-Ses quinze ans furent aussi le jour du “retour de parole”. Il se permettait à nouveau quelques mots, comme si l’habitude avait été perdu. Il souriait plus que d’ordinaire. Il se sentait bien.  
-“-Xo ? fit dame Kya, son maître. Il releva la tête du dessin à l’encre qu’il était en train de faire.
-
+Ses quinze ans furent aussi le jour du “retour de parole”. Il se permettait à nouveau quelques mots, mais l’habitude avait été perdu. Il souriait plus que d’ordinaire. Il se sentait bien.  
+“-Xo ? fit dame Kya, son maître. Il releva la tête du dessin à l’encre qu’il était en train d'esquisser.
 -Oui, maître ?
-
 Elle s’assit en face de lui.
-
 -Xo, sais-tu comment s’organise une meute ?  
 Il sembla surpris par la question. Prit un temps de réflexion, et répondit :
-
-- Et bien, une meute se compose d’un loup dirigeant, et des autres qui l’écoutent et s’y soumettent.
-
+-Et bien, une meute se compose d’un loup dirigeant, et des autres qui l’écoutent et s’y soumettent.
 Elle acquiesça.  
 -Chaque meute a besoin d’un grand loup pour la mener, c’est cela. Maintenant, regarde tes amis.
-
-Il tourna la tête. Aran dansait sur un air de luth joué par Elayin ; Deshi regardait, l’air amusé, et les autres tentaient de suivre les pas d’Aran et de se joindre à la danse. Une fête avait lieu bientôt en ville, et tous voulait fêter les retours de parole des plus âgés du groupe. Xo sourit légèrement. Quels idiots naïfs ils faisaient.
-
+Il tourna la tête. Aran dansait sur un air de luth joué par Elayin ; Deshi regardait, l’air amusé, et les autres tentaient de suivre les pas d’Aran et de se joindre à la danse. Une fête avait lieu bientôt en ville, et tous voulait fêter les retours de parole des plus âgés du groupe à l'exception de Yoka et Aldershin, Aran et lui. Xo sourit légèrement. 
 -C’est une meute, est-ce cela que vous attendiez comme réponse ?
-
 -Oui. C’est une meute. Et cette meute, qui la gouverne ?
-
 -Personne, maître, répondit-il. Nous savons nous réguler seuls. Nous sommes humains plutôt que loup.
-
 Elle rit doucement.
-
 -Non, Xo. C’est toi. Tu ne t’en rends simplement pas compte. Nous pensions qu’Aran remplirait ce rôle, mais fait est aujourd’hui que c’est toi qui surveille et entretient la bonne entente du groupe. C’est important, Xo, qu’une génération d’aroatis soit soudée. Ton rôle est important.
-
 Il ouvrit des yeux ronds.
-
 -Comment ? Etes-vous sûrs de ce choix ?
-
--Oui, Xo. Tu seras leur Aîné.
-
-Il la dévisagea, sidéré. Etre l’aîné d’un groupe d’aroatis n’était rien de plus que ce qu’elle avait dit ; une sorte de responsable chargé de garder les mages soudés. En retour, ceux-ci lui devait respect et obéissance en cas de litige.
-
+-Oui, Xo. Tu seras leur Aîné. Vous formerez un clan.
+Il la dévisagea, sidéré. Etre l’aîné d’un groupe d’aroatis n’était rien de plus que ce qu’elle avait dit ; un responsable chargé de l'unité et de la loyauté du groupe. En retour, ceux-ci lui devait respect et obéissance en cas de litige.
 -L’accepteront-ils ?
-
 -Ils l’ont déjà accepté. Viens, suis-moi.  
 Il ne savait pas bien ce qui allait suivre. Seulement qu’être l’aîné impliquait une marque, à même la peau, permanente. Il suivit son maître, intimidé comme jamais. Si les autres le voyaient montagne, lui se sentait parfois bien minuscule devant les adultes qui s’occupaient d’eux.  
-Elle l’emmena jusqu’à une salle reculé de l’aile est du palais. Là, elle lui donna un bol d’un thé doux. Il connaissait cette préparation : elle servait à atténuer le doshaï d’un étudiant pendant une durée donnée.  
+Elle l’emmena jusqu’à une salle reculé de l’aile est du palais. Là, elle lui donna un bol de thé fumé. Il connaissait cette préparation : elle servait à atténuer le doshaï d’un étudiant pendant une durée donnée.  
 -C’est fort, maître. Dois-je donc perdre mon doshaï plusieurs jours ? Il se sentait mal à l’aise. Perdre un sens plusieurs jours entiers ne lui plaisait pas du tout.
-
 -Il le faut. Tu le récupéreras intact ensuite. Répondit-elle simplement.
-
  Elle le fit ensuite s’allonger sur une table médicale de bois. Puis elle s’inclina, et le laissa aux mains de deux inconnus. Ceux-ci le saluèrent avec un sourire engageant.  
 -Bonjour, Xo. Cela sera douloureux, mais ne soit pas inquiet. Tout se passera bien.” L’homme sortit une grosse aiguille.  
+
 Et l’enfer commença.  
   
-“-Que se passe-t-il ? Elayin redressa soudain la tête en cessant de jouer. Elle avait perçut un son. C’était curieux : son doshaï, lui, n’en percevait pas l’origine.  
+“Que se passe-t-il ?" Elayin redressa soudain la tête en cessant de jouer. Elle ne pouvait pas parler ; elle s'exprimait par des gestes. Elle avait perçut un son. C’était curieux : son doshaï, lui, n’en percevait pas l’origine.  
 -Qu’y a-t-il, Yin ? Fit Aran en cessant de danser, déçu de l’arrêt de la musique.
-
--N’avez-vous donc rien entendu ? Elle se leva. Il y a eu un cri.
-
--Un cri ? Non, rien. Mon doshaï ne ressent rien non plus.
-
--Moi non plus. C’est cela qui m’inquiète.
-
+Elle indiqua son oreille puis sa bouche, demandant ainsi si Aran n'avait pas entendu un cri.
+-Un cri ? Non, rien. Mon doshaï ne ressent rien non plus."
+"Moi non plus. C’est cela qui m’inquiète." Répondit-elle en geste.
 Il soupira lourdement.
-
 -Tu t’inquiètes pour rien, ma grande. Allez, viens. Danse avec nous ! Aran lui saisit les poignets, et la fit tournoyer en riant.  
 Ils ne s’arrêtèrent que plusieurs heures plus tard, afin d’aller dîner. Epuisée mais ravie, Elayin avait oublié cette histoire de cri étrange.
 
--Où est Xo ? Demanda Deshi de son ton calme.
+Mais après les réjouissances, on chercha Xo. On l'avait vu partir avec maître Kya ; mais c'était un jour de repos. Cela était étrange. Elayin fronça les sourcils.
 
--Je l’ai vu partir avec maître Kya.
+-Je vais le chercher, je vous rejoindrais ensuite."
 
--C’est un jour de repos, cela me surprend.  
-Il n’était pas dans la salle à manger.
+-Non, attends. Aran la saisit par le poignet avant qu’elle ne s’enfuit. Je viens."
+Harun et Deshi tinrent à venir aussi. Finalement, tous allèrent. Ils commencèrent par vérifier sa chambre, puis les salles d’entraînement et d’étude. Vides.
 
-Elayin fronça les sourcils.
-
--Je vais le chercher, je vous rejoindrais ensuite.
-
--Non, attends. Aran la saisit par le poignet avant qu’elle ne s’enfuit. Je viens.  
--Moi aussi ! S’exclama Harun.  
--De même.”  
-Finalement, tous allèrent. Ils commencèrent par vérifier sa chambre, puis les salles d’entraînement et d’étude. Vides.
-
-“-Maître Kan !” S’exclama Elayin en le voyant passer. “Maître Kan, savez-vous où est Xo ?
+“-Maître Kan !” S’exclama Aran en le voyant passer. “Maître Kan, savez-vous où est Xo ?
 
 -Oh… Oui, je le sais. Fit-il doucement. Mais vous, vous n’avez pas à le savoir. Ne vous inquiétez pas. Il sera de retour dans quelques jours.”
 
@@ -614,68 +537,51 @@ Au cours de leur recherche, elle entendit bientôt les cris qu’elle avait per�
 Là, les cris étaient atroces. C’était bien la voix de Xo ; il semblait souffrir le martyr.  
 Elayin ouvrit son doshaï. Dans la pièce, deux personnes, et Xo, au doshaï éteint. Que se passait-il ?! Une torture ? Une attaque ? Kya était-elle une traîtresse ?  
 Aran ouvrit violemment la porte. L’homme retira l’aiguille prestement.  
-“Ah, les enfants ! Vous m’avez fait peur. Allez vous en, vous gênez notre travail. Dit-il doucement.  
+“Ah, les enfants ! Vous m’avez fait peur. Allez vous-en, vous gênez notre travail. Dit-il doucement.  
 -Vous êtes en train de tuer Xo ! S’exclama Aran en se jetant sur l’homme.  
 -Il suffit !  
 Aran s’immobilisa. Maître Kya, Kan et Abliun se tenaient dans l’embrasure.  
 -Xo n’est pas torturé, et vous n’avez rien à faire ici.
 
-Ils se regardèrent, désorientés, hésitants…
+Ils se regardèrent, désorientés, hésitants… Leurs maîtres respectifs les saisirent par le bras et les sortirent de la pièce. Abliun s’inclina devant les artistes, et referma la porte. En se faisant traîner à l’extérieur, Elayin avait vu. Elle avait saisit, du coin de l’oeil, le regard implorant de Xo. Livide.
 
-Leurs maîtres respectifs les saisirent par le bras et les sortirent de la pièce. Abliun s’inclina devant les artiste, et referma la porte. En se faisant traîner à l’extérieur, Elayin avait vu. Elle avait saisit, du coin de l’oeil, le regard implorant de Xo. Livide.
-
--Expliquez-nous. Exigea la gamine. Kya la dévisagea. Elle appréciait peu le manque de respect dont elle faisait preuve, mais pouvait comprendre l’état de choc des adolescents.  
+-Expliquez-nous. Exigea Aran, le seul à pouvoir parler. Kya la dévisagea. Elle appréciait peu le manque de respect dont elle faisait preuve, mais pouvait comprendre l’état de choc des adolescents.  
 -Gardez le pour vous jusqu’à demain. Xo reçoit sa marque d’Aîné.
-
 -Oh ! Ils échangèrent un regard interloqué. Mais… Que lui faites-vous ?
-
 -On appelle cela un tatouage. De l’encre est injecté sous la peau. C’est douloureux mais bénin. Après cela, Xo bénéficiera du repos et des soins nécessaires.  
 -Et son doshaï?  
--Elayin, jamais vous n’auriez pu continuer à vivre en entendant son doshaï gonflé de douleur résonner. Et nous non plus.
-
-Elle acquiesça. C’était vrai.
-
+-Jamais vous n’auriez pu continuer à vivre en entendant son doshaï gonflé de douleur résonner. Et nous non plus.
 -Alors… Nous devons juste le laisser, ainsi ?
-
 Kya et Kan soupirèrent.
-
 -Vous le verrez demain.  
 Ils retournèrent, affligés et perturbés, retrouver les autres. Ils prétendirent n’avoir rien trouver.
 
 La nuit fut longue et difficile, mais pas autant que pour Xo.  
 Le lendemain, il réapparut au déjeuner. Il était livide et cerné, comme s’il sortait d’une lourde fièvre. Torse nue, il s’assit en face d’eux et, sans un mot, mangea le double de sa ration habituelle.
 
--Alors ? T’étais où ? Demanda Harun, curieux et inquiet de son apparence. Xo releva ses yeux sombres vers lui. Il reposa lentement sa cuillère, se leva, et se tourna.  
+"Alors ? T’étais où ?" Demanda Harun par geste, curieux et inquiet de son apparence. Xo releva ses yeux sombres vers lui. Il reposa lentement sa cuillère, se leva, et se tourna.  
 Tous furent muets de stupeur et d’admiration.  
-Dans le dos de Xo, du haut de son crâne au plus bas de son dos, un dragon étendait son corps majestueux. C’était un ouvrage d’une finesse rare, semblable à celui que semblait arborer le Sahn.  
+Dans le dos de Xo, du haut de son crâne au plus bas de son dos, un dragon étendait son corps majestueux. C’était un ouvrage d’une finesse rare, semblable à celui qu'arborait le Sahn.  
 -Qu’est ce que c’est ? Demanda Harun.
-
 -C’est la marque d’Aîné. Fit Xo en reprenant son repas. Et ça fait un mal de chien.
-
 Nouveau silence. Et puis, Harun eut un immense sourire et se jeta à son cou.
-
--Je suis si content que ça soit toi !
-
--Aïe ! Attention ! Fit Xo. Harun retira ses bras de la peau sensible.
-
--Ah. Pardon. Le nouvel Aîné lui sourit.
-
--Content que ça te plaise.  
-Aldershin sourit à son tour, ainsi que Yoka ; chacun le félicita. Même Nine, un peu frustré au début, admis qu’il devait être la meilleur option.  
-Xo ne s’attendait pas à tant de sollicitude. Il en fut heureux, assez heureux pour oublier la douleur.  
-Mais cela ne l’empêcha pas de passer la semaine suivante à recevoir des massages, des bains, et de faire de longues heures de sieste.
+-Aïe ! Attention !" Fit Xo. Harun retira ses bras de la peau sensible. Le nouvel Aîné lui sourit. "Content que ça te plaise."
+Aldershin sourit à son tour, ainsi que Yoka ; chacun le félicita. Même Nine, un peu frustré, admis qu’il devait être la meilleur option.  
+Xo ne s’attendait pas à tant de sollicitude. Il en fut heureux, assez heureux pour oublier la douleur quelques instants. La semaine suivante fut dédiée à recevoir des soins, des bains, des cataplasmes, et de longues heures de sieste.
+Xo était à présent l'Aîné ; ce serait à lui de rassembler le groupe lorsque la guerre les séparerait.
 
 ## Danse
 
 Elayin retint sa respiration. Son premier souffle commença en même temps que la musique, entraînant le mouvement. Son corps se mut, porté par les vents. Elle avait les yeux fermés. Elle sentait, comme son public d’aroatis, l’énergie qui pulsait en elle. Chaque mouvement permettait de mieux la sentir, la contrôler. Elle devenait maîtresse d’elle-même, de chaque centimètre de son corps, de chaque muscle. Elle glissait ses bras et ses jambes au rythme dicté par son cœur, s’y soumettant pour mieux le comprendre, l’attendre et le piéger.
 
-Lorsqu’elle sentit le vif de son âme devenir palpable à son doshaï, elle le saisit entre ses mains et le lança à la terre. Elle était haletante.
+Karasdan.
+
+Et soudain, lorsqu’elle sentit le vif de son âme devenir palpable à son doshaï, elle le saisit entre ses mains et le lança à la terre. Elle était haletante.
 
 Ses camarades applaudirent.
 
-- C’était très bien, Elayin. Salua son maître, enchanté.
+-C’était très bien, Elayin. Salua son maître, enchanté.
 
-La danse était une partie importante de l’entraînement aroatis.
 
 # A Auberin
 (Vieux, à relire)

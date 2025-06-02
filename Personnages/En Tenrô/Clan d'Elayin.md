@@ -60,7 +60,7 @@ Anniversaire :
 
 Origine : Tenrô ouest
 
-Age à l’entrée au palais : 5 ans
+Age à l’entrée au palais : 7 ans
 
 Maître :
 

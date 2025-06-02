@@ -1,8 +1,10 @@
 
+```table-of-contents
+```
 
 De sable et de pierre, Tenrô est un immense territoire sans âge. Sa capitale se nomme Bengaï Ukosha, et les esprits de la nature y sont vénérés avec ferveur. La population y est éparse et très inégale ; on trouve dans le désert de nombreuses petites cités esseulées, tandis que la capitale et ses villes annexes, maintenant colonies méhennes, sont modernes et développées. C’est, de plus, le berceau de cette rare magie d’esprit qu’est le doshaï. Tenrô est aussi connu pour ses exportations de soie, cultivée grâce aux vers de muriers dans les provinces du Beylos et du Beyris.
 
-### Histoire & géographie
+# Histoire & géographie
 
 #### Histoire
 
@@ -102,6 +104,8 @@ On apprend aux aroatis le concept d'âme sœur afin de les préserver de sensati
 Les aroatis sont obligés d'avoir des enfants, quitte à utiliser un autre "vecteur" pour en avoir un (couple du même sexe). Les enfants n'ont pas à avoir de sang purement aroatis, cela n'ayant jamais donné d'enfants particulièrement doués ; une ascendance partielle, cependant, suffit à susciter l’apparition de bons aroatis dans la descendance du parent, cela venant du fait que la plupart des tenrans portent en eux du sang sorsang ou sorsève à l’origine de leur pouvoir, même en faible quantité.
 
 Porte la teisha.
+Font voeu de silence de leur 11 à 15 ans.
+Rendus plus puissants par l'alcool
 #### Médecine tenrane
 
 Si les meilleurs médecins sont ceux qui usent de pouvoirs aroatis pour influencer directement le corps dans le sens de la guérison, Tenrô dispose indépendamment de ses magies une vraie culture de la médecine sacrée. Ses pratiquants utilisent des herbes, des poudres, des aiguilles ou des cristaux pour canaliser les pouvoirs des esprits et les injecter dans les corps qui en ont besoin pour les sauver. Ils dessinent des tatouages sur les corps, y plantent parfois des aiguilles. Ils en appellent à Chixala en abreuvant les malades d’eau fraîche et pur et en les lavant, à Saï’posen en les conservant dans des endroits silencieux et calme, et à Shinn’dal et Karasdan par divers chants, prières, concoctions et techniques pour atteindre le mal et le résoudre. Cependant, l’idée principale reste que le corps du malade se soigne lui-même ; le médecin ne fait que réveiller les esprits naturels pour qu’ils apportent leur aide au malade.

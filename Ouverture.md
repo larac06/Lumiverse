@@ -7,6 +7,11 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
+
+### 2/06/25
+
+Relu & corrigé :
+- Elayin : WIP jusqu'à "A auberin"
 ### 1/06/25
 
 Toutes les données sont là ! Y a plus qu'à relire, corriger, mettre à jour, et puis, mettre en forme. On va essayer une page/jour.
