@@ -78,6 +78,29 @@ Phrases :  Bien naître ne suffit malheureusement pas à dominer.
 
 J’aurais tout ce qu’il aura, et plus encore.
 
+## Fragment
+
+Un nuage se formait dans la pièce. Le regard de Théophraste s’échouait sur la ville, au loin, dont la Blanche, dont son théâtre ne faisait pas partie. Pas vraiment. Il ne voyait pas le soleil, ou la Haute ; il n’en voyait que les réflexions sur les coques miroitantes des bâtiments ouvragés, dont les courbes et les creux berçaient la lumière en mêlant les couleurs du levant.
+
+Il devait y aller. Il soupira, écrasa sa cigarette dans un cendrier déjà plein au milieu des tasses de café, vides ou presque. Il se redressa, s’étira et jeta sa veste sur son dos, prit son chapeau, et claqua la porte de son bureau. Le sang allait couler. Il n’aimait pas cela.
+
+Son dernier coup remontait à une dizaine de jours. Le collier de la duchesse, dérobé à même son cou lors d’une soirée où personne ne l’avait aperçu. Il avait bien fallu cela, après le coup précédent. Il avait substitué une statue d’un musée, un Barshah de marbre et de pierreries daté de l’époque des peuples anciens. Une pièce de collection inestimable. Et une petite milicienne, une fillette, avait retrouvé l’objet là où il l’avait soigneusement dissimulé ! Il ne pouvait pas se permettre de la laisser gagner ainsi. Il devait rester le prince des voleurs.
+
+Mais l’affaire de ce soir n’avait rien à voir avec ses petits concours de larcins. Oh, ils étaient important ; c’était ainsi qu’il avait créé une synergie de groupe, un clan uni et motivé pour la beauté du geste à voler sans violence ni dommage, à voler discret, à voler propre, à voler aux riches, à voler bien. Cependant, ça n’était pas l’origine de ce groupe de truands d’Or Lamnis ; ils étaient là pour soutenir et protéger les affaires du Pater, le plus grand requin du pays, au sein de la capitale.
+
+Il sentit une ombre dans son dos.
+
+« Tu ne vas pas aux arènes, ce soir ?
+
+-Vous allez avoir besoin de moi. » Dit simplement Elayin. Il ne put qu’acquiescer. Il était bon voleur, mais si la rencontre dégénérait, il n’en mènerait pas large. Avec elle, en revanche… Elle faisait des miracles.
+
+« Frappe sera là. » Elle haussa les épaules. Peu importait les gardes du corps musclés ; elle était la plus efficace, ils le savaient tous les deux.
+
+Il poursuivit son chemin dans la ruelle. Elle avait disparu, le suivant depuis les toits et les façades, se glissant le long des fenêtres et des cheminées. Il retrouva Frappe, Luz de son vrai nom, en terrasse d’un bar. Il salua ses compagnons de jeu et rejoignit son chef sans discuter, avec un petit sourire un coin, un peu niais. Vêtu d’un costume blanc qui tirait sur ses muscles gonflés. Toujours immaculé. Il détestait les tâches.
+
+« On va où, ce soir, chef ?
+
+-On va voir Loup."
 
 # Vieux textes
 

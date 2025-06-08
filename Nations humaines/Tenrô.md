@@ -100,6 +100,7 @@ Une fois formés, les aroatis rejoignent l’élite militaire et religieuse du p
 Un aroatis non éduqué par le système tenran traditionnel (ou méhen qui s’en rapproche) est appelé noiseur ou noiseuse, car "bruyant" pour les vrais aroatis. C’est un état que les aroatis méprisent et déplorent profondément.
 
 On apprend aux aroatis le concept d'âme sœur afin de les préserver de sensations trop douloureuses ou lourdes qui pourrait affecter durement leur entourage (s'accrocher aux fils, y effectuer des gestes maladroits, briser les pelotes qu'ils forment). Ils sont élevés dans l’idée qu’une seule personne est capable de les compléter et de partager leur vie. Ils ont donc souvent un seul compagnon durant toute leur vie, qui peut être du même sexe qu'eux sans que cela ne pose de problème. Ils sont tenus à l’écart des choses du cœur et des relations charnelles, là encore vu comme trop dangereuses ou brusques pour des êtres encore instables en formation. Les aroatis parviennent ainsi à l’âge adulte en étant très ignorant de ces sujets-là, ce qui leur vaut parfois quelques moqueries au sein de l’armée.
+Ils peuvent prendre une âme soeur après leur premier meurtre, qui les rend adulte.
 
 Les aroatis sont obligés d'avoir des enfants, quitte à utiliser un autre "vecteur" pour en avoir un (couple du même sexe). Les enfants n'ont pas à avoir de sang purement aroatis, cela n'ayant jamais donné d'enfants particulièrement doués ; une ascendance partielle, cependant, suffit à susciter l’apparition de bons aroatis dans la descendance du parent, cela venant du fait que la plupart des tenrans portent en eux du sang sorsang ou sorsève à l’origine de leur pouvoir, même en faible quantité.
 
@@ -220,3 +221,6 @@ Yoka
 
 
 # Aroatis
+
+
+jiangxi wangxian valley china

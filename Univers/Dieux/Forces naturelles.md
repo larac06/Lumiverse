@@ -4,6 +4,8 @@ Cette religion s'incarne dans des ressentis de la nature environnante. On trouve
 
 Cela n’empêche pas les méhens d'accepter des influences du panthéon dieux aveugles, qu'ils considèrent non pas comme des divinités mais simplement comme des mages puissants ; et ils rient doucement des gens de l'ouest qui croient en ces leurres.
 
+On considère comme leur messager les dragons-fauves, montagnes-des-sables, dragons célestes, tortues des sable, etc
+
 # Chixala
 
 **Chixala** représente l'eau, la guérison et la vie, mais aussi le mouvement constant, calme. Lié au concept de fluide en général, il représente la constance dans le mouvement. On apprend aux enfants à boire beaucoup d'eau au quotidien pour se maintenir en bonne santé, dans la croyance que cesser de boire rendrait la peau dure comme la pierre et empêcherait le mouvement du sang dans le corps.
@@ -35,3 +37,10 @@ Il est associé à Sahaarn dans la religion occidentale.
 # Orawinja
 
 **Orawinja** est un nouveau mot pour désigner les technologie de cuivre et de vapeur qui ne s'incluent pas dans les forces précédentes et ne relèvent plus tout à fait des forces naturelles uniquement.
+
+
+# Héros
+
+Trois figures héroïques ont été divinisés par les tenrans : Aluna, Dementor et Beijil.
+Ils sont les trois survivants de la première génération aroatis. Ils ont une telle capacité d'influence et de force sur les fils qu'ils sont en vie depuis plusieurs centaines d'années, et veillent sur le peuple tenran.
+Aluna est une chasseresse vertueuse ; Dementor est un moine dévoué à la nature et à l'écoute ; Beijil est passionnée de volupté, et se fait considérer déesse de la fertilité.

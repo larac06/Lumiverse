@@ -8,6 +8,22 @@ Work in progress !
 - Rajouter une table des matières ici pour se diriger
 
 
+### 08/06/25
+
+
+
+Besoin de smut bien angsty, donc j'ai continué de relire Elayin mais la partie avec Hester. J'ai relu/ajouté quelques scènes, j'en suis à bouffe-gorge.
+Je crois que j'ai deux reveals de sorsangs. Boarf, pas grave. 
+Continuer à relire et à réorganiser chronologiquement.
+
+Relu arrivée, arènes, rencontre avec Hester. C'que j'aime les parties sur Yin !
+relu théo
+théo 2 -> Envoyé dans théophraste sous le nom "fragment"
+tanis -> Envoyé dans Tanis sous le nom "massage"
+
+Retrouver la note "départ"
+
+ELAYIN ENTIEREMENT FINIE, PFIOUS, 35 000 MOTS !
 ### 2/06/25
 
 Relu & corrigé :

@@ -68,6 +68,37 @@ Hester poussa la porte. Elle sentait le vent glacé de l'altitude s'infiltrer de
 Qu'elle était belle.
 
 
+## Arènes
+
+- Qu’est-ce que tu penses du cru de ce soir, Zera ? Pas mal, non ?
+
+- Des débutants. Ça donne du spectacle, mais contre de vraies battants, ça éclaterait comme une pierre de lune en plein soleil.
+
+La femme balafrée partit d’un grand éclat de rire. Hester sourit ; elle appréciait cette compagnie. Elle ne se sentait sereine que dans ces gradins, face à la mort d’autrui, elle protégée. Cela lui offrait la délicieuse fierté d’avoir su se préserver des difficiles dangers de la blanche. Elle se sentait vivante face à la mort. Dal Ineis l’accompagnait ; la Dame du silence, de l’inertie, de la grande fin et de la justice. On l’aimait bien, dans le coin. Elle rendait souvent visite.
+
+De son étroite loge de marbre ouvragé située en hauteur sur les gradins, elle entendit les cris passionnés de la foule à l’entrée du colosse masqué. Une célébrité qui n’avait jamais laissé l’un de ses adversaires quitter le cercle de sable vivant. Il était aussi couturé de cicatrice que la délicate niche des deux femmes, dont les nombreuses fissurent rappelaient l’ancien et le sacré de l’endroit où elle se trouvait : l’arène de la Blanche. Encore un lieu ancien, une relique d’une antique et sublime civilisation, mise à profit par les truands qui avaient su se servir et réhabiliter ces lieux de confort, de plaisir ou de divertissement. L’arène était une plaque tournante dans le sous-commerce sombre des petits gangs d’Auberyn, et les paris généraient une confortable source de revenus à ceux qui s’en occupaient.
+
+Son adversaire arriva bientôt, frêle et souple en comparaison. Il avait l’air hâve de ceux qui se batte pour s’en sortir plus que pour la gloire. Il fonça sur le colosse, dague en avant. Il en portait deux. Le masqué n’avait que ses poings.
+
+Tout autour d’elles, hors des rares loges semblables, la foule hurlait pour accompagner la fureur du combat. Les gradins, anciennement entièrement de marbre similaire à leur loge, avait été vaguement réparé et complété de métal rouillé. Des torches illuminaient le sable, déjà tâché de sang, qui supportait depuis plusieurs heures les coups et les égorgements. En retrait, un prêtre de Dal Ineis attendait les cadavres qu’on lui amenait après les combats. Les rares soigneurs étaient dissimulés dans le dédale de couloir d’où provenaient les combattants, derrière les herses de fortune, et l’on ne devinait leur présence qu’à la vision rapide, éclairées par les flammes, d’une plume ou deux de leur manteau.
+
+Le salish bientôt sonné et ensanglanté envoya sa lame dans la mâchoire de son adversaire. Le coup porta, le colosse recula. On espéra un instant voir sa figure colorée se fissurer, mais il n’en fut rien.
+
+Zera sourit plus largement, ravie du retournement de situation. Elle était folle depuis qu’on avait ouvert son visage du coin supérieur droit au coin gauche de sa mâchoire, lui arrachant un œil par la même occasion. Hester en était persuadée ; mais elle l’appréciait, pour cette folie. Pour cette amour de la mort et de la vie, qu’elle sentait tant résonner en elle. Pour l’alcool de bonne qualité qu’elle lui faisait partager, aussi.
+
+Elle écarquilla soudain les yeux en apercevant une silhouette connue en contrebas. Elayin, calme, yeux écarquillés par la curiosité des techniques dont elle était témoin, l’aroatis regardait le combat. Elle semblait entourée d’une aura qui la protégeait des autres, et personne ne la bousculait malgré les mouvements de foule. Hester s’en détourna rapidement, bien que gêné par cette attitude calme face à un spectacle aussi violent. Bah, la tenrane était bizarre. Rien de surprenant à cela.
+
+Sa présence devint une habitude.
+
+Elayin revint voir les combats. Une, deux, trois fois.
+
+La troisième fois, Hester la chercha des yeux sur les gradins, mais ne la vit pas. Elle l’aperçut lorsque l’aroatis osa, remplie d’orgueil, pénétrer dans l’arène. Elle avait manqué de s’étouffer ; Zera, intéressée, avait émis plusieurs commentaires de professionnelles.
+
+- Une crevette celle-là, ah ! Mais les aroatis sont des professionnels... Voyons ce qu’elle a dans le ventre…
+
+D’ordinaire, aucun mage ne franchissait le sable. Ils étaient trop lents, leurs pouvoirs inutiles. Mais les aroatis ? Rien à voir : ils étaient taillés pour le combat, sculpté dans un but militaire par leur ordre. Il ne pratiquait pas la belle science, la magestria ; mais l’art des esprits, une pratique exotique, étrangère, inconnue. Hester ne se rendit même pas compte qu’elle s’était avancée sur son siège, pleine d’intérêt pour le duel qui s’annonçait. On en sonna le début du combat.
+
+
 
 ## Interlude
 
