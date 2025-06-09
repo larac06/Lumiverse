@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/En Tenrô/Elayin.md",
+                "file": "Ouverture.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d95852bb75a0c0",
+  "active": "4514d8eaae544284",
   "lastOpenFiles": [
     "Personnages/En Tenrô/Elayin.md",
     "Ouverture.md",

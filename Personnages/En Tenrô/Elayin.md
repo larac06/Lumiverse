@@ -2,6 +2,8 @@
 ```table-of-contents
 ```
 
+
+Pour rencontrer Elayin et découvrir son histoire, je conseille de sauter l'aperçu et de passer directement aux extraits suivants. Je garde cependant cet aperçu en tête de page pour mon propre usage.
 # Aperçu
 
 Elayin d’Ukosha vient de [Tenrô](<../../Nations humaines/Tenrô.md>), où elle passa avec succès le test du silence de Bengaï Ukosha et devient aroatis. Elle s’attache à suivre les préceptes de ses mentors à la lettre, s’efforçant de percevoir le monde avec sérénité et sagesse. 
@@ -13,7 +15,7 @@ Mais Hester refuse d'accepter son départ.
 Elle quitte Auberin à son tour, bien décider à retrouver l'impératrice et lui demander des comptes.
 
 
-Physiquement, Elayin est une jeune femme élancée et anguleuse, à la peau peau couleur miel, aux yeux fins et dorés, cheveux longs, lisses, noirs, lèvres fines et orangées. Son nez est droit, ses pommettes hautes. Son corps est souple, musclé par l’entraînement, presque maigre en conséquence de la rigueur de l’entraînement tenran. Elle porte diverses cicatrices de son entraînement ainsi que des marques de brûlures au dos obtenues lors de sa tentative d'exécution. En Tenrô, elle porte des sous-vêtements de bandages de coton sous sa tunique rouge, sa teisha, drapée sur un pantalon court s’arrêtant aux mollets, ainsi qu’une paire de souliers de cuir souple et discrets. Arrivé au Théâtre, elle recevra des vêtements occidentaux ; chemise noire, pantalon de toile, bretelles. Ses silences, la droiture de sa posture, sa taille et son regard jaune la rendent intimidante pour la plupart des blancs.
+Physiquement, Elayin est une jeune femme élancée et anguleuse, à la peau couleur miel, aux yeux fins et dorés, cheveux longs, lisses, noirs, lèvres fines et orangées. Son nez est droit, ses pommettes hautes. Son corps est souple, musclé par l’entraînement, presque maigre en conséquence de la rigueur de l’entraînement tenran. Elle porte diverses cicatrices de son entraînement ainsi que des marques de brûlures au dos obtenues lors de sa tentative d'exécution. En Tenrô, elle porte des sous-vêtements de bandages de coton sous sa tunique rouge, sa teisha, drapée sur un pantalon court s’arrêtant aux mollets, ainsi qu’une paire de souliers de cuir souple et discrets. Arrivé au Théâtre, elle recevra des vêtements occidentaux ; chemise noire, pantalon de toile, bretelles. Ses silences, la droiture de sa posture, sa taille et son regard jaune la rendent intimidante pour la plupart des blancs.
 
 Par sa nature aroatis, Elayin dispose d’un doshaï. Cette magie lui permet de jouer avec les fils de flux qui l’entourent sans les couper. Elle peut ainsi influencer mentalement son environnement et s'en sert pour se rendre discrète ou comme d'une arme.
 

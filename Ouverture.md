@@ -7,6 +7,8 @@ Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
 
+### 09/06/25
+à faire : rajouter les autres grosses histoires
 
 ### 08/06/25
 
