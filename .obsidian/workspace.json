@@ -8,55 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50d95852bb75a0c0",
+            "id": "ccbccae008c426e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Une nouvelle d'Auberyn/24. Epilogue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23621f3b9c8e1f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Sylithes/1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e6ffbc89a358aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Sylithes/2..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df60ee1994fcc1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ouverture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "932550c3fad0d971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ouverture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35549bf379baa939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/Dieux/Forces naturelles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585d9c577594a334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nations humaines/Tenrô.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,44 +183,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4514d8eaae544284",
+  "active": "df60ee1994fcc1a8",
   "lastOpenFiles": [
-    "Personnages/En Tenrô/Elayin.md",
-    "Ouverture.md",
-    "Univers/Dieux/Forces naturelles.md",
-    "Nations humaines/Tenrô.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Hester.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Tanis.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Théophraste.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Or Lamnis.md",
-    "Univers/Les ordres/Les ordres.md",
-    "Personnages/A felithis/Marek.md",
-    "Personnages/En Tenrô/Clan d'Elayin.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Nelan.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Massiko.md",
-    "Personnages/En Elyon/A Auberin/Or Lamnis/Luz.md",
-    "Personnages/A felithis/Azun.md",
-    "Autres/Extraits en vrac.md",
-    "Nations humaines/Mehua.md",
-    "Personnages/En Elyon/A Auberin/Arinae/Talora.md",
-    "Nations non-humaines/Sorsangs.md",
-    "Personnages/Aux royaumes/Abanceau/Alisandre Songeciel.md",
-    "Nations non-humaines/Sylithes.md",
-    "Personnages/Aux royaumes/Colveil/Aurexan.md",
-    "Personnages/Aux royaumes/Dalmes/Indie.md",
-    "Personnages/En Kishar/Kasaï.md",
-    "Personnages/Aux royaumes/Colveil/Aménosthène Ombelune.md",
-    "Ãménosthène Ombelune.md",
+    "Histoires/Sylithes/0. Aperçu.md",
+    "Histoires/Sylithes/2..md",
+    "Histoires/Sylithes/1..md",
+    "Histoires/Une nouvelle d'Auberyn/24. Epilogue.md",
+    "Histoires/Une nouvelle d'Auberyn/23. Sphère.md",
+    "Histoires/Une nouvelle d'Auberyn/22. Décisions.md",
+    "Histoires/Une nouvelle d'Auberyn/21. Ruelles.md",
+    "Histoires/Une nouvelle d'Auberyn/20. Préparatifs.md",
+    "Histoires/Une nouvelle d'Auberyn/19. Captive.md",
+    "Histoires/Une nouvelle d'Auberyn/18. Chançards.md",
+    "Histoires/Une nouvelle d'Auberyn/17. Rendez-vous.md",
+    "Histoires/Une nouvelle d'Auberyn/16. Le plan.md",
+    "Histoires/Une nouvelle d'Auberyn/15. Curiosité.md",
+    "Histoires/Une nouvelle d'Auberyn/14. De retour.md",
+    "Histoires/Une nouvelle d'Auberyn/12. Chat bleu.md",
+    "Histoires/Une nouvelle d'Auberyn/13. Périlleuses entreprises.md",
+    "Histoires/Une nouvelle d'Auberyn/11. Les enfants.md",
+    "Histoires/Une nouvelle d'Auberyn/10. Arènes.md",
+    "Histoires/Une nouvelle d'Auberyn/9. Terrier.md",
+    "Histoires/Une nouvelle d'Auberyn/8. Madame.md",
+    "Histoires/Une nouvelle d'Auberyn/7. Arlette.md",
+    "Histoires/Une nouvelle d'Auberyn/6. Massiko.md",
+    "Histoires/Une nouvelle d'Auberyn/5. Le théâtre.md",
+    "Histoires/Une nouvelle d'Auberyn/4. Visite.md",
+    "Histoires/Une nouvelle d'Auberyn/3. Contrat.md",
+    "Histoires/Une nouvelle d'Auberyn/2. Au creux de l'oreiller.md",
+    "Histoires/L'artisan",
+    "Histoires/Sylithes",
+    "Histoires/Casse",
+    "Histoires/Une nouvelle d'Auberyn",
+    "Histoires/Le corbeau d'Alisandre",
+    "Histoires",
     "Personnages/A Mehua",
     "Personnages/En Elyon/A Auberin/Arinae",
     "Personnages/En Elyon/A Auberin/Or Lamnis/Massiko",
     "Personnages/En Elyon/A Auberin/Or Lamnis",
-    "Personnages/En Elyon/A runethia",
-    "Personnages/En Elyon",
-    "Personnages/Aux royaumes/Calice",
-    "Personnages/Aux royaumes/Colveil",
-    "Personnages/Aux royaumes/Abanceau",
-    "Personnages/Aux royaumes/Dalmes",
     "clip_image004.gif",
     "Illustrations/Dal_Ineis.jpg",
     "Illustrations/Ios.jpg",
