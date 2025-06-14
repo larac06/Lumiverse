@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/I. 12. Chat bleu.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/I. 12. Chat bleu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/I. 12. Chat bleu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md"
+                "file": "Histoires/Une nouvelle d'Auberyn/I. 12. Chat bleu.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "df60ee1994fcc1a8",
   "lastOpenFiles": [
-    "Histoires/Une nouvelle d'Auberyn/II. 10. Arènes.md",
-    "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 11. Les enfants.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 10. Arènes.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 13. Périlleuses entreprises.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 12. Chat bleu.md",
     "Histoires/Une nouvelle d'Auberyn/I. 9. Terrier.md",
     "Histoires/Une nouvelle d'Auberyn/I. 8. Madame.md",
     "Histoires/Une nouvelle d'Auberyn/I. 7. Arlette.md",
@@ -185,8 +187,6 @@
     "Histoires/Une nouvelle d'Auberyn/19. Captive.md",
     "Histoires/Une nouvelle d'Auberyn/18. Chançards.md",
     "Histoires/Une nouvelle d'Auberyn/17. Rendez-vous.md",
-    "Histoires/Une nouvelle d'Auberyn/16. Le plan.md",
-    "Histoires/Une nouvelle d'Auberyn/15. Curiosité.md",
     "Histoires/L'artisan",
     "Histoires/Sylithes",
     "Histoires/Casse",
