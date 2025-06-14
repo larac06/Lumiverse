@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "23621f3b9c8e1f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoires/Sylithes/1..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e6ffbc89a358aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoires/Sylithes/2..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df60ee1994fcc1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/II. 2. Les enfants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/II. 2. Les enfants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/II. 2. Les enfants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ouverture.md"
+                "file": "Histoires/Une nouvelle d'Auberyn/II. 2. Les enfants.md"
               }
             }
           }
@@ -185,6 +161,18 @@
   },
   "active": "df60ee1994fcc1a8",
   "lastOpenFiles": [
+    "Histoires/Une nouvelle d'Auberyn/II. 1. Arènes.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 9. Terrier.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 8. Madame.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 7. Arlette.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 6. Massiko.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 5. Le théâtre.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 4. Visite.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 3. Contrat.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 2. Au creux de l'oreiller.md",
+    "Histoires/Une nouvelle d'Auberyn/I. 1. Salon.md",
+    "Histoires/Une nouvelle d'Auberyn/0. Aperçu.md",
+    "Ouverture.md",
     "Histoires/Sylithes/0. Aperçu.md",
     "Histoires/Sylithes/2..md",
     "Histoires/Sylithes/1..md",
@@ -199,18 +187,6 @@
     "Histoires/Une nouvelle d'Auberyn/16. Le plan.md",
     "Histoires/Une nouvelle d'Auberyn/15. Curiosité.md",
     "Histoires/Une nouvelle d'Auberyn/14. De retour.md",
-    "Histoires/Une nouvelle d'Auberyn/12. Chat bleu.md",
-    "Histoires/Une nouvelle d'Auberyn/13. Périlleuses entreprises.md",
-    "Histoires/Une nouvelle d'Auberyn/11. Les enfants.md",
-    "Histoires/Une nouvelle d'Auberyn/10. Arènes.md",
-    "Histoires/Une nouvelle d'Auberyn/9. Terrier.md",
-    "Histoires/Une nouvelle d'Auberyn/8. Madame.md",
-    "Histoires/Une nouvelle d'Auberyn/7. Arlette.md",
-    "Histoires/Une nouvelle d'Auberyn/6. Massiko.md",
-    "Histoires/Une nouvelle d'Auberyn/5. Le théâtre.md",
-    "Histoires/Une nouvelle d'Auberyn/4. Visite.md",
-    "Histoires/Une nouvelle d'Auberyn/3. Contrat.md",
-    "Histoires/Une nouvelle d'Auberyn/2. Au creux de l'oreiller.md",
     "Histoires/L'artisan",
     "Histoires/Sylithes",
     "Histoires/Casse",

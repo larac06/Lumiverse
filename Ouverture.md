@@ -14,6 +14,7 @@ Pour tout un tas de raisons, mon cerveau est complètement bloqué, c'est un enf
 Alors, j'en profite pour réorganiser.
 J'ai rajouté tous mes gros projets dans le dossier "histoires", comme ça, elles seront accessibles ! Même si elles sont imparfaites, elles me plaisent et méritent mieux que de rester oubliées dans mes dossiers, tiens, même si je doute que beaucoup de monde passe les lire ici. Au moins, elles sont affichées !
 Il faut que je corrige et relise la partie 3 du casse, mais mushy mushy brain... Bref. On va peut-être jouer à deltarune à la place. J'ai déjà bien travaillé aujourd'hui.
+Oh et puis un jour faudra que je fasse une sauvegarde autre part, sur un disque dur par exemple. C'est pas tout mais ça compte tout ça !
 ### 09/06/25
 à faire : rajouter les autres grosses histoires
 
