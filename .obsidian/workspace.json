@@ -20,19 +20,43 @@
             }
           },
           {
+            "id": "5d2c70540bd30d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 1. Alisandre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "df60ee1994fcc1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
+                "file": "Histoires/Casse/3. 1. Alisandre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24b2c1292324cf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 2. Arhel & Luz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
+                "file": "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md"
+                "file": "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md"
               }
             }
           }
@@ -159,23 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df60ee1994fcc1a8",
+  "active": "4514d8eaae544284",
   "lastOpenFiles": [
-    "Histoires/Une nouvelle d'Auberyn/II. 16. Le plan.md",
+    "Histoires/Casse/3. 1. Alisandre.md",
+    "Histoires/Casse/3. 2. Arhel & Luz.md",
+    "Histoires/Une nouvelle d'Auberyn/II. 19. Captive.md",
+    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
+    "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
     "Histoires/Une nouvelle d'Auberyn/II. 17. Rendez-vous.md",
+    "Histoires/Une nouvelle d'Auberyn/II. 16. Le plan.md",
     "Histoires/Une nouvelle d'Auberyn/II. 15. Curiosité.md",
     "Histoires/Une nouvelle d'Auberyn/II. 13. Périlleuses entreprises.md",
     "Histoires/Une nouvelle d'Auberyn/II. 14. De retour.md",
     "Histoires/Une nouvelle d'Auberyn/II. 12. Chat bleu.md",
     "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
     "Histoires/Une nouvelle d'Auberyn/II. 10. Arènes.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
     "Histoires/Une nouvelle d'Auberyn/III. 22. Décisions.md",
     "Histoires/Une nouvelle d'Auberyn/III. 23. Sphère.md",
     "Histoires/Une nouvelle d'Auberyn/III. 21. Ruelles.md",
     "Histoires/Une nouvelle d'Auberyn/III. 20. Préparatifs.md",
-    "Histoires/Une nouvelle d'Auberyn/II. 19. Captive.md",
-    "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
     "Histoires/Une nouvelle d'Auberyn/I. 9. Terrier.md",
     "Histoires/Une nouvelle d'Auberyn/I. 8. Madame.md",
     "Histoires/Une nouvelle d'Auberyn/I. 7. Arlette.md",
@@ -185,8 +211,6 @@
     "Histoires/Une nouvelle d'Auberyn/I. 3. Contrat.md",
     "Histoires/Une nouvelle d'Auberyn/I. 2. Au creux de l'oreiller.md",
     "Histoires/Une nouvelle d'Auberyn/I. 1. Salon.md",
-    "Histoires/Une nouvelle d'Auberyn/0. Aperçu.md",
-    "Ouverture.md",
     "Histoires/L'artisan",
     "Histoires/Sylithes",
     "Histoires/Casse",
