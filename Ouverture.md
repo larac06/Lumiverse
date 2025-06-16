@@ -6,6 +6,9 @@
 Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
+### 17/06/25
+
+Ajouté les 3 première sous-parties de la partie 3 du casse. J'aurais voulu trouver mieux que "comme une lettre à la poste pour arhel", un truc malin, qui fait ref à l'univers. Mais bon, mushy mushy brain, ça ira pour ce soir. Keep going, polish later, comme on dit (personne dit ça)
 
 ### 14/06/25
 

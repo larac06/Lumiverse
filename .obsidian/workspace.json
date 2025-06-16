@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Casse/3. 3. Réunion.md",
+                "file": "Ouverture.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Casse/3. 3. Réunion.md",
+                "file": "Ouverture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Casse/3. 3. Réunion.md",
+                "file": "Ouverture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Casse/3. 3. Réunion.md"
+                "file": "Ouverture.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4514d8eaae544284",
+  "active": "b8165b05a7473d23",
   "lastOpenFiles": [
-    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
     "Histoires/Casse/3. 3. Réunion.md",
+    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
     "Histoires/Casse/3. 1. Alisandre.md",
     "Histoires/Casse/3. 2. Arhel & Luz.md",
     "Histoires/Une nouvelle d'Auberyn/II. 19. Captive.md",
