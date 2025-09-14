@@ -8,36 +8,96 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ccbccae008c426e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d2c70540bd30d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoires/Casse/3. 1. Alisandre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df60ee1994fcc1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Casse/3. 1. Alisandre.md",
+                "file": "Histoires/Casse/3. 3. Réunion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90cd6bb58f57f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 4 Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d7467b0529d5f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 4 Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131c92e060347a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 5 (P)rendre les coups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4b3cfe9a97c5617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 6 Serrure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b80103e1b2dfb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 6 Serrure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32c7fbb3b948a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoires/Casse/3. 8 Le magister.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4009f697646f5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ouverture.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Casse/3. 2. Arhel & Luz.md",
+                "file": "Histoires/Sylithes/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ouverture.md",
+                "file": "Nations non-humaines/Sorsangs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -195,12 +255,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8165b05a7473d23",
+  "active": "c4009f697646f5a9",
   "lastOpenFiles": [
+    "Histoires/Casse/3. 8 Le magister.md",
+    "Histoires/Casse/3. 6 Serrure.md",
+    "Histoires/Casse/3. 7 Filer.md",
+    "Histoires/Casse/3. 5 (P)rendre les coups.md",
+    "Histoires/Casse/3. 4 Combat.md",
+    "Histoires/Sylithes/1..md",
+    "Histoires/Sylithes/2..md",
     "Histoires/Casse/3. 3. Réunion.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
-    "Histoires/Casse/3. 1. Alisandre.md",
     "Histoires/Casse/3. 2. Arhel & Luz.md",
+    "Histoires/Casse/3. 1. Alisandre.md",
+    "Histoires/Casse/2. La serre.md",
+    "Histoires/Une nouvelle d'Auberyn/III. 24. Epilogue.md",
+    "Histoires/Sylithes/0. Aperçu.md",
+    "Histoires/Casse/1. Bouffe-gorge.md",
+    "Nations non-humaines/Sorsangs.md",
+    "Ouverture.md",
     "Histoires/Une nouvelle d'Auberyn/II. 19. Captive.md",
     "Histoires/Une nouvelle d'Auberyn/II. 18. Chançards.md",
     "Histoires/Une nouvelle d'Auberyn/II. 17. Rendez-vous.md",
@@ -211,18 +283,6 @@
     "Histoires/Une nouvelle d'Auberyn/II. 12. Chat bleu.md",
     "Histoires/Une nouvelle d'Auberyn/II. 11. Les enfants.md",
     "Histoires/Une nouvelle d'Auberyn/II. 10. Arènes.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 22. Décisions.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 23. Sphère.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 21. Ruelles.md",
-    "Histoires/Une nouvelle d'Auberyn/III. 20. Préparatifs.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 9. Terrier.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 8. Madame.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 7. Arlette.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 6. Massiko.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 5. Le théâtre.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 4. Visite.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 3. Contrat.md",
-    "Histoires/Une nouvelle d'Auberyn/I. 2. Au creux de l'oreiller.md",
     "Histoires/L'artisan",
     "Histoires/Sylithes",
     "Histoires/Casse",

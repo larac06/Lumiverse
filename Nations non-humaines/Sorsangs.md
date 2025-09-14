@@ -302,6 +302,9 @@ A proximité des villages sorsangs, il arrive que la forte concentration de leur
 
 Un animal-sorcière peut aussi être conçu artificiellement en insérant un cristal ou artefact divers dans l’abdomen ou crâne d’un animal, mais cette pratique est considéré comme une violation de la vie (ou de la mort, si c’est un cadavre) de la créature et sévèrement réprimandé, à moins que cela ne soit de première nécessité pour la sécurité du village.
 
+
+
+Calendrier basé sur la lune plutôt que sur le soleil (écho sylithes) ? Jour qui commence au coucher du soleil et non au lever ?
 ### Aides et sources
 
 #### Noms
@@ -449,3 +452,4 @@ Cela irait, comme disait son père.
 -> renard
 
 -> rituel
+

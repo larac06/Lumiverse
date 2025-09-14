@@ -6,6 +6,11 @@
 Work in progress !
 
 - Rajouter une table des matières ici pour se diriger
+
+
+## 14/09/25
+
+Après une pause beaucoup trop longue, me voici de retour ! J'ai fini de mettre à jour le Casse. Next step : reprendre le roman, continuer à écrire ce qui me passe par la tête, continuer à mettre à jour le wiki, et explorer mon nouvel univers !
 ### 17/06/25
 
 Ajouté les 3 première sous-parties de la partie 3 du casse. J'aurais voulu trouver mieux que "comme une lettre à la poste pour arhel", un truc malin, qui fait ref à l'univers. Mais bon, mushy mushy brain, ça ira pour ce soir. Keep going, polish later, comme on dit (personne dit ça)
