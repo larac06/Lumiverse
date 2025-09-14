@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ouverture](README.md)
+* [Ouverture](Ouverture.md)
 * [Bestiaire](bestiaire/README.md)
   * [Aethers](Bestiaire/Aethers.md)
   * [Dragons](Bestiaire/Dragons.md)
