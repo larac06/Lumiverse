@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Casse/3. 8 Le magister.md",
+                "file": "Ouverture.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&#x20;",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,13 +174,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "176aafb2d3f1afed",
@@ -196,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Casse/3. 8 Le magister.md",
+                "file": "Ouverture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Casse/3. 8 Le magister.md",
+                "file": "Ouverture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Casse/3. 8 Le magister.md"
+                "file": "Ouverture.md"
               }
             }
           }
@@ -259,6 +257,7 @@
   },
   "active": "c32c7fbb3b948a07",
   "lastOpenFiles": [
+    "Histoires/Casse/3. 8 Le magister.md",
     "Histoires/Casse/3. 7 Filer.md",
     "Personnages/aux-royaumes/dalmes/README.md",
     "Personnages/aux-royaumes/colveil/README.md",
@@ -286,7 +285,6 @@
     "Histoires/Casse/3. 4 Combat.md",
     "Histoires/Casse/3. 6 Serrure.md",
     "Histoires/Casse/3. 2. Arhel & Luz.md",
-    "Histoires/Casse/3. 8 Le magister.md",
     "Ouverture.md",
     "SUMMARY.md",
     "Univers/villes-and-regions/en-elyon/README.md",
