@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Casse/3. 7 Filer.md",
+                "file": "Histoires/Casse/3. 8 Le magister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Casse/3. 7 Filer.md",
+                "file": "Histoires/Casse/3. 8 Le magister.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Casse/3. 7 Filer.md"
+                "file": "Histoires/Casse/3. 8 Le magister.md"
               }
             }
           }
@@ -257,12 +257,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4009f697646f5a9",
+  "active": "c32c7fbb3b948a07",
   "lastOpenFiles": [
+    "Histoires/Casse/3. 7 Filer.md",
+    "Personnages/aux-royaumes/dalmes/README.md",
+    "Personnages/aux-royaumes/colveil/README.md",
+    "Personnages/aux-royaumes/abanceau/README.md",
+    "Personnages/aux-royaumes/README.md",
+    "Personnages/aux-royaumes/dalmes",
+    "Personnages/aux-royaumes/colveil",
+    "Personnages/aux-royaumes/abanceau",
+    "Personnages/aux-royaumes",
+    "Personnages/aux-etats-salins/README.md",
+    "Personnages/aux-etats-salins",
+    "Personnages/a-mehua/README.md",
+    "Personnages/a-mehua",
+    "Personnages/a-felithis/README.md",
+    "Personnages/a-felithis",
+    "nations-non-humaines/README.md",
+    "nations-non-humaines",
+    "nations-humaines/README.md",
+    "nations-humaines",
+    "Histoires/une-nouvelle-dauberyn/README.md",
+    "Histoires/une-nouvelle-dauberyn",
+    "Histoires/le-corbeau-dalisandre/README.md",
+    "Histoires/lartisan/README.md",
     "Histoires/Casse/3. 3. Réunion.md",
     "Histoires/Casse/3. 4 Combat.md",
     "Histoires/Casse/3. 6 Serrure.md",
-    "Histoires/Casse/3. 7 Filer.md",
     "Histoires/Casse/3. 2. Arhel & Luz.md",
     "Histoires/Casse/3. 8 Le magister.md",
     "Ouverture.md",
@@ -271,30 +293,8 @@
     "Univers/villes-and-regions/aux-etats-salins/README.md",
     "Univers/villes-and-regions/aux-royaumes-occidentaux/README.md",
     "Univers/villes-and-regions/README.md",
-    "Univers/villes-and-regions/en-elyon",
-    "Univers/villes-and-regions/aux-etats-salins",
-    "Univers/villes-and-regions/aux-royaumes-occidentaux",
-    "Univers/villes-and-regions",
     "Univers/Magie/README.md",
     "Univers/les-ordres/README.md",
-    "Univers/les-ordres",
-    "Univers/Dieux/README.md",
-    "Univers/README.md",
-    "Personnages/en-tenro/README.md",
-    "Personnages/en-tenro",
-    "Personnages/en-kishar/README.md",
-    "Personnages/en-kishar",
-    "Personnages/en-elyon/a-auberin/or-lamnis/README.md",
-    "Personnages/en-elyon/a-auberin/arinae/README.md",
-    "Personnages/en-elyon/a-runethia/README.md",
-    "Personnages/en-elyon/a-auberin/README.md",
-    "Personnages/en-elyon/a-auberin/or-lamnis",
-    "Personnages/en-elyon/a-auberin/arinae",
-    "Personnages/en-elyon/README.md",
-    "Personnages/en-elyon/a-runethia",
-    "Histoires/Casse/3. 5 (P)rendre les coups.md",
-    "Histoires/Sylithes/1..md",
-    "Histoires/Sylithes/2..md",
     "clip_image004.gif",
     "Illustrations/Dal_Ineis.jpg",
     "Illustrations/Ios.jpg",
