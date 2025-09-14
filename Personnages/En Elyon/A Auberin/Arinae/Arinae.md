@@ -1,6 +1,7 @@
+# Arinae
 
-Le clan d'Arinae est beaucoup plus chaotique.
-Formé par Talora lors de son retour à Auberyn, il est vite devenu un clan puissant dû à son manque d'éthique. Il recrute beaucoup de membres, leur permet tout, dans la mesure de la protection du clan. Sinon, de sévères sentences sont appliquées.
+Le clan d'Arinae est beaucoup plus chaotique.\
+Formé par Talora lors de son retour à Auberyn, il est vite devenu un clan puissant dû à son manque d'éthique. Il recrute beaucoup de membres, leur permet tout, dans la mesure de la protection du clan. Sinon, de sévères sentences sont appliquées.\
 Il est symbolisé par un oiseau ? Serpent ?
 
 Tous les dégénérés, assassins, sans moral y sont les bienvenus.
@@ -9,68 +10,57 @@ Arinae fait avant tout trafics de gens (mages, sorsang, êtres aquatiques, fille
 
 Ses membres s'organisent soit en petit clan, soit seul, et reçoivent de l'argent à chaque mission effectuée, celle ci étant commandité par les plus haut dans la hiérarchie (hiérarchie consistant en : donner des ordres et être écouté fais de vous un chef)
 
-
 Audun, Rye, Zera, Bouffe-gorge
 
 Ake Ackermann
 
-Maison de joie : la félicité
+Maison de joie : la félicité
 
-Bar : le Pélican ivre, le dernier verre (plus chic)
+Bar : le Pélican ivre, le dernier verre (plus chic)
 
-#### Talora
+**Talora**
 
-**Maître (Donna, baronne ? ) :** Talora De Weil
+**Maître (Donna, baronne ? ) :** Talora De Weil
 
 Aime faire voleur les gens par-dessus le bord
 
-**Second :** Audun
+**Second :** Audun
 
 Amant à la relation compliquée
 
-**Généraux :**
+**Généraux :**
 
-- Nance
+* Nance
+* Del Rio
+* Don Elias
 
-- Del Rio
+**Mages :** Innick
 
-- Don Elias
+Docteur ?
 
-**Mages :** Innick
+**Femmes de roches :**
 
-Docteur ?
+* Barshi
+* Eryl
 
-**Femmes de roches :**
+**Membres à qui donner un rôle :**
 
-- Barshi
+* Saen
+* Adris
+* Charan
+* Zera
+* la femme qui voulait faire signer Elayin
+* jahseh
 
-- Eryl
+**Leurs clans :**
 
-**Membres à qui donner un rôle :**
+* Ogre
+* Aigles noirs
+* Les harpies (exclusivement des femmes)
 
-- Saen
+A la résidence :
 
-- Adris
-
-- Charan
-
-- Zera
-
-- la femme qui voulait faire signer Elayin
-
-- jahseh
-
-**Leurs clans :**
-
-- Ogre
-
-- Aigles noirs
-
-- Les harpies (exclusivement des femmes)
-
-A la résidence :
-
-- Aaron
+* Aaron
 
 Le maître.
 
@@ -78,89 +68,87 @@ Le maître.
 
 **- Arhel**
 
-- Loris -> rename ?
+* Loris -> rename ?
+* Alyss ?
+* Lorei ?
+* Kasai ?
 
-- Alyss ?
+En dehors :
 
-- Lorei ?
+* Marek
+* Ulme
 
-- Kasai ?
-
-En dehors :
-
-- Marek
-
-- Ulme
-
-#### Adris
+**Adris**
 
 Agente de Talora. Jeune rouquine qui aime faire exploser des trucs.
 
-#### Rose
+**Rose**
 
 Agente importante de Talora. Elle travaillait avec elle au bordel, plus jeune. Elle était désespérée. Talora est venue l’y chercher pour l’engager. La soif de vengeance la rend incroyablement douée.
 
 Elle ne se considère plus comme une femme. Son apparence est la plus neutre possible, toujours androgyne. As du maquillage, elle sait en un instant transformer son attitude et son corps pour prendre n’importe quel rôle. Pour son enfance, elle en veut au monde entier, et tue à présent sur ordre de Talora.
 
-#### L’homme au masque
+**L’homme au masque**
 
 Un autre garde du corps de talora. Un tenran qui porte un masque (cf child of light) et des tatouages partout. Un colosse.
 
+### Taylor
 
-
-
-## Taylor
-
-Cheveux courts bruns roux, comme ses yeux
-Peau blanche et taches de rousseur
-Arinae (perroquet)
-Vit dans son manoir 
-Pouvoirs psychiques peu contrôlés, origines tenranes de sa mère qui lui a enseigné
+Cheveux courts bruns roux, comme ses yeux\
+Peau blanche et taches de rousseur\
+Arinae (perroquet)\
+Vit dans son manoir\
+Pouvoirs psychiques peu contrôlés, origines tenranes de sa mère qui lui a enseigné\
 Gère elle-même la majeure partie de ses affaires
 
-## Audun
+### Audun
 
-Son compagnon qu'elle a piégé pour le garder a ses côtés ; cheveux noirs presques bleus, yeux verts
-Colérique, brutal
-Grand et bien taillé
+Son compagnon qu'elle a piégé pour le garder a ses côtés ; cheveux noirs presques bleus, yeux verts\
+Colérique, brutal\
+Grand et bien taillé\
 Finit par l'aider dans ses magouilles
 
-### Rye
+#### Rye
 
 Fille d'audun. Cheveux noués en tresse, noirs-bleutés aussi ; devenue apprentie de Sauge
 
-## Innick
+### Innick
 
 Mage de guérison venant du gang des aigles noirs, proche de Taylor. Chétif, blonds aux yeux bleus, s'occupe des roches qu'il connait depuis longtemps. Porte un long manteau rouge
 
-### Barshi et Eryl
+#### Barshi et Eryl
+
 Femmes de roche a la solde de Taylor
 
-### Zera
+#### Zera
 
-Fan de combat de rue. Grosse cicatrice sur le visage
+Fan de combat de rue. Grosse cicatrice sur le visage\
 Musclée, fine et élancée, Zera aurait fait une très jolie fille ; mais sa peau était profondément couturée de cicatrices en tout endroit, stigmates de son amour des arènes des docks. Ses dents effilées lui donnaient l'air inquiétant, et son regard brun, à peine plus sombre que sa peau, brillait toujours d'un léger éclat de folie.
 
-### jahseh
+#### jahseh
+
 Jahseh contrastait avec son amie. Il ne salissait jamais sa chemise, bien qu'elle dissimulat une utile lame courte. Non, lui, sous ses cheveux platines et ses grands yeux violets typiques de la région, il préférait s'immiscer chez les riches et se faire maître du commerce de secrets.
 
-### Nance
-Vulgaire, petit blond qui ne supporte pas l'ascendant de Taylor... mais n'a pas le choix.
-Gère les finances
+#### Nance
+
+Vulgaire, petit blond qui ne supporte pas l'ascendant de Taylor... mais n'a pas le choix.\
+Gère les finances\
 Proxénète ?
 
-### Hevel
+#### Hevel
+
 Pirate épais qui gèrent les navires
 
-### Eshire
+#### Eshire
+
 Sénateur
 
-### Lanstrey
+#### Lanstrey
 
-# Gang sous sa tutelle :
-Les aigles sombres (son précédent gang)
+## Gang sous sa tutelle :
+
+Les aigles sombres (son précédent gang)\
 Les ogres
 
-
-  - > trafic armes + humains
-Les gens les plus dérangés
+* > trafic armes + humains\
+  > Les gens les plus dérangés

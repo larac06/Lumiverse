@@ -1,9 +1,10 @@
-*Mort, protection, inertie, gravité, ordre*
+# Dal Ineis
 
+_Mort, protection, inertie, gravité, ordre_
 
 ![Dal Ineis](../../Illustrations/Dal_Ineis.jpg)
 
-# La légende
+## La légende
 
 Dal Ineis fascine autant qu’elle terrifie. Elle est déesse de la justice, de la magie, de la mort et de la protection. Elle est celle qui enveloppe les mortels de son étouffant voile de velours, celle qui les isole du danger comme de la lumière du jour. Représentée parfois sous les traits d’une femme, parfois sous ceux d’un capricorne, elle est connue pour être une ensorceleuse à la puissance immense appréciant les métamorphoses, de son corps comme de ceux des autres.
 
@@ -13,9 +14,9 @@ Elle est représentée comme une silhouette fantomatique à quatre bras, vêtue 
 
 Les temples de Dal Ineis sont les tribunaux et les cimetières, qui sont le plus souvent conçus dans des teintes sombres et drapés de tentures de velours.
 
-A [Auberin](<../Villes & régions/En Elyon/Auberin>), le temple de Dal Ineis est appelé le palais des murmures. C'est une structure judiciaire conçue de multiples dômes sombres.
+A [Auberin](../Villes%20&%20r%C3%A9gions/En%20Elyon/Auberin/), le temple de Dal Ineis est appelé le palais des murmures. C'est une structure judiciaire conçue de multiples dômes sombres.
 
-# La réalité
+## La réalité
 
-La femme qui incarna Dal Ineis faisait partie de la première expédition qui avait pour but d'explorer les ruines avelis, une fois la guerre terminée.
+La femme qui incarna Dal Ineis faisait partie de la première expédition qui avait pour but d'explorer les ruines avelis, une fois la guerre terminée.\
 Elle y obtint la capacité d’utiliser et de convertir la foi de ses semblables en puissance de flux. Elle se montrait sage, mais cruelle et impitoyable ; chaque nouveau fidèle lui offrait un fil qu’elle attachait à sa propre personne, accroissant son pouvoir.
